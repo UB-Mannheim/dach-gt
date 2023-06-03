@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>168_05d38_default.jpg</fileName>
+      <fileIdentifier>https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034304_00169/full/full/0/default.jpg</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT279" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT117" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2388"
+          HEIGHT="3304"
+          PHYSICAL_IMG_NR="168"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2388"
+                  HEIGHT="3304">
+        <TextBlock HPOS="661"
+                   VPOS="1365"
+                   WIDTH="586"
+                   HEIGHT="175"
+                   ID="eSc_textblock_99ca68bc"
+                   TAGREFS="BT279">
+          <Shape><Polygon POINTS="1168 1365 1247 1417 1247 1495 1210 1540 712 1532 661 1510 668 1387 1168 1365"/></Shape>
+          <TextLine ID="eSc_line_ee8c207c"
+                    BASELINE="685 1435 1212 1439" 
+                    HPOS="680"
+                    VPOS="1371"
+                    WIDTH="531"
+                    HEIGHT="107">
+            <Shape><Polygon POINTS="986 1371 958 1373 930 1373 903 1376 875 1376 848 1379 820 1379 815 1379 683 1387 683 1434 680 1473 809 1464 853 1470 908 1478 911 1478 914 1478 947 1467 999 1451 1206 1456 1211 1437 1209 1393 1074 1393 1071 1390 1010 1371 986 1371"/></Shape>
+	    <String CONTENT=""
+                    HPOS="680"
+                    VPOS="1371"
+                    WIDTH="531"
+                    HEIGHT="107"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4132b21a"
+                    BASELINE="689 1513 1220 1513" 
+                    HPOS="688"
+                    VPOS="1442"
+                    WIDTH="529"
+                    HEIGHT="276">
+            <Shape><Polygon POINTS="688 1511 688 1693 804 1715 807 1718 906 1718 906 1715 908 1715 941 1698 950 1696 958 1701 991 1715 994 1715 997 1715 999 1715 1038 1701 1052 1712 1052 1715 1054 1715 1057 1715 1060 1715 1063 1715 1093 1704 1107 1698 1214 1704 1217 1511 1217 1453 1195 1442 1192 1442 1189 1442 1187 1442 1049 1456 958 1467 895 1467 875 1453 864 1445 862 1445 859 1445 856 1445 853 1445 851 1445 842 1453 837 1456 831 1453 820 1442 818 1442 815 1442 812 1442 809 1442 790 1451 765 1464 688 1451 688 1511"/></Shape>
+	    <String CONTENT=""
+                    HPOS="688"
+                    VPOS="1442"
+                    WIDTH="529"
+                    HEIGHT="276"></String>
+          </TextLine>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

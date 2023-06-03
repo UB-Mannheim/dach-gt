@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://api.digitale-sammlungen.de/iiif/image/v2/bsb00034304_00169/full/full/0/default.jpg">
+	<Creator>escriptorium</Creator>
+	<Created>2023-06-03T11:25:54.925380+00:00</Created>
+        <LastChange>2023-06-03T11:25:54.925391+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="168_05d38_default.jpg" imageWidth="2388" imageHeight="3304">
+
+    
+    <TextRegion id="eSc_textblock_99ca68bc"  custom="structure {type:text;}">
+      <Coords points="1168,1365 1247,1417 1247,1495 1210,1540 712,1532 661,1510 668,1387 1168,1365"/>
+      
+      
+      <TextLine id="eSc_line_ee8c207c" >
+        <Coords points="986,1371 958,1373 930,1373 903,1376 875,1376 848,1379 820,1379 815,1379 683,1387 683,1434 680,1473 809,1464 853,1470 908,1478 911,1478 914,1478 947,1467 999,1451 1206,1456 1211,1437 1209,1393 1074,1393 1071,1390 1010,1371 986,1371"/>
+        <Baseline points="685,1435 1212,1439"/>
+        <TextEquiv conf="0.997976404428482">
+          <Unicode>von Enndt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_4132b21a" >
+        <Coords points="688,1511 688,1693 804,1715 807,1718 906,1718 906,1715 908,1715 941,1698 950,1696 958,1701 991,1715 994,1715 997,1715 999,1715 1038,1701 1052,1712 1052,1715 1054,1715 1057,1715 1060,1715 1063,1715 1093,1704 1107,1698 1214,1704 1217,1511 1217,1453 1195,1442 1192,1442 1189,1442 1187,1442 1049,1456 958,1467 895,1467 875,1453 864,1445 862,1445 859,1445 856,1445 853,1445 851,1445 842,1453 837,1456 831,1453 820,1442 818,1442 815,1442 812,1442 809,1442 790,1451 765,1464 688,1451 688,1511"/>
+        <Baseline points="689,1513 1220,1513"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
