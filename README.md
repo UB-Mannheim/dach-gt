@@ -17,5 +17,5 @@ perl -i -ne "tr|\r||d; next if /^\s*$/;print" *.xml
 rm -f $(grep -L 'CONTENT="..*"' *.xml)
 
 # Remove PAGE files without fulltext.
-rm $(grep -L '<Unicode>..*</Unicode>' *.xml)
+rm -f $(grep -L '<Unicode>..*</Unicode>' *.xml)
 ```
