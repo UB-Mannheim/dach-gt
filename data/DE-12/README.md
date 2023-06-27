@@ -4,8 +4,8 @@
 
 ### URL examples
 
+* IIIF manifest – https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034304/manifest
 * METS file – http://daten.digitale-sammlungen.de/~db/mets/bsb00034304_mets.xml
-
 
 ### Useful commands for data handling
 
