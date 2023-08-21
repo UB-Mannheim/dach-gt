@@ -1,11 +1,15 @@
 ## Bayerische Staatsbibliothek / Münchener DigitalisierungsZentrum (MDZ)
 
 * Vinzenz, Ferrer, Heiliger: Hienach hebt an ein wunderberlicher tractat... von dem ende der weltt (1486), [Original](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00034304-6), [mit Volltext](https://dfg-viewer.bib.uni-mannheim.de/viewer?tx_dlf%5Bid%5D=https%3A%2F%2Fub-backup.bib.uni-mannheim.de%2F~stweil%2Fd-gt%2Fdata%2FDE-12%2Furn%3Anbn%3Ade%3Abvb%3A12-bsb00034304-6%2Fmets.xml)
+* Franck, Sebastian: Chronica, Zeytbuch und geschychtbibel ... (1531), [Original](https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11196826-6)
 
 ### URL examples
 
 * IIIF manifest – https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034304/manifest
 * METS file – http://daten.digitale-sammlungen.de/~db/mets/bsb00034304_mets.xml
+
+It looks like not all books of MDZ have a METS link. The above METS link also does not always works.
+Here is another alternative: https://www.zvdd.de/dms/load/mets-xml/?PPN=urn:nbn:de:bvb:12-bsb00034304-6.
 
 ### Useful commands for data handling
 
