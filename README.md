@@ -5,7 +5,7 @@
 * [Thüringer Universitäts- und Landesbibliothek](data/DE-27)
 * [Universitäts- und Stadtbibliothek Köln](data/DE-38)
 * [Universitäts- und Landesbibliothek Düsseldorf](data/DE-61)
-
+* [Hochschulbibliothek Fachhochschule Potsdam](data/DE-525)
 
 ### Collection of useful commands
 
