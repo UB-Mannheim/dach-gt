@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
+	<Creator>escriptorium</Creator>
+	<Created>2023-09-01T11:30:03.457736+00:00</Created>
+        <LastChange>2023-09-01T11:30:03.457769+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="Criminal-Ordnung.pdf_page_1.png" imageWidth="2480" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_98ccba2c"  >
+      <Coords points="98,354 147,1352 2107,1455 2361,1076 1803,584 1104,527"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_57510dd6"  >
+      <Coords points="2297,1197 2297,1201 2325,1201 2325,1197"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+    
+    
+      <TextLine id="eSc_line_f6b24235" >
+        <Coords points="745,640 742,660 757,672 760,672 763,672 766,672 1731,666 1734,651 1734,593 745,581 745,640"/>
+        <Baseline points="747,641 1735,654"/>
+        <TextEquiv>
+          <Unicode>Digitales Brandenburg</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_ff90f366" >
+        <Coords points="523,815 523,830 1959,827 1962,812 1953,762 520,762 523,815"/>
+        <Baseline points="524,817 1963,815"/>
+        <TextEquiv>
+          <Unicode>hosted by Universitätsbibliothek Potsdam</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_e74d2dbd" >
+        <Coords points="195,1064 193,1084 2301,1084 2304,1069 2304,1014 195,1008 195,1064"/>
+        <Baseline points="198,1066 2305,1071"/>
+        <TextEquiv>
+          <Unicode>Allgemeines Criminalrecht für die Preußischen Staaten</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_f7a57a9c" >
+        <Coords points="985,1181 982,1198 1497,1201 1503,1186 1500,1131 985,1122 985,1181"/>
+        <Baseline points="986,1183 991,1183 1504,1188"/>
+        <TextEquiv>
+          <Unicode>Criminal-Ordnung</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    
+      <TextLine id="eSc_line_0e200515" >
+        <Coords points="1020,1356 1017,1365 1459,1371 1465,1362 1465,1306 1435,1292 1433,1292 1430,1292 1020,1300 1020,1356"/>
+        <Baseline points="1022,1359 1468,1364"/>
+        <TextEquiv>
+          <Unicode>Berlin, 1806</Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>

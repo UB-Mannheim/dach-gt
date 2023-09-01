@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
+	<Creator>escriptorium</Creator>
+	<Created>2023-09-01T11:30:03.491970+00:00</Created>
+        <LastChange>2023-09-01T11:30:03.491996+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="Criminal-Ordnung.pdf_page_7.png" imageWidth="2480" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_d1737084"  custom="structure {type:text;}">
+      <Coords points="440,265 848,280 910,317 809,387 506,372 452,348 440,265"/>
+      
+      
+      <TextLine id="eSc_line_532e7517" custom="structure {type:default;}">
+        <Coords points="887,305 869,294 857,286 822,278 813,278 697,278 688,272 676,272 657,272 637,270 618,270 598,270 579,268 559,268 540,266 520,266 501,266 481,265 462,265 446,268 440,290 436,319 754,337 774,343 844,356 846,356 887,348 891,325 891,307 887,305"/>
+        <Baseline points="440,290 750,321 891,325"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_fcc32057" custom="structure {type:default;}">
+        <Coords points="822,333 467,302 467,341 464,370 520,399 522,399 524,399 526,399 561,381 569,378 582,385 602,397 604,397 606,397 608,397 610,397 612,397 621,391 635,381 688,399 690,399 692,399 694,399 696,399 713,389 729,405 735,411 735,413 736,413 738,413 740,413 742,413 744,413 748,409 758,401 826,419 834,366 832,362 822,333"/>
+        <Baseline points="467,341 834,366"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_ae1c1c61"  custom="structure {type:text;}">
+      <Coords points="1323,958 1433,966 1464,1081 1394,1112 1177,1112 1162,974 1323,958"/>
+      
+      
+      <TextLine id="eSc_line_5f7a6207" custom="structure {type:default;}">
+        <Coords points="1251,964 1232,966 1212,968 1193,970 1193,1003 1193,1023 1257,1029 1259,1003 1257,964 1251,964"/>
+        <Baseline points="1193,1003 1259,1003"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e628a40b" custom="structure {type:default;}">
+        <Coords points="1241,1005 1222,1005 1202,1005 1201,1001 1183,1001 1183,1042 1179,1128 1329,1130 1335,1048 1333,1007 1241,1003 1241,1005"/>
+        <Baseline points="1183,1042 1335,1048"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_bc4d6fb6"  custom="structure {type:text;}">
+      <Coords points="1355,1223 1534,1247 1534,1377 1263,1377 1263,1239 1355,1223"/>
+      
+      
+      <TextLine id="eSc_line_b8fce9ba" custom="structure {type:default;}">
+        <Coords points="1444,1235 1425,1231 1405,1229 1386,1227 1366,1225 1355,1223 1343,1223 1327,1227 1308,1229 1288,1233 1277,1235 1269,1290 1267,1329 1296,1331 1298,1331 1300,1331 1302,1331 1302,1329 1319,1313 1366,1327 1368,1327 1370,1327 1372,1327 1415,1315 1444,1327 1450,1294 1450,1235 1444,1235"/>
+        <Baseline points="1269,1290 1450,1294"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_48fc55cd" custom="structure {type:default;}">
+        <Coords points="1317,1342 1316,1405 1431,1405 1433,1344 1431,1305 1317,1297 1317,1342"/>
+        <Baseline points="1317,1342 1433,1344"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_02be42ea"  custom="structure {type:text;}">
+      <Coords points="1947,1699 1994,1736 1723,1736 1731,1715 1947,1699"/>
+      
+      
+      <TextLine id="eSc_line_eebaee5d" custom="structure {type:default;}">
+        <Coords points="1832,1707 1832,1730 1830,1765 1863,1761 1865,1732 1852,1707 1840,1705 1832,1707"/>
+        <Baseline points="1832,1730 1865,1732"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+      
+      <TextLine id="eSc_line_e24e6e73" custom="structure {type:default;}">
+        <Coords points="1976,1724 1957,1709 1937,1699 1922,1699 1918,1699 1920,1730 1920,1752 1998,1740 1998,1728 1994,1701 1975,1697 1976,1724"/>
+        <Baseline points="1920,1730 1998,1728"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_a97a18bc"  custom="structure {type:text;}">
+      <Coords points="1222,2401 1238,2401 1238,2406 1216,2414 1222,2401"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_927fbc9d"  custom="structure {type:text;}">
+      <Coords points="738,2050 840,2058 840,2071 670,2063 738,2050"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_9abb1ce5"  custom="structure {type:text;}">
+      <Coords points="926,304 926,309 920,309 920,304 926,304"/>
+      
+    </TextRegion>
+    
+
+    
+    <TextRegion id="eSc_dummyblock_">
+      <Coords points="0,0 0,0"/>
+    
+    
+      <TextLine id="eSc_line_4ee802d7" custom="structure {type:default;}">
+        <Coords points="682,2075 682,2134 705,2134 705,2075 705,2028 682,2024 682,2075"/>
+        <Baseline points="682,2075 705,2075"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+    
+    </TextRegion>
+    
+  </Page>
+</PcGts>
