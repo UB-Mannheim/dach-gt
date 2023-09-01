@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
+	<Creator>escriptorium</Creator>
+	<Created>2023-09-01T11:30:03.623349+00:00</Created>
+        <LastChange>2023-09-01T11:30:03.623365+00:00</LastChange>
+
+  </Metadata>
+  <Page imageFilename="Criminal-Ordnung.pdf_page_13.png" imageWidth="2480" imageHeight="3508">
+
+    
+    <TextRegion id="eSc_textblock_25cf53c6"  custom="structure {type:text;}">
+      <Coords points="1546,966 1799,995 1557,1042 1247,1034 1294,982 1546,966"/>
+      
+      
+      <TextLine id="eSc_line_9f663396" custom="structure {type:default;}">
+        <Coords points="1555,966 1536,966 1516,966 1514,966 1497,968 1477,970 1458,970 1438,972 1419,972 1399,974 1380,976 1360,976 1341,978 1321,980 1302,980 1302,1029 1302,1075 1335,1075 1335,1073 1337,1073 1339,1073 1356,1058 1394,1071 1395,1071 1397,1071 1403,1071 1487,1056 1561,1066 1563,1029 1561,966 1555,966"/>
+        <Baseline points="1302,1029 1563,1029"/>
+        <TextEquiv>
+          <Unicode></Unicode>
+        </TextEquiv>
+      </TextLine>
+
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_8e101df2"  custom="structure {type:text;}">
+      <Coords points="1828,990 1830,1019 1817,1019 1824,1011 1828,990"/>
+      
+    </TextRegion>
+    
+    <TextRegion id="eSc_textblock_5bbf8c9e"  custom="structure {type:text;}">
+      <Coords points="2117,997 2127,997 2127,1019 2105,1011 2117,997"/>
+      
+    </TextRegion>
+    
+
+    
+  </Page>
+</PcGts>
