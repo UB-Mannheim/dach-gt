@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
 	<Creator>escriptorium</Creator>
-	<Created>2023-09-01T11:30:03.978405+00:00</Created>
-        <LastChange>2023-09-01T11:30:03.978422+00:00</LastChange>
+	<Created>2023-09-04T11:43:40.473291+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.473308+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Criminal-Ordnung.pdf_page_24.png" imageWidth="2480" imageHeight="3508">
     <TextRegion id="eSc_textblock_52d9d79a"  custom="structure {type:text;}">
@@ -54,21 +54,21 @@
         <Coords points="330,686 330,716 1351,719 1354,686 1351,622 666,628 640,613 637,613 634,613 330,613 330,686"/>
         <Baseline points="331,689 1355,689"/>
         <TextEquiv>
-          <Unicode>Iſt ein Gefaͤngniß zugleich für Civil⸗ und</Unicode>
+          <Unicode>Iſt ein Gefaͤngniß zugleich fuͤr Civil⸗ und</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_1f7b6446" custom="structure {type:default;}">
         <Coords points="1579,648 1550,646 1520,643 1491,640 1462,637 1438,634 1374,634 1374,686 1374,710 1602,713 1605,686 1605,651 1579,648"/>
         <Baseline points="1377,689 1608,689"/>
         <TextEquiv>
-          <Unicode>Absonderung</Unicode>
+          <Unicode>Abſonderung</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_20bd3eee" custom="structure {type:default;}">
         <Coords points="424,689 394,689 365,689 336,689 333,686 219,686 219,754 216,789 1351,777 1354,762 1351,701 444,689 424,689"/>
         <Baseline points="222,756 1232,756 1355,763"/>
         <TextEquiv>
-          <Unicode>Polizei⸗Arreſtanten beſtimmt; ſo muſſen die Cri⸗</Unicode>
+          <Unicode>Polizei⸗Arreſtanten beſtimmt; ſo muͤſſen die Cri⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_19461538" custom="structure {type:default;}">
@@ -89,7 +89,7 @@
         <Coords points="1433,727 1403,727 1374,727 1374,762 1371,827 1444,803 1447,768 1441,727 1433,727"/>
         <Baseline points="1377,765 1450,769"/>
         <TextEquiv>
-          <Unicode>neu.</Unicode>
+          <Unicode>nen.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b795816b" custom="structure {type:default;}">
@@ -100,22 +100,22 @@
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ad037a72" custom="structure {type:default;}">
-        <Coords points="224,960 222,982 259,984 280,1001 282,1001 284,1001 286,1001 288,1001 317,986 319,986 382,986 384,986 397,999 397,1001 399,1001 401,1001 403,1001 405,1001 454,988 464,986 516,990 717,1005 719,1007 889,1007 889,1005 891,1005 914,997 941,990 968,999 990,1007 992,1007 994,1007 1084,1001 1154,997 1212,1005 1251,1009 1253,1009 1255,1009 1257,1009 1261,1005 1280,993 1356,1007 1358,1007 1360,1007 1362,1007 1390,993 1415,1009 1423,970 1419,915 1394,929 1265,929 1253,917 1253,915 1251,915 1249,915 1160,914 1158,914 1140,915 1062,925 968,915 931,912 930,912 898,915 832,923 818,915 814,912 813,912 811,912 809,912 807,912 799,915 777,923 684,923 672,915 666,910 664,910 662,910 660,910 658,910 643,915 623,921 493,915 354,908 352,908 350,908 335,915 331,917 329,915 323,910 323,908 321,908 319,908 317,908 315,908 313,908 306,915 304,915 302,915 296,910 296,908 294,908 292,908 290,908 224,914 224,960"/>
-        <Baseline points="224,960 1423,970"/>
+        <Coords points="222,958 219,991 1380,996 1386,967 1383,915 222,912 222,958"/>
+        <Baseline points="224,960 1387,970"/>
         <TextEquiv>
           <Unicode>Theilnehmer des Verbrechens, von einander ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0246d88a" custom="structure {type:default;}">
-        <Coords points="220,1036 222,1067 274,1054 319,1067 321,1067 323,1067 325,1069 551,1069 551,1067 553,1067 555,1067 557,1066 573,1054 688,1064 690,1036 690,1001 479,988 477,988 475,988 440,997 436,999 430,997 395,988 393,988 391,988 220,995 220,1036"/>
-        <Baseline points="220,1036 690,1036"/>
+        <Coords points="219,1034 219,1069 584,1061 584,1034 584,991 219,979 219,1034"/>
+        <Baseline points="220,1036 585,1036"/>
         <TextEquiv>
           <Unicode>trennt werden.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_41e8ab5f" custom="structure {type:default;}">
-        <Coords points="715,1112 715,1136 885,1138 889,1110 885,1058 834,1046 832,1046 713,1054 715,1112"/>
-        <Baseline points="715,1112 889,1110"/>
+        <Coords points="713,1110 713,1140 871,1151 877,1107 871,1052 710,1049 713,1110"/>
+        <Baseline points="715,1112 878,1110"/>
         <TextEquiv>
           <Unicode>§. 27.</Unicode>
         </TextEquiv>
@@ -194,7 +194,7 @@
         <Coords points="220,1886 218,1917 302,1909 386,1919 401,1921 403,1921 428,1919 528,1911 540,1919 543,1923 545,1923 547,1923 549,1923 551,1923 567,1919 602,1911 647,1911 655,1919 658,1921 658,1923 660,1923 662,1923 664,1923 690,1919 740,1911 791,1919 820,1923 822,1923 824,1923 840,1919 861,1913 873,1919 887,1925 889,1925 891,1925 947,1919 998,1913 1039,1919 1095,1927 1097,1927 1374,1917 1376,1894 1374,1847 1179,1835 1177,1835 1175,1835 1173,1835 1165,1843 1162,1845 1158,1843 1152,1837 1152,1835 1150,1835 1148,1835 1037,1833 1035,1833 1033,1833 1007,1839 982,1847 965,1839 953,1833 951,1833 861,1833 859,1833 857,1833 855,1833 852,1837 838,1847 789,1837 787,1837 709,1845 697,1835 696,1833 696,1831 694,1831 692,1831 690,1831 672,1833 627,1843 579,1833 577,1833 575,1833 573,1833 551,1845 382,1845 364,1830 362,1830 360,1830 358,1830 356,1830 310,1843 220,1828 220,1886"/>
         <Baseline points="220,1886 1376,1894"/>
         <TextEquiv>
-          <Unicode>ſchloſſen, und ſo weit es möglich iſt, abgeſondert</Unicode>
+          <Unicode>ſchloſſen, und ſo weit es moͤglich iſt, abgeſondert</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_64f67835" custom="structure {type:default;}">
@@ -233,10 +233,10 @@
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f3e81665" custom="structure {type:default;}">
-        <Coords points="1587,2282 1413,2282 1411,2280 1394,2264 1394,2262 1392,2262 1390,2262 1388,2262 1329,2270 1317,2260 1316,2260 1314,2260 1312,2260 1241,2262 1240,2262 1238,2262 1220,2276 1216,2278 1210,2276 1165,2258 1163,2258 994,2258 992,2258 990,2258 963,2270 955,2274 931,2270 863,2258 861,2258 775,2268 729,2272 713,2266 676,2252 674,2252 633,2252 631,2252 629,2252 627,2252 614,2264 612,2266 608,2264 575,2250 573,2250 571,2250 569,2250 524,2262 501,2268 337,2260 337,2315 335,2344 425,2334 446,2348 448,2348 450,2348 452,2350 555,2350 703,2350 703,2348 705,2348 707,2348 725,2338 863,2338 896,2352 902,2354 904,2354 906,2354 926,2352 1017,2342 1093,2342 1115,2354 1119,2356 1121,2356 1123,2356 1124,2356 1130,2354 1165,2344 1204,2356 1214,2358 1216,2358 1218,2358 1220,2358 1232,2356 1269,2346 1339,2356 1366,2360 1368,2360 1390,2356 1438,2348 1454,2358 1460,2362 1462,2362 1464,2362 1466,2362 1608,2358 1610,2330 1600,2295 1587,2282"/>
-        <Baseline points="337,2315 920,2315 1610,2330"/>
+        <Coords points="336,2312 333,2341 1359,2347 1365,2324 1365,2265 1269,2248 1266,2248 1190,2259 1172,2262 1155,2259 1108,2248 1105,2248 1102,2248 935,2253 795,2259 336,2242 336,2312"/>
+        <Baseline points="337,2315 920,2315 1366,2325"/>
         <TextEquiv>
-          <Unicode>Die gewoͤhnliche Koſt der Gefangnen muß Bekoͤſtigung.</Unicode>
+          <Unicode>Die gewoͤhnliche Koſt der Gefangnen muß</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5c89cf5c" custom="structure {type:default;}">
@@ -244,6 +244,13 @@
         <Baseline points="224,2383 1370,2391"/>
         <TextEquiv>
           <Unicode>vom Richter nach den Umſtaͤnden beſtimmt wer⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcbbc3e5" >
+        <Coords points="1605,2309 1579,2286 1371,2265 1371,2324 1368,2376 1602,2397 1608,2329 1605,2318 1605,2309"/>
+        <Baseline points="1372,2325 1610,2330"/>
+        <TextEquiv>
+          <Unicode>Bekoͤſtigung.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_10336d19" custom="structure {type:default;}">

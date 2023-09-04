@@ -2,15 +2,15 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
 	<Creator>escriptorium</Creator>
-	<Created>2023-09-01T11:30:03.806955+00:00</Created>
-        <LastChange>2023-09-01T11:30:03.806973+00:00</LastChange>
+	<Created>2023-09-04T11:43:40.297739+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.297756+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Criminal-Ordnung.pdf_page_19.png" imageWidth="2480" imageHeight="3508">
     <TextRegion id="eSc_textblock_d86b83ba"  custom="structure {type:text;}">
       <Coords points="1298,226 1372,249 1481,226 2072,233 2103,302 1887,309 1822,341 1448,302 1302,325 1255,294 1255,241 1298,226"/>
       <TextLine id="eSc_line_7d488886" custom="structure {type:default;}">
-        <Coords points="2053,231 2033,231 2014,231 1994,231 1975,231 1955,231 1936,231 1916,229 1897,229 1877,229 1858,229 1838,229 1819,229 1799,229 1780,229 1760,228 1741,228 1721,228 1702,228 1682,228 1663,228 1643,228 1624,226 1604,226 1585,226 1565,226 1546,226 1526,226 1507,226 1487,226 1468,226 1470,270 1470,290 2064,294 2066,265 2062,231 2053,231"/>
-        <Baseline points="1470,270 2066,265"/>
+        <Coords points="2053,230 2023,230 1994,230 1965,230 1936,230 1906,230 1877,230 1848,230 1819,230 1789,230 1760,228 1731,228 1702,228 1672,228 1643,228 1614,228 1585,228 1555,228 1526,228 1497,228 1468,228 1468,268 1468,295 2064,298 2067,268 2067,230 2053,230"/>
+        <Baseline points="1470,270 2068,271"/>
         <TextEquiv>
           <Unicode>Erſter Titel. Erſter Abſchnitt.</Unicode>
         </TextEquiv>
@@ -78,7 +78,7 @@
         <Coords points="1251,1064 1249,1089 1312,1101 1314,1101 1316,1101 1335,1091 1339,1089 1349,1091 1382,1101 1384,1101 1386,1101 1388,1101 1390,1101 1390,1099 1397,1091 1401,1089 1561,1089 1571,1095 1581,1101 1583,1101 1585,1101 1587,1101 1588,1101 1610,1095 1629,1089 1635,1095 1641,1101 1643,1101 1645,1101 1647,1101 1750,1097 1887,1091 1924,1099 1943,1103 1945,1103 1947,1103 1957,1099 1976,1093 1992,1101 1998,1103 2000,1103 2002,1105 2275,1105 2277,1067 2275,1023 1251,1015 1251,1064"/>
         <Baseline points="1251,1064 2277,1067"/>
         <TextEquiv>
-          <Unicode>Untergerichte, die zur Verwaltung der Criminal.</Unicode>
+          <Unicode>Untergerichte, die zur Verwaltung der Criminal⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_fd821f6f" custom="structure {type:default;}">
@@ -103,8 +103,8 @@
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a2fe22be" custom="structure {type:default;}">
-        <Coords points="1027,1272 1029,1286 1029,1301 1249,1296 1249,1280 1243,1251 1039,1257 1027,1272"/>
-        <Baseline points="1029,1286 1249,1280"/>
+        <Coords points="1172,1248 1143,1248 1114,1248 1085,1248 1055,1248 1026,1257 1026,1283 1026,1303 1251,1303 1251,1283 1251,1251 1175,1248 1172,1248"/>
+        <Baseline points="1029,1286 1253,1284"/>
         <TextEquiv>
           <Unicode>Criminal⸗Ge⸗</Unicode>
         </TextEquiv>
@@ -180,10 +180,10 @@
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ee50feab" custom="structure {type:default;}">
-        <Coords points="1204,1663 1175,1663 1146,1663 1117,1663 1096,1663 1029,1663 1029,1698 1029,1718 1240,1727 1242,1698 1240,1657 1207,1657 1204,1663"/>
-        <Baseline points="1031,1699 1244,1700"/>
+        <Coords points="1204,1663 1175,1663 1146,1663 1117,1663 1087,1663 1058,1663 1029,1663 1029,1698 1026,1715 1245,1724 1251,1701 1248,1660 1204,1660 1204,1663"/>
+        <Baseline points="1031,1699 1254,1702"/>
         <TextEquiv>
-          <Unicode>Criminalrich</Unicode>
+          <Unicode>Criminalrich⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_115975a0" custom="structure {type:default;}">
@@ -201,8 +201,8 @@
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_103b6063" custom="structure {type:default;}">
-        <Coords points="1199,1736 1169,1736 1140,1736 1111,1739 1082,1739 1064,1739 1049,1739 1023,1753 1026,1774 1026,1800 1254,1794 1254,1765 1245,1727 1201,1727 1199,1736"/>
-        <Baseline points="1029,1777 1255,1768"/>
+        <Coords points="1201,1736 1172,1736 1143,1736 1114,1739 1085,1739 1055,1739 1026,1739 1026,1774 1023,1797 1254,1797 1257,1777 1251,1733 1201,1733 1201,1736"/>
+        <Baseline points="1029,1777 1259,1778"/>
         <TextEquiv>
           <Unicode>das Erkennt⸗</Unicode>
         </TextEquiv>
@@ -267,7 +267,7 @@
         <Coords points="1255,2128 1255,2143 1253,2171 1261,2176 1263,2176 1265,2176 1267,2176 2273,2174 2275,2147 2273,2108 2136,2108 2136,2106 2125,2097 2123,2097 2121,2097 2119,2097 2072,2106 2070,2106 2047,2097 2045,2097 2043,2097 1998,2106 1986,2097 1986,2095 1984,2095 1982,2095 1908,2095 1906,2095 1904,2095 1902,2095 1887,2106 1883,2106 1834,2095 1832,2095 1692,2104 1676,2093 1674,2093 1672,2093 1670,2093 1668,2093 1645,2104 1590,2093 1588,2093 1587,2093 1557,2102 1423,2093 1421,2093 1419,2093 1394,2104 1392,2104 1257,2104 1255,2128"/>
         <Baseline points="1255,2143 2275,2147"/>
         <TextEquiv>
-          <Unicode>gegen Militär⸗Perſonen ſollen ſich die Unterge⸗</Unicode>
+          <Unicode>gegen Militaͤr⸗Perſonen ſollen ſich die Unterge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_35cc2868" custom="structure {type:default;}">

@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
 	<Creator>escriptorium</Creator>
-	<Created>2023-09-01T11:30:04.048695+00:00</Created>
-        <LastChange>2023-09-01T11:30:04.048712+00:00</LastChange>
+	<Created>2023-09-04T11:43:40.543764+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.543780+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Criminal-Ordnung.pdf_page_26.png" imageWidth="2480" imageHeight="3508">
     <TextRegion id="eSc_textblock_2fdfb5f3"  custom="structure {type:text;}">
@@ -33,14 +33,14 @@
         <Coords points="220,434 222,481 222,518 294,508 397,516 434,518 436,518 438,518 440,518 442,516 452,508 462,514 465,518 467,518 469,518 471,518 473,518 483,514 504,506 596,512 653,516 655,516 657,516 658,516 666,512 678,504 699,510 711,514 713,514 715,514 717,514 727,510 740,504 746,510 754,516 756,516 758,516 760,518 867,518 867,516 869,516 871,516 871,514 879,508 881,504 889,508 910,516 912,516 914,516 916,516 941,506 943,506 955,506 1048,514 1050,514 1052,514 1078,504 1085,502 1097,504 1156,514 1158,514 1160,514 1162,514 1173,502 1175,502 1187,502 1308,510 1310,510 1370,498 1370,475 1366,434 1310,420 1308,420 1306,420 1263,432 1146,420 1144,420 1142,420 1115,434 1039,434 967,420 965,420 963,420 933,434 930,436 853,436 850,434 820,420 818,420 614,420 612,420 524,434 501,436 485,434 434,422 432,422 374,424 372,424 370,424 370,426 362,434 358,436 220,434 220,434"/>
         <Baseline points="222,481 1370,475"/>
         <TextEquiv>
-          <Unicode>ner zulaſſigen Beſchaͤftigung allein zu uberlaſſen.</Unicode>
+          <Unicode>ner zulaͤſſigen Beſchaͤftigung allein zu uͤberlaſſen.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a64d186b" custom="structure {type:default;}">
         <Coords points="721,553 721,588 762,588 762,586 764,586 766,586 766,584 768,584 770,582 775,572 789,580 799,584 801,584 803,584 805,584 807,584 814,576 826,569 869,571 873,547 869,508 801,495 799,495 717,498 721,553"/>
         <Baseline points="721,553 873,547"/>
         <TextEquiv>
-          <Unicode>§. 3r.</Unicode>
+          <Unicode>§. 31.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_7cc5aea1" custom="structure {type:default;}">
@@ -100,10 +100,10 @@
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4286eb1e" custom="structure {type:default;}">
-        <Coords points="1557,1081 1538,1079 1518,1075 1499,1073 1479,1069 1475,1067 1401,1064 1399,1064 1397,1064 1370,1071 1364,1073 1362,1071 1349,1060 1347,1060 1345,1060 1247,1058 1245,1058 1193,1069 1173,1073 1160,1069 1134,1060 1132,1060 1130,1060 1095,1067 1070,1073 1037,1067 988,1058 986,1058 984,1058 963,1066 941,1075 799,1075 781,1064 777,1060 775,1060 774,1060 772,1060 770,1060 768,1060 764,1064 750,1075 694,1075 682,1064 682,1062 680,1062 678,1062 676,1062 674,1062 672,1062 639,1071 614,1062 606,1058 604,1058 497,1058 495,1058 493,1058 491,1058 489,1060 465,1073 415,1060 413,1060 411,1060 409,1060 386,1073 374,1062 374,1060 372,1060 370,1060 329,1058 329,1118 329,1138 1561,1142 1563,1118 1559,1093 1557,1081"/>
-        <Baseline points="329,1118 1563,1118"/>
+        <Coords points="327,1116 327,1140 1362,1148 1365,1116 1365,1064 327,1064 327,1116"/>
+        <Baseline points="329,1118 1368,1118"/>
         <TextEquiv>
-          <Unicode>Jeder Gefangene kann von dem Geiſtlichen Religions⸗</Unicode>
+          <Unicode>Jeder Gefangene kann von dem Geiſtlichen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_83ab62bc" custom="structure {type:default;}">
@@ -118,6 +118,13 @@
         <Baseline points="216,1184 1355,1179"/>
         <TextEquiv>
           <Unicode>seiner Religionspartei im Beiſein einer Ge⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b0312c3" >
+        <Coords points="1544,1078 1514,1075 1485,1069 1456,1067 1427,1061 1421,1058 1368,1058 1368,1116 1368,1143 1561,1140 1561,1116 1561,1075 1544,1078"/>
+        <Baseline points="1369,1118 1563,1118"/>
+        <TextEquiv>
+          <Unicode>Religions⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0a5731bc" >
@@ -159,7 +166,7 @@
         <Coords points="329,1613 329,1633 411,1633 421,1640 421,1642 423,1642 425,1642 426,1642 471,1633 473,1633 489,1642 491,1642 493,1642 495,1642 497,1642 520,1633 522,1633 526,1633 571,1642 573,1642 707,1635 750,1633 772,1635 822,1642 824,1642 883,1637 914,1633 931,1637 957,1642 959,1642 961,1642 963,1642 974,1637 984,1633 1002,1637 1029,1642 1031,1642 1033,1642 1046,1637 1058,1633 1360,1639 1362,1613 1345,1566 1269,1553 1267,1553 1265,1553 1226,1566 1224,1566 1216,1566 1121,1555 1119,1555 1117,1555 1115,1555 1115,1557 1105,1564 1103,1568 1019,1568 1013,1564 996,1551 994,1551 992,1551 990,1551 988,1551 947,1564 937,1566 928,1563 891,1551 889,1551 887,1551 885,1551 863,1563 853,1566 696,1566 690,1561 678,1551 676,1551 674,1551 672,1551 621,1561 612,1563 610,1561 600,1553 600,1551 598,1551 596,1551 594,1551 514,1553 512,1553 510,1553 510,1555 504,1559 497,1566 475,1559 452,1551 450,1551 448,1551 329,1557 329,1613"/>
         <Baseline points="329,1613 1362,1613"/>
         <TextEquiv>
-          <Unicode>Wo die Umſtaͤnde es geſtatten, da muß für</Unicode>
+          <Unicode>Wo die Umſtaͤnde es geſtatten, da muß fuͤr</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_befcdda7" custom="structure {type:default;}">
@@ -180,7 +187,7 @@
         <Coords points="218,1754 218,1779 473,1777 501,1781 526,1787 528,1787 530,1787 543,1783 559,1777 719,1777 779,1783 809,1787 811,1787 813,1787 818,1785 834,1777 857,1785 867,1787 869,1787 871,1787 873,1787 875,1787 875,1785 877,1785 885,1777 922,1785 935,1787 937,1787 939,1787 943,1785 961,1777 1072,1777 1222,1787 1234,1787 1236,1787 1238,1787 1240,1787 1253,1777 1355,1787 1356,1754 1356,1709 1232,1697 1230,1697 783,1707 701,1697 699,1697 697,1697 680,1707 668,1697 666,1697 664,1697 662,1697 588,1707 534,1697 532,1697 462,1707 450,1697 448,1697 446,1697 304,1697 302,1697 218,1707 218,1754"/>
         <Baseline points="218,1754 1356,1754"/>
         <TextEquiv>
-          <Unicode>zu Zeit Religions Uebung durch einen Geiſtlichen</Unicode>
+          <Unicode>zu Zeit Religions⸗Uebung durch einen Geiſtlichen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b68034de" custom="structure {type:default;}">
@@ -236,14 +243,14 @@
         <Coords points="1588,2329 1558,2329 1529,2326 1500,2324 1471,2321 1447,2318 1430,2318 1412,2318 1400,2315 1354,2315 1356,2373 1356,2397 1590,2397 1593,2370 1588,2335 1588,2329"/>
         <Baseline points="1358,2374 1594,2373"/>
         <TextEquiv>
-          <Unicode>Erforderniſſe⸗</Unicode>
+          <Unicode>Erforderniſſe</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_442611f3" custom="structure {type:default;}">
         <Coords points="207,2402 207,2443 204,2484 470,2476 649,2493 675,2496 678,2496 690,2496 775,2478 932,2499 950,2499 1137,2502 1140,2502 1143,2502 1146,2502 1163,2490 1175,2499 1175,2502 1178,2502 1181,2502 1184,2502 1187,2502 1190,2502 1204,2487 1225,2502 1228,2502 1231,2502 1234,2502 1237,2502 1240,2502 1257,2487 1336,2502 1342,2455 1339,2405 213,2394 207,2402"/>
         <Baseline points="208,2445 1343,2457"/>
         <TextEquiv>
-          <Unicode>richte gehöͤrt ein Richter und ein vereideter Pro⸗</Unicode>
+          <Unicode>richte gehoͤrt ein Richter und ein vereideter Pro⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_73a4bdae" custom="structure {type:default;}">
@@ -257,7 +264,7 @@
         <Coords points="208,2516 206,2562 280,2553 319,2566 321,2566 323,2566 325,2566 350,2553 489,2568 493,2519 491,2475 337,2461 335,2461 208,2469 208,2516"/>
         <Baseline points="208,2516 493,2519"/>
         <TextEquiv>
-          <Unicode>tokollführer.</Unicode>
+          <Unicode>tokollfuͤhrer.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_15c32eb5" >

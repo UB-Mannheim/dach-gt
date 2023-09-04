@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
 	<Creator>escriptorium</Creator>
-	<Created>2023-09-01T11:30:03.872025+00:00</Created>
-        <LastChange>2023-09-01T11:30:03.872042+00:00</LastChange>
+	<Created>2023-09-04T11:43:40.365258+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.365275+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Criminal-Ordnung.pdf_page_21.png" imageWidth="2480" imageHeight="3508">
     <TextRegion id="eSc_textblock_72f66d74"  custom="structure {type:text;}">
@@ -68,7 +68,7 @@
         <Coords points="1286,491 1286,520 2289,520 2292,485 2286,438 1283,432 1286,491"/>
         <Baseline points="1287,492 2294,487"/>
         <TextEquiv>
-          <Unicode>Civil⸗Gerichtsbarkeit obliegt, durfen ſich der</Unicode>
+          <Unicode>Civil⸗Gerichtsbarkeit obliegt, duͤrfen ſich der</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4c79e921" custom="structure {type:default;}">
@@ -243,7 +243,7 @@
         <Coords points="1261,2061 1259,2085 1296,2098 1298,2098 1300,2098 1444,2089 1464,2100 1466,2100 1468,2100 1470,2100 1542,2093 1602,2102 1604,2102 1688,2091 1690,2091 1692,2091 1776,2104 1778,2104 1898,2102 1900,2102 1902,2102 1916,2095 1920,2093 1980,2093 1982,2095 1996,2106 1998,2106 2000,2106 2002,2106 2004,2106 2031,2095 2035,2095 2047,2097 2117,2106 2119,2106 2166,2098 2171,2097 2173,2098 2183,2106 2183,2108 2185,2108 2187,2108 2189,2108 2286,2098 2288,2073 2286,2028 1780,2032 1772,2026 1766,2020 1764,2020 1762,2020 1760,2020 1758,2020 1741,2026 1727,2030 1705,2026 1672,2020 1670,2020 1624,2026 1604,2028 1600,2026 1588,2019 1587,2019 1585,2019 1583,2019 1542,2026 1524,2028 1483,2026 1329,2015 1327,2015 1261,2024 1261,2061"/>
         <Baseline points="1261,2061 2288,2073"/>
         <TextEquiv>
-          <Unicode>Civil⸗Richter bleibt aber nicht allein für alle</Unicode>
+          <Unicode>Civil⸗Richter bleibt aber nicht allein fuͤr alle</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_64a32a71" custom="structure {type:default;}">

@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
 	<Creator>escriptorium</Creator>
-	<Created>2023-09-01T11:30:03.778996+00:00</Created>
-        <LastChange>2023-09-01T11:30:03.779014+00:00</LastChange>
+	<Created>2023-09-04T11:43:40.269647+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.269664+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Criminal-Ordnung.pdf_page_18.png" imageWidth="2480" imageHeight="3508">
     <TextRegion id="eSc_textblock_9d2c5941"  custom="structure {type:text;}">
@@ -152,7 +152,7 @@
         <Coords points="224,1488 224,1508 549,1518 551,1518 553,1518 594,1506 598,1506 602,1506 623,1516 625,1516 627,1516 928,1506 930,1506 972,1516 974,1516 976,1516 1144,1504 1152,1504 1154,1504 1163,1514 1165,1514 1167,1514 1169,1514 1171,1514 1199,1504 1202,1504 1308,1514 1310,1514 1312,1514 1356,1502 1356,1483 1353,1440 1304,1440 1304,1438 1290,1426 1288,1426 1286,1426 1284,1426 1282,1426 1240,1438 1238,1438 1236,1438 1183,1426 1181,1426 953,1428 951,1428 949,1428 939,1436 933,1440 807,1436 625,1428 623,1428 621,1428 610,1434 594,1442 514,1434 481,1430 479,1430 434,1432 302,1442 222,1432 224,1488"/>
         <Baseline points="224,1488 1356,1483"/>
         <TextEquiv>
-          <Unicode>Unterſuchungen Anwendung. In Abſicht derje</Unicode>
+          <Unicode>Unterſuchungen Anwendung. In Abſicht derje⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f142aaf1" custom="structure {type:default;}">
@@ -180,7 +180,7 @@
         <Coords points="222,1629 222,1646 426,1656 428,1656 481,1646 483,1646 668,1654 670,1654 1366,1639 1366,1619 1362,1578 1173,1566 1171,1566 1169,1566 1167,1566 1167,1568 1158,1576 1076,1568 1074,1568 1072,1568 1070,1568 1056,1578 970,1570 968,1570 891,1580 881,1580 879,1580 857,1570 855,1570 853,1570 797,1580 793,1580 779,1570 777,1570 775,1570 774,1570 772,1570 742,1580 740,1580 735,1580 627,1572 625,1572 489,1582 471,1582 469,1582 452,1572 450,1572 448,1572 220,1582 222,1629"/>
         <Baseline points="222,1629 1366,1619"/>
         <TextEquiv>
-          <Unicode>Unterſuchung zulaſſig iſt, hat es jedoch bei den</Unicode>
+          <Unicode>Unterſuchung zulaͤſſig iſt, hat es jedoch bei den</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_901e5a88" custom="structure {type:default;}">

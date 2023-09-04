@@ -2,8 +2,8 @@
 <PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
   <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
 	<Creator>escriptorium</Creator>
-	<Created>2023-09-01T11:30:04.014979+00:00</Created>
-        <LastChange>2023-09-01T11:30:04.014996+00:00</LastChange>
+	<Created>2023-09-04T11:43:40.509775+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.509792+00:00</LastChange>
   </Metadata>
   <Page imageFilename="Criminal-Ordnung.pdf_page_25.png" imageWidth="2480" imageHeight="3508">
     <TextRegion id="eSc_textblock_0f622424"  custom="structure {type:text;}">
@@ -54,7 +54,7 @@
         <Coords points="1290,598 1288,625 1390,627 1392,627 1394,627 1395,627 1395,625 1405,617 1429,625 1433,627 1434,627 1436,627 1481,625 1620,621 1629,625 1639,631 1641,631 1643,633 1764,633 1764,631 1766,631 1783,625 1801,621 1836,625 1885,633 1887,633 1939,625 1965,623 2014,625 2162,637 2164,637 2312,625 2314,610 2312,569 2249,559 2247,559 2205,565 2179,569 2168,565 2142,555 2140,555 2138,555 2004,561 1904,565 1891,559 1879,553 1877,553 1875,553 1873,553 1860,557 1834,565 1758,555 1750,555 1748,555 1744,555 1688,563 1672,553 1670,553 1668,553 1666,553 1665,553 1633,563 1616,551 1612,549 1610,549 1608,549 1606,549 1585,551 1507,561 1493,551 1491,551 1489,551 1487,551 1446,559 1290,545 1290,598"/>
         <Baseline points="1290,598 2314,610"/>
         <TextEquiv>
-          <Unicode>Criminal⸗ Gefangenen, ohne Unterſchied des</Unicode>
+          <Unicode>Criminal⸗Gefangenen, ohne Unterſchied des</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_3c367947" custom="structure {type:default;}">
@@ -75,14 +75,14 @@
         <Coords points="1128,806 1099,809 1070,815 1070,844 1067,879 1178,900 1181,900 1295,885 1298,847 1298,803 1152,800 1128,806"/>
         <Baseline points="1072,847 1301,850"/>
         <TextEquiv>
-          <Unicode>Keinlichkeit.</Unicode>
+          <Unicode>Reinlichkeit.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d485eb53" >
         <Coords points="2289,827 2260,818 2248,812 1912,795 1909,795 1906,795 1903,795 1883,809 1760,800 1734,800 1731,798 1640,792 1637,792 1634,792 1585,806 1579,806 1324,803 1324,847 1321,868 1520,891 1523,891 2301,885 2304,862 2304,830 2289,827"/>
         <Baseline points="1325,850 2306,863"/>
         <TextEquiv>
-          <Unicode>Für die Reinlichkeit der Gefaͤngniſſe, und</Unicode>
+          <Unicode>Fuͤr die Reinlichkeit der Gefaͤngniſſe, und</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_355a3462" custom="structure {type:default;}">
@@ -96,14 +96,14 @@
         <Coords points="1284,915 1282,939 1290,945 1292,945 1294,945 1296,945 1571,939 1606,939 1616,939 1663,949 1665,949 1752,943 1789,941 1795,945 1803,951 1805,951 1807,951 1809,951 1891,947 1957,943 2306,954 2310,927 2308,886 1848,871 1846,871 1805,880 1799,880 1797,880 1782,869 1780,869 1778,869 1776,869 1670,878 1657,878 1653,878 1627,867 1626,867 1624,867 1622,867 1596,877 1594,877 1454,865 1452,865 1284,873 1284,915"/>
         <Baseline points="1284,915 2310,927"/>
         <TextEquiv>
-          <Unicode>für gehoͤrige Luftung derſelben, muß der Richter</Unicode>
+          <Unicode>fuͤr gehoͤrige Luͤftung derſelben, muß der Richter</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_10badf4e" custom="structure {type:default;}">
         <Coords points="1288,978 1286,995 1333,1007 1335,1007 1501,1001 1532,1001 1540,1003 1567,1011 1569,1011 1571,1011 1573,1011 1590,1003 1598,1001 1612,1005 1643,1011 1645,1011 1647,1011 1649,1011 1657,1005 1663,1003 1666,1005 1672,1011 1672,1013 1674,1013 1676,1013 1678,1013 1743,1007 1795,1003 1867,1011 1926,1017 1928,1017 1949,1013 1969,1009 2058,1015 2109,1019 2111,1019 2113,1019 2121,1017 2154,1009 2171,1019 2177,1021 2179,1021 2181,1021 2183,1021 2187,1019 2203,1011 2304,1021 2308,993 2304,945 2199,954 2185,943 2183,943 2183,941 2181,941 2179,941 2177,941 2175,941 2170,943 2148,954 2058,954 2053,945 2051,945 2051,943 2049,943 2047,943 2045,943 2041,943 1965,951 1930,941 1912,937 1910,937 1908,937 1906,937 1889,941 1860,949 1801,949 1793,941 1787,935 1785,935 1783,935 1782,935 1735,941 1698,945 1624,941 1501,931 1499,931 1288,937 1288,978"/>
         <Baseline points="1288,978 2308,993"/>
         <TextEquiv>
-          <Unicode>beſtandig ſorgen, auch den Gefangenen, ſo oft</Unicode>
+          <Unicode>beſtaͤndig ſorgen, auch den Gefangenen, ſo oft</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_52330796" custom="structure {type:default;}">
@@ -145,7 +145,7 @@
         <Coords points="1686,1179 1684,1190 1731,1208 1733,1208 1735,1208 1875,1192 1877,1181 1875,1124 1686,1132 1686,1179"/>
         <Baseline points="1686,1179 1877,1181"/>
         <TextEquiv>
-          <Unicode>§. 3o.</Unicode>
+          <Unicode>§. 30.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_3b51c452" custom="structure {type:default;}">
