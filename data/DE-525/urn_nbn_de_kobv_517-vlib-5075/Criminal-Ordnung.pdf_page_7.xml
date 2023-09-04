@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
+	<Creator>escriptorium</Creator>
+	<Created>2023-09-04T11:43:39.986123+00:00</Created>
+        <LastChange>2023-09-04T11:43:39.986148+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Criminal-Ordnung.pdf_page_7.png" imageWidth="2480" imageHeight="3508">
+    <TextRegion id="eSc_textblock_d1737084"  custom="structure {type:text;}">
+      <Coords points="440,265 848,280 910,317 809,387 506,372 452,348 440,265"/>
+      <TextLine id="eSc_line_532e7517" custom="structure {type:default;}">
+        <Coords points="868,295 853,286 736,274 722,274 693,274 663,271 634,271 605,271 576,268 546,268 517,268 488,266 459,266 456,245 432,242 429,289 426,315 883,362 889,336 886,324 868,295"/>
+        <Baseline points="430,292 891,337"/>
+        <TextEquiv>
+          <Unicode>UNIVERSITÄT POTSDAM</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fcc32057" custom="structure {type:default;}">
+        <Coords points="815,330 745,324 728,324 698,321 669,318 640,315 614,312 584,309 555,306 526,304 497,301 467,298 465,339 462,365 488,382 491,382 494,382 497,382 584,382 643,382 824,418 833,374 830,365 815,330"/>
+        <Baseline points="467,341 836,376"/>
+        <TextEquiv>
+          <Unicode>Universitätsbibliothek</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_ae1c1c61"  custom="structure {type:text;}">
+      <Coords points="1323,958 1433,966 1464,1081 1394,1112 1177,1112 1162,974 1323,958"/>
+      <TextLine id="eSc_line_5f7a6207" custom="structure {type:default;}">
+        <Coords points="1392,964 1362,961 1333,958 1304,958 1275,961 1245,964 1216,967 1190,970 1193,1014 1193,1031 1406,1017 1406,999 1400,964 1392,964"/>
+        <Baseline points="1195,1017 1408,1001"/>
+        <TextEquiv>
+          <Unicode>Ausgeschieden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e628a40b" custom="structure {type:default;}">
+        <Coords points="1245,1005 1216,1005 1187,1002 1193,1055 1196,1096 1242,1078 1330,1090 1333,1046 1327,1002 1245,1002 1245,1005"/>
+        <Baseline points="1195,1056 1335,1048"/>
+        <TextEquiv>
+          <Unicode>UB Flgbg.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bc4d6fb6"  custom="structure {type:text;}">
+      <Coords points="1355,1223 1534,1247 1534,1377 1263,1377 1263,1239 1355,1223"/>
+      <TextLine id="eSc_line_b8fce9ba" custom="structure {type:default;}">
+        <Coords points="1529,1297 1509,1257 1266,1236 1266,1289 1263,1315 1526,1330 1532,1309 1529,1295 1529,1297"/>
+        <Baseline points="1269,1290 1535,1311"/>
+        <TextEquiv>
+          <Unicode>Univ.-Bibliothek</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_48fc55cd" custom="structure {type:default;}">
+        <Coords points="1348,1297 1318,1295 1316,1341 1310,1406 1482,1403 1488,1356 1488,1309 1371,1297 1348,1297"/>
+        <Baseline points="1317,1342 1489,1358"/>
+        <TextEquiv>
+          <Unicode>Regensburg</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9abb1ce5"  custom="structure {type:text;}">
+      <Coords points="926,304 926,309 920,309 920,304 926,304"/>
+    </TextRegion>
+  </Page>
+</PcGts>

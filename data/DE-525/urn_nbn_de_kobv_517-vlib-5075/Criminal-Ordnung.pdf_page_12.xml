@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="pdf//Criminal-Ordnung.pdf">
+	<Creator>escriptorium</Creator>
+	<Created>2023-09-04T11:43:40.113065+00:00</Created>
+        <LastChange>2023-09-04T11:43:40.113082+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="Criminal-Ordnung.pdf_page_12.png" imageWidth="2480" imageHeight="3508">
+    <TextRegion id="eSc_textblock_9799f982"  custom="structure {type:text;}">
+      <Coords points="904,1013 1362,1036 1409,1112 1378,1175 863,1198 233,1167 218,1136 218,1052 249,1021 904,1013"/>
+      <TextLine id="eSc_line_81bdc242" custom="structure {type:default;}">
+        <Coords points="1377,1067 1362,1052 1131,1052 1123,1046 1073,1026 1070,1026 1067,1026 1064,1026 1006,1043 994,1046 973,1043 859,1026 856,1026 853,1026 821,1040 813,1046 807,1040 786,1023 783,1023 780,1023 777,1023 687,1037 660,1043 652,1037 634,1023 631,1023 628,1023 543,1023 541,1023 538,1023 535,1023 520,1034 514,1040 494,1034 441,1020 438,1020 435,1020 432,1020 394,1034 371,1040 333,1031 274,1020 271,1020 269,1020 254,1023 236,1031 236,1125 233,1169 327,1186 330,1186 333,1186 380,1175 421,1163 500,1178 514,1178 517,1178 520,1178 523,1178 558,1166 602,1178 640,1189 643,1189 646,1189 649,1189 652,1189 660,1181 681,1166 807,1166 845,1183 851,1186 853,1186 856,1186 883,1186 1067,1169 1096,1189 1102,1195 1105,1195 1108,1195 1111,1195 1143,1192 1213,1181 1377,1195 1383,1137 1380,1072 1377,1067"/>
+        <Baseline points="238,1128 1386,1138"/>
+        <TextEquiv conf="0.9997164571986479">
+          <Unicode>Criminal⸗Ordnung.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
