@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2023-12-01T15:55:16.907647+00:00</Created>
+        <LastChange>2023-12-01T15:55:16.907674+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="0005_0000.jpg" imageWidth="1493" imageHeight="2442">
+    <TextRegion id="eSc_textblock_4de15467"  >
+      <Coords points="1167,494 130,494 122,423 551,396 293,347 293,244 1004,244 1004,331 957,356 647,404 1150,423 1167,494"/>
+      <TextLine id="eSc_line_d6d4bcf5" >
+        <Coords points="983,244 963,244 943,244 922,244 914,244 910,248 902,244 881,244 861,244 857,244 855,246 853,244 841,244 820,244 810,244 802,250 790,244 780,244 759,244 739,244 729,244 719,248 714,244 698,244 678,244 661,244 653,248 645,244 637,244 617,244 596,244 578,244 566,250 533,250 525,244 515,244 494,244 474,244 464,244 458,246 448,244 433,244 413,244 393,244 372,244 362,246 358,244 352,244 332,244 311,244 295,240 291,240 291,313 289,323 311,333 313,333 315,335 989,335 991,319 989,244 983,244"/>
+        <Baseline points="291,313 991,319"/>
+        <TextEquiv>
+          <Unicode>CAROLINE</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0d3c2863" >
+        <Coords points="1144,433 1116,421 1101,421 1097,419 1038,437 873,437 831,419 828,419 769,419 767,419 765,419 763,419 763,421 751,431 678,419 676,419 674,419 672,419 672,421 655,435 598,425 596,425 594,425 572,435 535,419 533,419 531,419 529,419 527,419 527,421 513,433 494,423 492,423 490,423 488,423 486,423 484,423 470,435 366,435 325,419 323,419 321,419 264,431 252,421 252,419 250,419 248,419 185,419 164,419 146,419 142,423 124,472 124,478 124,492 1158,492 1158,478 1156,472 1144,433"/>
+        <Baseline points="124,478 1158,478"/>
+        <TextEquiv>
+          <Unicode>Briefe aus der Frühromantik</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_286d0876"  >
+      <Coords points="949,901 712,934 342,909 350,870 423,852 407,765 859,765 883,781 867,836 721,852 924,870 949,901"/>
+      <TextLine id="eSc_line_a9c44343" >
+        <Coords points="855,769 674,765 672,765 651,765 631,765 611,765 590,765 570,765 549,765 529,765 509,765 488,765 468,765 448,765 427,765 417,773 407,809 405,818 865,834 869,816 867,807 855,769"/>
+        <Baseline points="407,809 869,816"/>
+        <TextEquiv>
+          <Unicode>Nach Georg Waitz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5b14968c" >
+        <Coords points="912,905 894,903 875,870 776,858 773,858 771,858 769,858 753,870 751,873 698,873 696,870 643,856 641,856 639,856 360,868 344,893 344,903 342,913 427,927 429,927 513,915 523,915 527,915 556,927 558,927 560,927 606,919 666,929 668,929 938,919 941,907 930,901 912,905"/>
+        <Baseline points="344,903 941,907"/>
+        <TextEquiv>
+          <Unicode>vermehrt herausgegeben von</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dde57e93"  >
+      <Coords points="511,952 778,952 835,991 818,1015 464,1015 464,960 511,952"/>
+      <TextLine id="eSc_line_25b273cc" >
+        <Coords points="810,974 790,962 778,956 759,952 757,952 696,962 694,962 655,952 647,952 627,952 606,952 588,952 480,960 464,1003 462,1025 812,1031 816,1007 812,976 810,974"/>
+        <Baseline points="464,1003 816,1007"/>
+        <TextEquiv>
+          <Unicode>Erich Schmidt</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_49362b2a"  >
+      <Coords points="786,1758 794,1796 527,1813 488,1805 496,1750 786,1758"/>
+      <TextLine id="eSc_line_5e6a6d74" >
+        <Coords points="773,1792 753,1794 737,1760 700,1756 698,1754 694,1754 674,1754 653,1754 633,1752 629,1752 609,1756 602,1752 592,1752 572,1752 551,1750 545,1750 537,1752 533,1750 531,1750 511,1750 490,1788 490,1790 488,1798 780,1811 784,1796 782,1792 773,1792"/>
+        <Baseline points="490,1790 784,1796"/>
+        <TextEquiv>
+          <Unicode>Erſter Band</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_41025341"  >
+      <Coords points="560,2008 560,1961 517,1951 130,1935 122,1888 171,1872 1150,1888 1158,1951 739,1959 729,2016 690,2024 560,2008"/>
+      <TextLine id="eSc_line_a33a8569" >
+        <Coords points="1146,1888 1126,1886 1106,1886 1085,1886 1065,1886 1044,1886 1024,1884 1004,1884 983,1884 963,1884 943,1884 922,1884 902,1882 892,1882 881,1882 861,1882 841,1882 820,1882 800,1882 792,1880 152,1876 148,1878 128,1884 128,1919 126,1933 158,1945 160,1945 162,1945 313,1939 364,1937 407,1941 503,1951 505,1951 631,1947 741,1943 1144,1959 1148,1941 1146,1888 1146,1888"/>
+        <Baseline points="128,1919 1069,1933 1148,1941"/>
+        <TextEquiv>
+          <Unicode>Erſchienen im Inſel⸗Verlag zu Leipzig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7eb9e1c2" >
+        <Coords points="549,2000 547,2014 714,2026 719,2006 716,1959 549,1961 549,2000"/>
+        <Baseline points="551,2002 721,2008"/>
+        <TextEquiv>
+          <Unicode>1913</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_45282b41"  >
+      <Coords points="105,2352 146,2336 242,2352 234,2415 105,2423 105,2352"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c0559253"  >
+      <Coords points="293,2382 496,2360 1118,2360 1126,2399 1012,2431 535,2431 494,2399 293,2382"/>
+    </TextRegion>
+  </Page>
+</PcGts>
