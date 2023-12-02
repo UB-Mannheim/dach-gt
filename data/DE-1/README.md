@@ -1,8 +1,12 @@
 ## Staatsbibliothek zu Berlin
 
+Das Hexen Buch.
+
+* Theil 2 (1569), [Original](http://resolver.staatsbibliothek-berlin.de/SBB00018A0E00010000)
+
 Die gesammten Materialien zu den preußischen Ausführungsgesetzen zum Bürgerlichen Gesetzbuch für das Deutsche Reich und seinen Nebengesetzen
 
-*  (1900), [Original](http://resolver.staatsbibliothek-berlin.de/SBB000066FA00000000), [mit Volltext]()
+* (1900), [Original](http://resolver.staatsbibliothek-berlin.de/SBB000066FA00000000), [mit Volltext]()
 
 
 ### URL examples
