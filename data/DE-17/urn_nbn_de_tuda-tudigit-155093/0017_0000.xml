@@ -280,14 +280,14 @@
         <Coords points="1092,2364 1079,2364 1065,2364 1052,2364 1038,2364 1024,2364 1011,2364 997,2364 984,2364 970,2364 957,2364 943,2364 930,2364 916,2364 902,2364 889,2364 875,2364 862,2364 848,2364 835,2364 821,2364 808,2364 794,2364 780,2364 767,2364 753,2364 740,2364 726,2364 713,2364 699,2364 686,2364 672,2364 658,2364 645,2364 631,2364 618,2364 604,2364 591,2364 577,2364 563,2364 550,2364 536,2364 523,2364 509,2364 496,2364 482,2364 469,2364 455,2364 441,2364 428,2364 414,2364 401,2364 387,2364 374,2364 360,2364 347,2364 333,2364 319,2364 306,2364 294,2376 292,2384 291,2400 1106,2400 1107,2387 1104,2364 1092,2364"/>
         <Baseline points="292,2384 1107,2387"/>
         <TextEquiv>
-          <Unicode>http:(ftudigit.ulb.tu-darmstadt.deſshow(CK-9099-5322-1/0017</Unicode>
+          <Unicode>http://tudigit.ulb.tu-darmstadt.de/show(CK-9099-5322-1/0017</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_1cfd24b8" >
         <Coords points="528,2418 528,2433 992,2435 995,2415 991,2396 527,2397 528,2418"/>
         <Baseline points="528,2418 995,2415"/>
         <TextEquiv>
-          <Unicode>Universitäts- und Landesbibliothiek Darmstaci</Unicode>
+          <Unicode>Universitäts- und Landesbibliothek Darmstadt</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>
