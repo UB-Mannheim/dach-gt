@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://ub-backup.bib.uni-mannheim.de/~stweil">
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-06T09:17:56.775925+00:00</Created>
+        <LastChange>2024-03-06T09:17:56.775941+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="00008.jpg" imageWidth="1024" imageHeight="1528">
+    <TextRegion id="eSc_textblock_c2da5aff"  custom="structure {type:text;}">
+      <Coords points="87,1307 541,1310 558,1317 558,1340 531,1353 458,1353 440,1394 376,1401 339,1381 346,1361 335,1350 81,1343 78,1310 87,1307"/>
+      <TextLine id="eSc_line_5d1de8d6" custom="structure {type:default;}">
+        <Coords points="549,1314 546,1312 337,1308 337,1308 328,1308 320,1308 315,1308 294,1308 294,1308 286,1308 277,1308 269,1308 260,1308 252,1308 243,1308 235,1308 226,1308 218,1308 209,1308 201,1308 192,1307 184,1307 175,1307 167,1307 158,1307 150,1307 141,1307 133,1307 124,1307 116,1307 107,1307 99,1307 90,1307 82,1308 82,1329 81,1340 92,1344 93,1344 94,1344 124,1341 294,1348 295,1349 550,1349 551,1338 550,1314 549,1314"/>
+        <Baseline points="82,1329 551,1338"/>
+        <TextEquiv conf="0.998027228020333">
+          <Unicode>Herzog August Bibliothek Wolfenbüttel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6e7ce054" custom="structure {type:default;}">
+        <Coords points="356,1384 436,1386 438,1376 438,1352 414,1352 411,1349 409,1347 409,1346 408,1346 407,1346 406,1346 395,1348 379,1350 358,1344 357,1374 356,1384"/>
+        <Baseline points="357,1374 438,1376"/>
+        <TextEquiv conf="0.9986766338348388">
+          <Unicode>Kodak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7a0b3eb9" custom="structure {type:default;}">
+        <Coords points="363,1392 363,1404 429,1406 430,1390 427,1378 362,1378 363,1392"/>
+        <Baseline points="363,1392 430,1390"/>
+        <TextEquiv>
+          <Unicode>Gray Scale</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d5997c0d"  custom="structure {type:text;}">
+      <Coords points="169,1487 833,1490 888,1494 891,1520 125,1523 129,1490 169,1487"/>
+      <TextLine id="eSc_line_8277f5fe" custom="structure {type:default;}">
+        <Coords points="883,1493 875,1493 866,1492 858,1491 849,1491 841,1490 832,1490 824,1489 815,1489 807,1489 798,1489 790,1489 782,1489 773,1489 765,1489 756,1489 748,1489 739,1489 731,1489 722,1489 714,1489 705,1489 697,1489 694,1489 133,1491 128,1497 128,1513 127,1522 883,1523 885,1514 883,1493 883,1493"/>
+        <Baseline points="128,1513 885,1514"/>
+        <TextEquiv>
+          <Unicode>© HAB http://diglib.hab.de/drucke/li-1876-1/start.htm?image=00008</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0ef9f5cd"  custom="structure {type:text;}">
+      <Coords points="213,1385 213,1411 207,1415 200,1402 213,1385"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3a9aa066"  custom="structure {type:text;}">
+      <Coords points="270,1381 277,1415 264,1418 258,1395 270,1381"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d8af9b31"  custom="structure {type:text;}">
+      <Coords points="111,1371 114,1371 114,1374 108,1374 111,1371"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8d308beb"  custom="structure {type:text;}">
+      <Coords points="328,1388 338,1404 322,1418 315,1402 328,1388"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_46167e27"  custom="structure {type:text;}">
+      <Coords points="331,1354 331,1357 329,1357 329,1354 331,1354"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b77536df"  custom="structure {type:text;}">
+      <Coords points="499,787 524,791 541,825 551,898 531,949 505,960 387,953 387,811 414,791 499,787"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3875f693"  custom="structure {type:text;}">
+      <Coords points="22,1507 43,1507 46,1513 20,1523 22,1507"/>
+    </TextRegion>
+  </Page>
+</PcGts>

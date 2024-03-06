@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://ub-backup.bib.uni-mannheim.de/~stweil">
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-06T09:17:56.738097+00:00</Created>
+        <LastChange>2024-03-06T09:17:56.738122+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="00006.jpg" imageWidth="1024" imageHeight="1528">
+    <TextRegion id="eSc_textblock_88c16446"  custom="structure {type:text;}">
+      <Coords points="107,1307 555,1314 565,1333 545,1357 461,1360 437,1401 343,1398 326,1421 322,1392 342,1388 346,1374 331,1353 88,1347 81,1314 107,1307"/>
+      <TextLine id="eSc_line_3cb29f7e" custom="structure {type:default;}">
+        <Coords points="509,1313 508,1313 503,1313 469,1317 458,1313 455,1312 455,1312 450,1312 448,1311 420,1311 416,1311 407,1311 399,1311 390,1311 382,1310 373,1310 365,1310 356,1310 348,1310 346,1310 344,1312 342,1314 327,1312 309,1309 305,1309 297,1309 288,1309 280,1309 274,1308 233,1311 213,1312 208,1311 196,1308 195,1308 186,1308 184,1308 180,1311 178,1311 128,1311 127,1310 115,1307 110,1307 101,1308 93,1310 85,1326 84,1331 84,1342 96,1348 97,1348 98,1348 281,1348 382,1348 552,1356 554,1341 552,1314 537,1318 512,1313 509,1313"/>
+        <Baseline points="84,1331 554,1341"/>
+        <TextEquiv conf="0.9888616155933689">
+          <Unicode>Herzog August Bibliothek Wolfenbüttel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cfe30ce7" custom="structure {type:default;}">
+        <Coords points="361,1377 361,1387 442,1387 442,1376 440,1353 360,1353 361,1377"/>
+        <Baseline points="361,1377 442,1376"/>
+        <TextEquiv conf="0.9998403906822204">
+          <Unicode>Kodak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5469766c" custom="structure {type:default;}">
+        <Coords points="367,1395 367,1404 433,1406 433,1393 432,1381 366,1381 367,1395"/>
+        <Baseline points="367,1395 433,1393"/>
+        <TextEquiv>
+          <Unicode>Gray Scale</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_cd01e535"  custom="structure {type:text;}">
+      <Coords points="158,1487 847,1490 888,1494 891,1520 129,1527 122,1494 158,1487"/>
+      <TextLine id="eSc_line_1f9bc34f" custom="structure {type:default;}">
+        <Coords points="884,1493 876,1492 867,1492 859,1491 850,1490 842,1489 833,1489 825,1489 816,1489 808,1489 799,1489 791,1489 782,1489 774,1489 765,1489 757,1489 748,1489 740,1489 731,1489 723,1489 714,1489 706,1489 697,1489 689,1489 680,1489 672,1488 663,1488 655,1488 647,1488 638,1488 630,1488 621,1488 613,1488 604,1488 596,1488 587,1488 579,1488 570,1488 562,1488 553,1488 545,1488 536,1488 528,1488 519,1488 511,1488 502,1488 146,1488 137,1490 129,1492 129,1513 129,1524 884,1524 885,1514 884,1493 884,1493"/>
+        <Baseline points="129,1513 885,1514"/>
+        <TextEquiv>
+          <Unicode>© HAB http://diglib.hab.de/drucke/li-1876-1/start.htm?image=00006</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4c3dc10e"  custom="structure {type:text;}">
+      <Coords points="25,1504 50,1507 46,1520 16,1523 25,1504"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_36c3c3a4"  custom="structure {type:text;}">
+      <Coords points="90,1395 90,1411 88,1411 84,1402 90,1395"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_db39051a"  custom="structure {type:text;}">
+      <Coords points="213,1392 216,1415 203,1415 200,1398 213,1392"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_20d70e60"  custom="structure {type:text;}">
+      <Coords points="273,1385 284,1408 264,1418 261,1402 273,1385"/>
+    </TextRegion>
+  </Page>
+</PcGts>

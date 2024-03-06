@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://ub-backup.bib.uni-mannheim.de/~stweil">
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-06T09:17:56.663736+00:00</Created>
+        <LastChange>2024-03-06T09:17:56.663760+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="00004.jpg" imageWidth="1024" imageHeight="1528">
+    <TextRegion id="eSc_textblock_482277e1"  custom="structure {type:text;}">
+      <Coords points="458,943 647,943 660,960 461,963 458,943"/>
+      <TextLine id="eSc_line_0bd7ad77" custom="structure {type:default;}">
+        <Coords points="650,948 643,943 637,943 633,943 624,943 616,943 607,943 599,943 590,943 582,943 573,943 565,943 557,943 548,943 540,943 455,943 455,955 454,964 654,965 656,957 655,955 650,948"/>
+        <Baseline points="455,955 656,957"/>
+        <TextEquiv>
+          <Unicode>Indagine Constans</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_16ca9475"  custom="structure {type:text;}">
+      <Coords points="475,998 643,1008 660,1022 663,1058 637,1065 613,1095 502,1095 461,1058 455,1015 475,998"/>
+      <TextLine id="eSc_line_4615dc41" custom="structure {type:default;}">
+        <Coords points="650,1016 638,1007 625,1007 612,1005 599,1005 587,1004 574,1003 561,1003 548,1002 536,1002 531,1000 467,1002 461,1009 459,1002 448,1002 448,1021 447,1031 496,1040 497,1040 564,1037 625,1035 657,1041 659,1025 658,1017 650,1016"/>
+        <Baseline points="449,1022 518,1027 661,1026"/>
+        <TextEquiv>
+          <Unicode>I.M. DILHERRI</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_363f6913" custom="structure {type:default;}">
+        <Coords points="653,1036 468,1030 461,1044 459,1051 458,1063 657,1077 659,1058 658,1053 653,1036"/>
+        <Baseline points="461,1052 540,1057 661,1059"/>
+        <TextEquiv>
+          <Unicode>DISPUTATI-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_874c62c1" custom="structure {type:default;}">
+        <Coords points="502,1088 502,1096 611,1096 611,1086 609,1067 557,1061 556,1061 501,1065 502,1088"/>
+        <Baseline points="502,1088 611,1086"/>
+        <TextEquiv conf="0.999773383140564">
+          <Unicode>ONES.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d5f2cbbe"  custom="structure {type:text;}">
+      <Coords points="94,1303 517,1310 548,1314 558,1340 551,1350 455,1353 437,1401 370,1404 349,1394 345,1367 322,1367 343,1357 328,1350 81,1347 78,1310 94,1303"/>
+      <TextLine id="eSc_line_1a13559f" custom="structure {type:default;}">
+        <Coords points="550,1322 546,1318 514,1313 513,1313 472,1317 466,1317 464,1316 457,1313 456,1313 401,1311 400,1311 399,1311 399,1311 394,1314 393,1315 390,1314 382,1310 382,1310 381,1310 346,1313 337,1313 332,1312 316,1308 315,1308 315,1308 314,1308 309,1311 308,1313 305,1311 300,1308 299,1308 298,1308 258,1307 258,1307 257,1307 256,1307 256,1308 253,1309 251,1313 227,1313 196,1312 193,1308 192,1306 191,1306 191,1305 191,1305 190,1305 189,1305 176,1307 154,1310 87,1304 83,1307 83,1331 82,1342 93,1347 94,1347 289,1348 406,1348 440,1349 444,1353 445,1354 445,1355 446,1355 447,1355 550,1357 551,1342 551,1326 550,1322"/>
+        <Baseline points="83,1331 551,1342"/>
+        <TextEquiv conf="0.9978329893705007">
+          <Unicode>Herzog August Bibliothek Wolfenbüttel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c211926a" custom="structure {type:default;}">
+        <Coords points="356,1376 355,1387 440,1387 441,1378 441,1355 356,1352 356,1376"/>
+        <Baseline points="356,1376 441,1378"/>
+        <TextEquiv conf="0.99844331741333">
+          <Unicode>Kodak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9ca79577" custom="structure {type:default;}">
+        <Coords points="364,1395 364,1404 430,1409 432,1393 429,1381 363,1382 364,1395"/>
+        <Baseline points="364,1395 432,1393"/>
+        <TextEquiv>
+          <Unicode>Gray Scale</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_8ca9fafc"  custom="structure {type:text;}">
+      <Coords points="131,1487 871,1490 891,1497 891,1520 122,1527 118,1494 131,1487"/>
+      <TextLine id="eSc_line_63bb7633" custom="structure {type:default;}">
+        <Coords points="881,1494 872,1491 868,1490 125,1490 126,1514 126,1523 883,1524 885,1513 883,1494 881,1494"/>
+        <Baseline points="126,1514 885,1513"/>
+        <TextEquiv>
+          <Unicode>© HAB http://diglib.hab.de/drucke/li-1876-1/start.htm?image=00004</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_4aa14dab"  custom="structure {type:text;}">
+      <Coords points="22,1517 46,1517 46,1520 27,1523 22,1517"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_9a3b2905"  custom="structure {type:text;}">
+      <Coords points="274,1402 274,1408 271,1408 271,1402 274,1402"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_b9bc7b0f"  custom="structure {type:text;}">
+      <Coords points="84,1375 104,1375 104,1377 84,1384 84,1375"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_16e3be70"  custom="structure {type:text;}">
+      <Coords points="155,1375 277,1375 277,1377 213,1381 203,1401 196,1381 155,1375"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f1389667"  custom="structure {type:text;}">
+      <Coords points="270,1392 270,1394 268,1394 268,1392 270,1392"/>
+    </TextRegion>
+  </Page>
+</PcGts>
