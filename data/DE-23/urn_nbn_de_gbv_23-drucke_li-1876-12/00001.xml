@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="https://ub-backup.bib.uni-mannheim.de/~stweil">
+	<Creator>escriptorium</Creator>
+	<Created>2024-03-06T09:17:56.615475+00:00</Created>
+        <LastChange>2024-03-06T09:17:56.615504+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="00001.jpg" imageWidth="1024" imageHeight="1519">
+    <TextRegion id="eSc_textblock_8a27e0bb"  custom="structure {type:text;}">
+      <Coords points="484,1302 949,1306 966,1329 953,1349 852,1359 834,1396 741,1396 736,1416 714,1416 707,1387 723,1362 657,1359 666,1346 482,1342 471,1309 484,1302"/>
+      <TextLine id="eSc_line_c03770ba" custom="structure {type:default;}">
+        <Coords points="951,1311 924,1313 915,1310 905,1307 904,1307 904,1307 903,1307 902,1307 899,1309 897,1312 890,1309 880,1306 879,1306 878,1306 877,1306 871,1309 867,1311 866,1309 863,1307 863,1306 862,1306 861,1306 839,1305 839,1305 838,1305 837,1305 837,1306 834,1308 832,1310 826,1308 811,1304 810,1304 809,1304 792,1308 785,1309 784,1308 781,1304 780,1304 780,1304 774,1304 765,1308 762,1308 758,1307 749,1303 748,1303 747,1303 731,1307 729,1307 725,1307 698,1303 695,1303 687,1303 678,1303 670,1303 666,1302 655,1305 649,1306 590,1305 588,1304 585,1302 585,1302 577,1302 568,1302 560,1302 552,1302 543,1302 535,1302 526,1302 518,1302 513,1302 483,1302 476,1321 476,1324 475,1339 715,1340 742,1346 752,1347 753,1347 767,1346 802,1344 815,1347 819,1349 820,1349 953,1351 955,1336 954,1314 951,1311"/>
+        <Baseline points="476,1324 955,1336"/>
+        <TextEquiv conf="0.9876519667135703">
+          <Unicode>Herzog August Bibliothek Wolfenbüttel</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0b0e870" custom="structure {type:default;}">
+        <Coords points="755,1373 755,1383 838,1384 839,1373 839,1349 833,1346 832,1346 831,1346 830,1346 800,1348 780,1350 775,1346 774,1345 773,1345 772,1345 771,1345 755,1345 755,1373"/>
+        <Baseline points="755,1373 839,1373"/>
+        <TextEquiv conf="0.997378671169281">
+          <Unicode>Kodak</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_32d7fc26" custom="structure {type:default;}">
+        <Coords points="762,1390 762,1402 827,1407 828,1389 825,1376 761,1377 762,1390"/>
+        <Baseline points="762,1390 828,1389"/>
+        <TextEquiv>
+          <Unicode>Gray Scale</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0cda1657"  custom="structure {type:text;}">
+      <Coords points="157,1478 855,1481 885,1485 888,1508 885,1518 124,1518 121,1488 157,1478"/>
+      <TextLine id="eSc_line_599ee6a4" custom="structure {type:default;}">
+        <Coords points="872,1483 864,1481 856,1481 146,1481 138,1483 130,1485 130,1503 130,1516 879,1516 880,1505 879,1483 872,1483"/>
+        <Baseline points="130,1503 880,1505"/>
+        <TextEquiv>
+          <Unicode>© HAB http://diglib.hab.de/drucke/li-1876-1/start.htm?image=00001</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0ca47650"  custom="structure {type:text;}">
+      <Coords points="608,1383 612,1410 596,1413 593,1397 608,1383"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_2a57c7ff"  custom="structure {type:text;}">
+      <Coords points="676,1373 699,1379 683,1379 677,1416 660,1416 654,1404 676,1373"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_13ed841d"  custom="structure {type:text;}">
+      <Coords points="709,1377 709,1379 707,1379 707,1377 709,1377"/>
+    </TextRegion>
+  </Page>
+</PcGts>
