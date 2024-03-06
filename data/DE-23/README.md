@@ -4,8 +4,7 @@
 
 ### URL examples
 
-* METS file – http://oai.hab.de/?verb=GetRecord&metadataPrefix=mets&identifier=oai:diglib.hab.de:ppn_549836969
-* Page image –
+* OAI/METS file – http://oai.hab.de/?verb=GetRecord&metadataPrefix=mets&identifier=oai:diglib.hab.de:ppn_549836969
 
 ### Useful commands for data handling
 
