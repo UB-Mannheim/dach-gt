@@ -1,6 +1,6 @@
 ## Herzog August Bibliothek Wolfenbüttel
 
-* Disputationum Academicarum (1652), [Original](http://nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:gbv:23-drucke/li-1876-12)
+* Disputationum Academicarum (1652), [Original](http://diglib.hab.de/drucke/li-1876-1/start.htm)
 
 ### URL examples
 
