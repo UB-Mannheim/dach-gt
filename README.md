@@ -1,4 +1,4 @@
-## Ground truth and full text for selected prints of German libraries
+## Ground truth and full text for selected prints of German archives and libraries
 
 * [Staatsbibliothek zu Berlin](data/DE-1)
 * [Bayerische Staatsbibliothek](data/DE-12) / Münchener Digitalisierungszentrum
@@ -8,6 +8,7 @@
 * [Universitäts- und Stadtbibliothek Köln](data/DE-38)
 * [Universitäts- und Landesbibliothek Düsseldorf](data/DE-61)
 * [Hochschulbibliothek Fachhochschule Potsdam](data/DE-525)
+* [MARCHIVUM Mannheim](data/DE-Mh40)
 
 ### Collection of useful commands
 

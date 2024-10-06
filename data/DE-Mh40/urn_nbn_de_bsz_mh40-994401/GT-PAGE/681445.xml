@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-10-03T20:14:03.731013+02:00</Created>
+        <LastChange>2024-10-04T23:20:26.332835+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="681445.jpg" imageWidth="2109" imageHeight="2781">
+    <TextRegion id="eSc_textblock_c5b26223"  custom="structure {type:text;}">
+      <Coords points="953,179 1109,185 1123,210 1917,228 1974,296 2028,315 2016,554 1090,580 1756,630 1770,673 1820,692 2022,716 2028,795 2065,821 2065,851 2028,865 2022,920 2022,1240 2059,1260 2059,1290 2022,1297 2022,1382 2028,1469 2059,1489 2059,1524 2016,1545 2034,1773 2016,1858 2024,1915 2107,1921 2107,1945 2022,1940 2003,2173 1918,2179 1867,2142 1701,2136 339,2136 370,2013 376,1765 370,1705 339,1673 339,1625 376,1586 376,1192 370,1130 339,1098 339,1056 370,1030 370,920 339,857 339,729 401,661 580,659 560,641 389,641 346,424 352,278 438,203 880,203 953,179"/>
+      <TextLine id="eSc_line_42865591" custom="structure {type:default;}">
+        <Coords points="1925,239 1920,234 1875,227 1863,227 1847,225 1838,225 1815,233 1741,233 1693,233 1693,231 1667,222 1662,222 1648,220 1626,228 1565,219 1554,219 1548,219 1534,228 1532,230 1490,230 1483,227 1435,216 1430,216 1419,216 1375,225 1362,227 1330,224 1206,211 1198,211 1188,210 1146,220 1135,222 1129,219 1117,214 1115,214 1113,214 1069,217 1038,220 1032,217 1012,207 1010,207 953,205 951,205 848,213 811,216 804,213 789,203 781,203 775,203 746,211 732,214 721,211 701,203 689,203 673,203 672,203 644,208 636,210 628,208 605,203 596,203 580,203 579,203 573,207 565,211 528,207 505,203 503,203 488,203 472,203 457,203 448,203 441,203 441,251 440,262 460,271 461,271 463,271 743,270 817,270 821,271 831,278 832,278 834,278 953,281 954,281 1001,276 1033,273 1041,278 1049,281 1050,281 1052,281 1177,281 1359,279 1492,281 1514,288 1524,292 1526,292 1528,292 1552,290 1606,284 1645,292 1656,293 1932,298 1935,279 1931,248 1925,239"/>
+        <Baseline points="441,251 1152,261 1935,279"/>
+        <TextEquiv>
+          <Unicode>IV) Sachen ſo geſtohlen, verlohren, oder gefunden worden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dbea90b5" custom="structure {type:default;}">
+        <Coords points="2003,305 1988,301 1982,298 1816,298 1806,295 1773,285 1772,285 1770,285 1730,293 1716,295 1699,292 1656,284 1654,284 1653,284 1626,290 1614,293 1486,292 1480,287 1472,282 1470,282 1469,282 1467,282 1466,282 1455,287 1447,290 1426,285 1390,279 1389,279 1294,284 1211,287 1200,281 1198,279 1197,279 1195,279 1194,279 1171,281 1130,284 1123,279 1118,276 1117,276 1115,276 990,273 988,273 842,273 497,276 477,265 475,265 474,265 472,265 461,265 387,271 361,265 350,273 350,312 349,329 2019,352 2022,336 2013,309 2003,305"/>
+        <Baseline points="350,312 1154,319 2022,336"/>
+        <TextEquiv>
+          <Unicode>1. Unterm 15ten dieſes iſt zwiſchen Neckerau und Schwezingen ein Rockelor mit einen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_888746ef" custom="structure {type:default;}">
+        <Coords points="389,376 2011,403 2014,387 2013,352 1497,335 1495,335 1422,339 1390,341 1364,338 1313,332 1311,332 1260,336 1222,339 1214,335 1208,330 1206,330 1205,330 1203,330 1029,332 817,333 801,327 794,324 792,324 791,324 766,325 715,332 641,324 608,321 607,321 587,322 533,329 514,321 509,319 508,319 506,319 486,321 420,327 392,319 390,363 389,376"/>
+        <Baseline points="390,363 1181,369 2014,387"/>
+        <TextEquiv>
+          <Unicode>doppelten Kragen verloren worden, wer ſolchen gefunden ſoll ein gutes Recompenz haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aede58c5" custom="structure {type:default;}">
+        <Coords points="347,420 452,431 454,431 661,426 676,434 678,434 679,435 1287,435 1497,446 1498,446 2019,444 2020,434 2020,398 1918,398 1911,395 1883,387 1881,387 1880,387 1878,387 1861,393 1858,395 1781,392 1528,383 1526,383 1483,386 1455,389 1430,386 1392,380 1390,380 1290,383 1186,386 1171,380 1161,376 1160,376 1158,376 1120,380 1072,383 1058,378 1049,375 1047,375 1046,375 996,376 927,380 889,375 868,372 866,372 840,373 770,380 753,372 750,370 749,370 747,370 733,372 684,378 644,370 636,369 635,369 633,369 630,369 602,376 559,367 551,367 550,367 540,367 465,375 400,366 398,366 397,366 376,373 350,364 349,409 347,420"/>
+        <Baseline points="349,409 2020,434"/>
+        <TextEquiv>
+          <Unicode>2. Demnach die vorige Woche zwiſchen Speyer und Schwezingen ein Paraſol gefundet</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7e904c30" custom="structure {type:default;}">
+        <Coords points="390,469 624,482 625,482 706,475 713,475 718,475 757,483 758,483 814,477 823,477 2011,497 2014,480 2013,446 1840,444 1829,441 1778,432 1776,432 1775,432 1744,440 1736,441 1656,441 1651,438 1634,431 1633,431 1631,431 1582,437 1554,440 1523,435 1489,431 1487,431 1486,431 1477,435 1469,438 1443,434 1402,427 1401,427 1359,432 1321,437 1311,431 1300,426 1299,426 1081,423 1079,423 1053,426 1008,432 940,424 937,424 936,424 934,424 866,431 829,421 818,420 817,420 806,421 769,429 729,420 726,420 724,420 719,420 659,427 630,418 625,417 624,417 622,417 596,417 429,424 393,414 392,458 390,469"/>
+        <Baseline points="392,458 2014,480"/>
+        <TextEquiv>
+          <Unicode>worden; Als wird zu jedermanns Wiſſenſchaft kund gemacht, daß, wer ſich darzu hin⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c9d68d81" custom="structure {type:default;}">
+        <Coords points="2013,523 2002,492 1830,485 1829,485 1827,485 1818,489 1813,491 1804,489 1775,482 1773,482 1772,482 1722,488 1715,488 1711,488 1691,480 1690,480 1688,480 1633,486 1605,488 1528,483 1416,477 1415,477 1413,477 1398,482 1384,485 1376,480 1368,475 1367,475 1365,475 1364,475 1280,478 1200,482 1166,477 1141,472 1140,472 1072,474 954,478 940,472 934,469 933,469 931,469 905,471 835,477 721,468 699,466 698,466 678,466 553,472 392,461 392,508 390,520 512,533 514,533 794,528 808,528 834,528 1257,543 1259,543 1321,536 1328,536 1333,536 1364,545 1365,545 1367,545 1433,537 1444,537 1455,539 1506,546 1507,548 2014,548 2016,531 2014,499 2013,523"/>
+        <Baseline points="392,508 2016,531"/>
+        <TextEquiv>
+          <Unicode>laͤnglich wird legitimiren koͤnnen, bey hieſigem Rathsdiener Fordenbach ſich zu melden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8becd121" custom="structure {type:default;}">
+        <Coords points="390,554 389,571 471,577 472,577 511,568 512,557 512,528 469,528 466,525 454,514 452,514 451,514 449,514 390,520 390,554"/>
+        <Baseline points="390,554 512,557"/>
+        <TextEquiv conf="0.9999950647354126">
+          <Unicode>habe.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c1f0f4f8" custom="structure {type:default;}">
+        <Coords points="647,670 645,679 686,692 687,692 689,693 792,693 792,692 794,692 809,684 914,693 916,693 973,684 993,693 995,693 1113,695 1115,695 1171,685 1236,696 1237,696 1353,690 1370,698 1372,698 1373,698 1484,689 1545,699 1546,699 1548,699 1575,692 1705,699 1707,699 1708,699 1710,699 1721,689 1722,679 1722,638 1670,627 1668,627 1667,627 1645,634 1623,625 1622,625 1620,625 1579,634 1569,636 1565,634 1543,624 1541,624 1480,624 1478,624 1477,624 1452,633 1446,634 1443,631 1432,624 1430,624 1429,624 1427,624 1379,631 1376,631 1375,631 1364,622 1362,622 1361,622 1208,622 1206,622 1205,622 1194,628 1183,633 1101,633 1092,627 1084,621 1083,621 1081,621 1079,621 1078,621 1067,625 1053,631 1030,625 1007,619 1005,619 1004,619 1002,619 988,624 974,631 883,631 869,622 865,619 863,619 862,619 860,619 840,622 797,628 772,621 761,618 760,618 758,618 741,621 695,628 647,619 647,670"/>
+        <Baseline points="647,670 1722,679"/>
+        <TextEquiv>
+          <Unicode>V) Gelehrte Sachen und Buͤcher⸗Verkauf.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29f43451" custom="structure {type:default;}">
+        <Coords points="2011,713 1918,704 1895,699 1661,699 1622,683 1290,697 1151,683 1110,697 1082,685 906,695 889,683 412,683 368,692 345,718 345,771 498,755 1012,767 1073,757 1091,769 1100,769 1126,757 1383,769 1436,769 1467,755 1531,755 1548,769 2013,764 2016,743 2011,713"/>
+        <Baseline points="346,747 2017,746"/>
+        <TextEquiv>
+          <Unicode>3. Bey Verlegern dieſes Blatts dem Churfuͤrſtlichen Antiquario Pfaͤhler ſind unter andern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5bd1bc4e" custom="structure {type:default;}">
+        <Coords points="389,804 451,812 452,812 687,800 951,801 953,801 954,801 976,792 976,781 973,747 804,738 803,738 753,749 681,740 679,740 678,740 635,750 461,746 460,746 458,746 457,746 438,758 387,758 389,794"/>
+        <Baseline points="389,794 976,781"/>
+        <TextEquiv>
+          <Unicode>auch ſolgende Buͤcher zu haben:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_93edaec2" custom="structure {type:default;}">
+        <Coords points="2020,783 340,792 343,841 343,855 2025,857 2030,836 2023,783 2020,783"/>
+        <Baseline points="344,843 2032,838"/>
+        <TextEquiv>
+          <Unicode>I. Biblia ſacra vulgatæ Editionis Juſſu ſixti V. Pontiſicis Max Recognita, Locupletiſſ S. S.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f975b19b" custom="structure {type:default;}">
+        <Coords points="1796,838 1562,838 1515,845 1457,838 1402,838 1390,848 964,848 964,845 954,841 915,841 597,841 588,845 574,841 495,841 382,848 384,908 2011,903 2013,885 2009,843 1796,838"/>
+        <Baseline points="387,888 2016,886"/>
+        <TextEquiv>
+          <Unicode>Patrum &amp; aliorum probator. S. Scriptura in erpretum Commentariis illuſtrata, ſimul &amp;</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1daaa824" custom="structure {type:default;}">
+        <Coords points="387,936 387,957 2007,954 2009,933 2002,892 384,894 387,936"/>
+        <Baseline points="389,937 2011,934"/>
+        <TextEquiv>
+          <Unicode>nova ad ſenſum ſcripturæ magis accommoda verſione german. in utilitatem eccleſiæ Cathol.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4beef5d6" custom="structure {type:default;}">
+        <Coords points="1172,936 1149,936 1126,936 1103,936 1079,936 1056,936 1033,936 1010,936 987,936 964,936 940,936 917,936 894,936 871,936 848,936 825,936 801,936 778,936 755,936 732,936 709,936 686,936 662,936 639,936 616,936 593,936 570,936 551,936 384,943 387,984 387,1008 544,996 2000,1005 2004,982 2000,943 1181,936 1172,936"/>
+        <Baseline points="389,985 2007,984"/>
+        <TextEquiv>
+          <Unicode>præſertim germanicsæ elucubrata ſub Directione R. P. Cartier. IV. Tomi c, mult. fig æneis.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_29e103f9" custom="structure {type:default;}">
+        <Coords points="1358,984 1334,984 1311,984 1288,984 1265,984 1242,984 1219,984 1195,984 1172,984 1149,984 1126,984 1103,984 1079,984 1056,984 1035,984 384,987 384,1031 382,1049 1365,1042 1367,1033 1362,984 1358,984"/>
+        <Baseline points="387,1032 1368,1035"/>
+        <TextEquiv>
+          <Unicode>folio Editio noviſſima Conſtantiæ 1763. ungeb. 18. fl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0eafd69" custom="structure {type:default;}">
+        <Coords points="593,1026 584,1026 560,1040 359,1040 340,1084 340,1105 405,1093 2004,1103 2009,1082 2007,1040 1951,1024 1949,1024 1946,1024 1944,1024 1891,1038 1874,1024 1872,1024 1870,1024 1571,1022 1569,1022 1490,1038 1471,1024 1469,1024 1467,1024 1383,1022 1381,1022 1378,1022 1376,1022 1355,1038 933,1026 931,1026 929,1026 885,1038 843,1024 841,1024 838,1024 836,1024 787,1038 711,1026 709,1026 637,1038 611,1026 593,1026"/>
+        <Baseline points="343,1086 2011,1083"/>
+        <TextEquiv>
+          <Unicode>II. Repertorium reale Practicum Juris Privati lmp. Rom. Germanici, oder Sammlung aller</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2a130115" custom="structure {type:default;}">
+        <Coords points="1749,1084 1149,1084 1112,1089 892,1084 505,1084 468,1089 442,1084 389,1084 382,1089 384,1156 560,1144 2000,1147 2004,1128 2000,1089 1749,1084"/>
+        <Baseline points="387,1135 2007,1130"/>
+        <TextEquiv conf="0.9814927490746103">
+          <Unicode>uͤblichen und brauchbaren Rechte im H. R. Reich und benachbarten Landen enthaltend</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_6a7d1212" custom="structure {type:default;}">
+        <Coords points="384,1179 384,1191 2002,1200 2004,1179 2004,1140 384,1140 384,1179"/>
+        <Baseline points="387,1181 2005,1180"/>
+        <TextEquiv>
+          <Unicode>Geſeze, Capitularia, Reichs⸗Abſchiede, Land⸗ und Stadt⸗Rechte, Weichbild,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e701e047" custom="structure {type:default;}">
+        <Coords points="1239,1181 1216,1181 1193,1181 1170,1181 1147,1181 1124,1181 1100,1181 1077,1181 1054,1181 1031,1181 1008,1181 984,1181 961,1181 938,1181 915,1181 892,1181 869,1181 845,1181 822,1181 799,1181 776,1181 753,1181 730,1181 706,1181 683,1181 660,1181 637,1181 614,1181 590,1181 567,1181 544,1181 521,1181 498,1181 475,1181 463,1181 382,1188 384,1230 384,1253 1110,1253 1110,1251 1117,1251 1195,1239 2000,1249 2004,1225 2000,1186 1253,1181 1239,1181"/>
+        <Baseline points="387,1231 2007,1228"/>
+        <TextEquiv>
+          <Unicode>Willkuͤhr, Conſtitutiones und Edicte der Provincien der vornehmſten Reichs⸗ und anderer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_293018d8" custom="structure {type:default;}">
+        <Coords points="2004,1228 451,1230 382,1239 384,1293 2018,1283 2020,1272 2016,1239 2004,1228"/>
+        <Baseline points="387,1282 2022,1274"/>
+        <TextEquiv>
+          <Unicode>Staͤdte, ferner den Kern der Deductionen, Reſponſorum in cauſis Illiuſtrium,Præjudi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c7b10a15" custom="structure {type:default;}">
+        <Coords points="1216,1279 1193,1279 1170,1279 1147,1279 1124,1279 1100,1279 1077,1279 1054,1279 1031,1279 1008,1279 984,1279 961,1279 938,1279 915,1279 892,1279 869,1279 845,1279 822,1279 799,1281 776,1281 753,1281 730,1281 706,1281 683,1281 660,1281 637,1281 614,1281 590,1281 567,1281 544,1281 521,1281 498,1281 489,1281 382,1286 384,1325 384,1339 2002,1344 2007,1320 2002,1281 1230,1276 1216,1279"/>
+        <Baseline points="386,1327 2008,1322"/>
+        <TextEquiv>
+          <Unicode>ciorum der Hoͤchſten Reichs⸗Gerichte, Diplomatum omnis ævi, in welchem das Jus Pri-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e61000ae" custom="structure {type:default;}">
+        <Coords points="387,1385 2005,1385 2007,1373 2005,1341 1452,1328 1450,1328 1081,1337 1039,1337 1027,1337 919,1327 917,1327 837,1336 835,1336 791,1327 789,1327 387,1334 387,1368"/>
+        <Baseline points="387,1368 2007,1373"/>
+        <TextEquiv>
+          <Unicode>vatum, und die heutige Reichs Praxis zu finden, worbey die ſtreitige Meynungen der</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e2c3bdb8" custom="structure {type:default;}">
+        <Coords points="384,1420 384,1434 2007,1432 2009,1413 2002,1371 382,1374 384,1420"/>
+        <Baseline points="387,1421 2010,1415"/>
+        <TextEquiv>
+          <Unicode>ICtorum, mit Gruͤnden und Gegengruͤnden bemerckt, auch darbey die beſten heraus⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9574c7f0" custom="structure {type:default;}">
+        <Coords points="1332,1418 1309,1418 1286,1418 1263,1418 1239,1418 1216,1418 1193,1418 1170,1418 1147,1418 1124,1418 1100,1418 1077,1418 1054,1418 1031,1418 1008,1418 984,1418 961,1418 938,1418 915,1420 892,1420 869,1420 845,1420 822,1420 799,1420 776,1420 753,1420 730,1420 706,1420 683,1420 660,1420 637,1420 614,1420 611,1420 382,1429 384,1471 384,1492 2004,1480 2007,1460 2002,1420 1355,1418 1332,1418"/>
+        <Baseline points="387,1472 2008,1461"/>
+        <TextEquiv>
+          <Unicode>gekommenen Schriften angefuͤhrt werden; Daß alſo dieſes Werck, als ein Bibliotheca</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ec57a0a7" custom="structure {type:default;}">
+        <Coords points="1339,1466 1316,1466 1293,1466 1270,1466 1246,1466 1223,1466 1200,1466 1177,1466 1154,1466 1130,1466 1107,1466 1084,1466 1061,1466 1038,1466 1015,1469 991,1469 968,1469 945,1469 922,1469 899,1469 876,1469 852,1469 850,1469 389,1476 391,1517 391,1541 2009,1534 2011,1513 2007,1473 1360,1464 1339,1466"/>
+        <Baseline points="393,1518 2013,1514"/>
+        <TextEquiv>
+          <Unicode>Juris ſelecta dienen kan. In Alphabetiſcher Ordnung unter Aufſicht I. A. Hellfelds.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c862ce3" custom="structure {type:default;}">
+        <Coords points="1198,1517 1175,1517 1151,1517 1128,1517 1105,1517 1082,1517 1059,1517 1035,1517 1012,1517 989,1517 966,1517 943,1517 920,1517 896,1517 873,1517 850,1517 827,1517 804,1517 781,1517 757,1517 741,1517 387,1531 389,1571 389,1587 1622,1580 1624,1557 1619,1520 1198,1515 1198,1517"/>
+        <Baseline points="390,1572 1626,1558"/>
+        <TextEquiv>
+          <Unicode>4. Theile. groß 4to, Jena 1753⸗62. ungebunden dieſesmahl 16. fl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9f8f62e1" custom="structure {type:default;}">
+        <Coords points="340,1652 340,1663 2009,1659 2007,1599 1960,1585 1951,1585 1932,1596 1800,1582 1782,1599 1691,1599 1643,1580 1450,1580 1365,1599 1330,1582 1175,1599 1151,1582 940,1582 892,1601 878,1589 825,1601 783,1585 669,1585 621,1599 560,1587 544,1603 359,1603 340,1652"/>
+        <Baseline points="341,1654 2010,1646"/>
+        <TextEquiv>
+          <Unicode>2. In der Churfuͤrſtlichen Hof⸗Buchhandlung, dem kleinen Viehhof gegen uͤber, ſind</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e0114b51" custom="structure {type:default;}">
+        <Coords points="2004,1647 915,1650 688,1652 630,1659 507,1652 451,1652 382,1661 384,1721 2009,1712 2011,1691 2004,1647"/>
+        <Baseline points="386,1704 2013,1693"/>
+        <TextEquiv>
+          <Unicode>nebſt vielen andern neuen Buͤchern und Continuationen auch folgende zu haben: 1) All⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4bad1021" custom="structure {type:default;}">
+        <Coords points="1981,1694 1054,1698 1031,1701 730,1701 382,1707 384,1770 2009,1752 2004,1694 1981,1694"/>
+        <Baseline points="387,1750 2010,1739"/>
+        <TextEquiv>
+          <Unicode>gemeine deutſche Bibliothec 3ten Bandes 1tes Stuͤck 1. fl. 15. kr. 2) Samlung wir⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c70e3c1e" custom="structure {type:default;}">
+        <Coords points="384,1796 384,1807 2000,1809 2004,1789 1997,1749 382,1754 384,1796"/>
+        <Baseline points="386,1798 2005,1790"/>
+        <TextEquiv>
+          <Unicode>tembergiſcher Staatsſchriften viertes Stuͤck 30. kr. 3) Jean Noé de Neufville noͤthige</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd55199c" custom="structure {type:default;}">
+        <Coords points="384,1844 384,1863 2002,1863 2004,1837 1997,1793 382,1800 384,1844"/>
+        <Baseline points="387,1847 2007,1840"/>
+        <TextEquiv conf="0.9888827752792972">
+          <Unicode>Erlaͤuterungen der unverfaͤnglichen Vorſchlaͤge zur Errichtung eines dauerhaften Muͤnz⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d4d8633e" custom="structure {type:default;}">
+        <Coords points="913,1844 889,1844 866,1844 843,1844 820,1844 797,1844 774,1844 750,1844 727,1844 725,1844 380,1856 382,1895 382,1911 2002,1904 2004,1886 2000,1849 927,1842 913,1844"/>
+        <Baseline points="384,1898 2005,1887"/>
+        <TextEquiv>
+          <Unicode>weſens in Deutſchland 24. kr. 4. Cramer Obſervationum juris univerſi Tom. IV. 3. f. 30 kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a7bfa4c4" custom="structure {type:default;}">
+        <Coords points="389,1944 389,1965 2002,1953 2004,1935 1997,1891 387,1898 389,1944"/>
+        <Baseline points="390,1946 2007,1937"/>
+        <TextEquiv>
+          <Unicode>5) Hr. von der Lith neue vollſtaͤndig erwieſene Abhandlung von den Steuern und deren</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7444cffe" custom="structure {type:default;}">
+        <Coords points="382,1995 382,2009 579,2020 581,2020 584,2020 623,2009 639,2006 736,2009 913,2016 915,2016 917,2016 920,2016 927,2009 933,2004 957,2009 980,2013 982,2013 1061,2009 1177,2002 1235,2009 1295,2016 1297,2016 1392,2009 1508,2000 1527,2009 1538,2013 1541,2013 1543,2013 1545,2013 1566,2009 1594,2002 1633,2009 1670,2013 1673,2013 1710,2009 1775,1997 1828,2009 1849,2011 1851,2011 2002,2006 2004,1983 1997,1937 380,1951 382,1995"/>
+        <Baseline points="383,1996 2007,1985"/>
+        <TextEquiv>
+          <Unicode>vortheilhaften Einrichtung in einem Lande 1. fl. 30. kr. 6) Neue engliſche Taͤnze nebſt</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_38a9a504" custom="structure {type:default;}">
+        <Coords points="386,2062 500,2062 500,2061 502,2061 511,2059 537,2051 553,2057 557,2059 559,2059 560,2059 616,2056 713,2050 761,2053 820,2056 821,2056 823,2056 835,2051 842,2048 868,2050 939,2056 940,2056 978,2047 984,2047 988,2047 1032,2054 1033,2054 1107,2044 1107,2034 1106,2002 1066,1989 1064,1989 1062,1989 1061,1989 1033,2000 939,1991 937,1991 936,1991 934,1991 920,2002 817,1991 815,1991 384,2006 386,2042"/>
+        <Baseline points="386,2042 1107,2034"/>
+        <TextEquiv conf="0.9805013113900235">
+          <Unicode>dazu componirten Muſic. 1. fl. 15. kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f50f59e7" custom="structure {type:default;}">
+        <Coords points="1929,2053 1928,2053 1849,2064 1704,2054 1702,2054 1701,2054 1657,2065 1560,2056 1558,2056 1557,2056 1528,2067 1526,2067 1288,2059 1287,2059 1109,2062 1107,2062 1083,2071 1081,2071 1072,2071 937,2065 936,2065 857,2073 811,2064 809,2064 644,2076 630,2076 622,2076 546,2067 545,2067 491,2078 485,2078 480,2078 432,2068 431,2068 350,2078 343,2105 341,2121 341,2161 492,2142 693,2142 758,2155 780,2158 781,2158 812,2153 860,2146 903,2152 942,2156 944,2156 1004,2149 1061,2141 1290,2136 1311,2142 1341,2152 1342,2152 1344,2152 1413,2144 1549,2150 1551,2150 1854,2147 1855,2147 1908,2130 1909,2129 2007,2127 2007,2104 2005,2095 2000,2062"/>
+        <Baseline points="341,2121 2007,2104"/>
+        <TextEquiv>
+          <Unicode>3. In der Academiſchen Buchhandlung bey Tobias Loͤfler im goldenen Leuchter ſind zu ha⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_64574ee8" custom="structure {type:default;}">
+        <Coords points="1994,2118 1900,2119 1903,2158 1903,2186 2002,2183 2002,2155 2000,2152 1994,2118"/>
+        <Baseline points="1903,2158 2002,2155"/>
+        <TextEquiv conf="0.9916470050811768">
+          <Unicode>ben:</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_0fa214cb"  custom="structure {type:text;}">
+      <Coords points="2064,2113 2078,2119 2078,2124 2061,2124 2064,2113"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f0786fc1"  custom="structure {type:text;}">
+      <Coords points="2070,1977 2071,1982 2067,1982 2067,1977 2070,1977"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_e8b0e2aa"  custom="structure {type:text;}">
+      <Coords points="2107,2127 2107,2130 2104,2130 2104,2125 2107,2127"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_16780013"  custom="structure {type:text;}">
+      <Coords points="2107,1979 2107,1982 2104,1982 2104,1977 2107,1979"/>
+    </TextRegion>
+  </Page>
+</PcGts>

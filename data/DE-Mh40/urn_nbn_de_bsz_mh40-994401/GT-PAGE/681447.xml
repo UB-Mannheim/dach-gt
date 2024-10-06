@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-10-03T20:14:05.424059+02:00</Created>
+        <LastChange>2024-10-04T23:20:26.419933+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="681447.jpg" imageWidth="2186" imageHeight="2767">
+    <TextRegion id="eSc_textblock_82172187"  custom="structure {type:text;}">
+      <Coords points="851,245 2063,258 2069,490 2167,510 2136,539 2069,522 2063,963 2184,971 2184,1019 2149,1020 2155,1062 2070,1062 2063,1020 2050,1191 1966,1203 1890,1246 1454,1302 1008,1302 946,1289 959,1278 926,1258 436,1240 418,1076 387,1043 387,996 418,963 418,602 381,564 381,510 418,459 418,264 851,245"/>
+      <TextLine id="eSc_line_c27891fa" custom="structure {type:default;}">
+        <Coords points="2036,255 1574,251 698,251 421,262 421,311 2056,318 2059,255 2036,255"/>
+        <Baseline points="422,296 2061,296"/>
+        <TextEquiv conf="0.9834138161914293">
+          <Unicode>nicht weniger wider die Unfruchtbarkeit ſowol maͤnn⸗ als weiblichen Geſchlechts, u. zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2b1dfe39" custom="structure {type:default;}">
+        <Coords points="427,361 2053,353 2053,342 2053,308 1383,299 1382,299 1380,299 1354,307 1325,299 1323,299 1322,299 1209,307 1139,299 1137,299 1136,299 1119,307 1094,299 1093,299 1091,299 990,307 942,299 940,299 939,299 920,307 876,299 874,299 823,307 759,299 757,299 756,299 754,299 740,308 610,308 453,299 451,299 450,299 427,307 427,342"/>
+        <Baseline points="427,342 2053,342"/>
+        <TextEquiv>
+          <Unicode>Staͤrckung der Leibesfrucht ꝛc. als ein unvergleichl. Medicament gebraucht werden.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d0afa1a8" custom="structure {type:default;}">
+        <Coords points="1651,344 1631,353 1583,344 1581,344 1432,353 1365,345 1363,345 1362,345 1345,355 1342,356 1257,356 1254,355 1240,345 1239,345 1237,345 1235,345 1183,353 1160,345 1159,345 970,345 968,345 877,347 876,347 860,355 854,356 843,355 811,347 722,347 720,347 719,347 705,355 699,356 684,355 644,347 642,347 611,355 601,356 593,355 573,347 571,347 570,347 425,353 427,393 427,411 2050,404 2052,388 2049,355 1700,355 1654,344 1652,344"/>
+        <Baseline points="427,393 2052,388"/>
+        <TextEquiv conf="0.9866132386799517">
+          <Unicode>Auch iſt es den Waſſer⸗Trinkern ſehr dienlich, maſſen es das Waſſer corrigiret und ver⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d298c6cd" custom="structure {type:default;}">
+        <Coords points="427,456 2053,453 2055,439 2050,398 1792,401 1754,398 1683,393 1681,393 1629,399 1611,401 1604,399 1588,393 1586,393 1584,393 1531,399 1514,401 1491,399 1398,393 1397,393 1345,401 1337,401 1328,401 1249,393 1248,393 1051,402 1025,402 1013,402 933,395 931,395 868,402 865,402 862,402 788,395 787,395 711,402 614,395 613,395 508,402 468,395 467,395 425,404 427,442"/>
+        <Baseline points="427,442 2055,439"/>
+        <TextEquiv>
+          <Unicode>duͤnnet, auch den Magen ſtaͤrket und das Waſſer abfuͤhret. Das Glaͤßlein koſt 12½ kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f3796d42" custom="structure {type:default;}">
+        <Coords points="425,491 425,510 648,499 671,508 676,510 677,510 679,510 760,507 762,487 757,451 608,459 604,456 596,450 596,448 594,448 593,448 534,448 533,448 531,448 530,448 530,450 519,459 516,462 496,462 490,459 451,450 450,450 448,450 447,450 424,459 425,491"/>
+        <Baseline points="425,491 762,487"/>
+        <TextEquiv conf="0.9996488317847252">
+          <Unicode>rhn oder 6. ggr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_195fd0b4" custom="structure {type:default;}">
+        <Coords points="747,488 719,498 385,498 380,504 380,558 2052,551 2054,534 2052,484 1909,481 1863,495 1844,481 1591,481 1570,495 1392,481 1335,495 1155,481 1134,495 968,481 947,498 837,498 777,481 747,488"/>
+        <Baseline points="382,541 525,533 2056,536"/>
+        <TextEquiv>
+          <Unicode>4) Medicina univerſalis in omnibus intermittentibus, oder Univerſal Medicin in allen und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b79c28d5" custom="structure {type:default;}">
+        <Coords points="430,604 2050,597 2052,585 2049,548 1498,541 1497,541 1449,548 1443,548 1435,548 1357,541 1355,541 1234,542 1232,542 1220,548 1215,550 1195,548 1131,542 1129,542 1071,548 1054,550 1049,548 1033,542 1031,542 1029,542 997,548 988,550 966,548 885,542 883,542 830,548 817,550 803,548 754,542 753,542 428,548 430,588"/>
+        <Baseline points="430,588 2052,585"/>
+        <TextEquiv conf="0.9964453286745332">
+          <Unicode>jeden Wechſelfiebern ſicher zu gebrauchen, indem ſolche alle Fieber ohne Unterſchied aus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f728997" custom="structure {type:default;}">
+        <Coords points="427,651 2047,651 2049,633 2046,599 1852,597 1829,588 1827,588 1826,588 1770,597 1720,588 1718,588 1717,588 1697,597 1620,588 1618,588 1617,588 1591,597 1535,590 1534,590 1475,599 1466,599 1455,599 1385,590 1383,590 1237,599 1214,599 1200,599 1132,591 1131,591 1073,599 1062,599 1060,599 1046,590 1045,590 1043,590 1042,590 977,597 894,591 893,591 891,591 876,599 870,601 856,599 827,593 825,593 796,599 782,601 773,599 750,591 748,591 747,591 425,597 427,637"/>
+        <Baseline points="427,637 2049,633"/>
+        <TextEquiv conf="0.9858936688729695">
+          <Unicode>dem Grund zu heben das Vermoͤgen hat, und ſolche mittelſt 9. Morſellen in 8. oder 9.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd9a3dfd" custom="structure {type:default;}">
+        <Coords points="428,684 428,707 2045,705 2047,682 2043,643 426,641 428,684"/>
+        <Baseline points="430,687 2049,684"/>
+        <TextEquiv>
+          <Unicode>Tagen allen Menſchen ohne Unterſchied des Alters, des Geſchlechts oder Complexion,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90f5c0b9" custom="structure {type:default;}">
+        <Coords points="431,747 2049,742 2050,728 2047,696 1860,687 1858,687 1746,694 1726,687 1724,687 1723,687 1721,687 1704,696 1532,696 1474,687 1472,687 1471,687 1446,694 1434,687 1432,687 1431,687 1343,687 1342,687 1340,687 1315,694 1279,687 1277,687 1275,687 1237,696 1188,688 1186,688 1185,688 1151,696 903,688 902,688 803,696 776,688 774,688 773,688 693,696 668,688 667,688 665,688 548,696 475,688 473,688 430,697 431,731"/>
+        <Baseline points="431,731 2050,728"/>
+        <TextEquiv conf="0.9870992730493131">
+          <Unicode>voͤllig vertreibt, ohne zu befuͤrchten, daß es allzu ſtark, oder durch deſperate Mittel die⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_084fa7b0" custom="structure {type:default;}">
+        <Coords points="430,799 2050,797 2050,780 2050,745 1941,736 1940,736 1938,736 1936,736 1924,744 1921,744 1833,736 1832,736 1830,736 1806,744 1803,744 1793,744 1698,736 1697,736 1695,736 1667,744 1661,744 1644,744 1551,736 1549,736 1548,736 1528,742 1521,744 1508,742 1458,736 1457,736 1388,742 1362,744 1334,742 1266,736 1265,736 1209,740 1180,744 1169,740 1152,736 1151,736 1149,736 1106,740 1079,744 430,739 430,780"/>
+        <Baseline points="430,780 2050,780"/>
+        <TextEquiv conf="0.9937869211037954">
+          <Unicode>ſen Feind nur aus ſeiner ordentl. Werckſtaͤtte vertreibe, oder deſſelben Operationen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_63696937" custom="structure {type:default;}">
+        <Coords points="428,842 2046,843 2047,828 2047,794 1916,783 1915,783 1913,783 1880,793 1846,783 1844,783 1843,783 1609,793 1586,783 1584,783 1583,783 1581,783 1566,791 1554,783 1552,783 1551,783 1398,783 1397,783 1395,783 1378,791 1298,783 1297,783 1259,791 1231,783 1229,783 1228,783 1226,783 1203,794 1066,794 859,783 857,783 856,783 854,783 839,793 641,785 639,785 637,785 614,794 428,794 428,828"/>
+        <Baseline points="428,828 2047,828"/>
+        <TextEquiv conf="0.9895789450909718">
+          <Unicode>mit Gewalt hemme, aber deſſentwegen doch nicht gaͤnzlich delogire. Die Doſis iſt ſo</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_90d0500d" custom="structure {type:default;}">
+        <Coords points="427,893 2047,894 2050,876 2047,840 1833,840 1809,831 1807,831 1806,831 1747,839 1727,831 1726,831 1724,831 1723,831 1706,840 1583,840 1509,831 1508,831 1465,839 1405,831 1403,831 1401,831 1369,839 1315,831 1314,831 1275,839 1202,833 1200,833 1199,833 1183,840 879,833 877,833 833,840 805,833 803,833 802,833 800,833 770,840 717,833 716,833 665,840 642,833 641,833 639,833 579,840 548,833 547,833 545,833 502,840 447,833 445,833 444,833 425,840 427,879"/>
+        <Baseline points="427,879 2050,876"/>
+        <TextEquiv conf="0.9872720177684512">
+          <Unicode>behutſam ein⸗ und abgetheilt, daß ſie auch dem kleinſten Kinde eben ſowol, als einem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_da3f9a80" custom="structure {type:default;}">
+        <Coords points="430,946 476,937 496,945 498,945 499,945 764,937 1029,937 1045,945 1046,945 1048,945 1049,945 1057,945 1093,937 1195,943 1228,945 1229,945 1231,945 1235,943 1257,936 1291,943 1295,943 1297,943 1308,943 1383,936 1537,942 1586,943 1588,943 2046,939 2047,923 2044,888 1961,879 1960,879 1958,879 1941,886 1912,879 1910,879 1909,879 1907,879 1875,886 1849,879 1847,879 1846,879 1651,886 1611,879 1609,879 1572,886 1495,879 1494,879 1414,886 1386,879 1385,879 1383,879 1343,886 1249,879 1248,879 1148,888 1132,880 1131,880 1129,880 1089,888 970,880 968,880 966,880 950,890 810,890 601,880 599,880 428,890 430,926"/>
+        <Baseline points="430,926 2047,923"/>
+        <TextEquiv>
+          <Unicode>jungen Menſchen oder alten Greiſe, kecklich eingegeben werden koͤnnen. Die Doſis zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d7010095" custom="structure {type:default;}">
+        <Coords points="431,986 1603,983 1604,971 1601,937 1555,928 1554,928 1248,936 1179,928 1177,928 1176,928 1151,936 1102,928 1100,928 1053,936 1019,928 1017,928 1016,928 1014,928 986,937 962,930 960,930 959,930 585,937 558,930 556,930 554,930 481,937 470,930 468,930 467,930 465,930 464,930 430,939 431,974"/>
+        <Baseline points="431,974 1604,971"/>
+        <TextEquiv conf="0.9848284813073965">
+          <Unicode>einer Kur in ein Schaͤchtelein mit 9. Morſellen, koſtet 1. Rthlr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5f566747" custom="structure {type:default;}">
+        <Coords points="1425,973 1401,973 1378,973 1355,973 1332,973 1309,973 1286,973 1263,973 1240,973 1217,973 1194,973 1171,973 1148,973 1125,973 1102,973 1079,973 1056,973 1033,973 1009,973 986,973 963,973 940,973 917,973 894,973 871,973 848,973 825,973 820,973 396,979 387,991 389,1023 389,1042 2045,1035 2047,1016 2045,979 1443,973 1425,973"/>
+        <Baseline points="392,1025 448,1019 2049,1019"/>
+        <TextEquiv>
+          <Unicode>5) Balſamus ſtipticus &amp; ſanguinem ſiſtens, oder vortreflicher und approbirter Wund⸗Bal⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41222ac7" custom="structure {type:default;}">
+        <Coords points="430,1092 538,1083 627,1091 628,1091 990,1082 2044,1083 2047,1066 2044,1031 1804,1022 1803,1022 1735,1029 1732,1029 1729,1029 1681,1022 1680,1022 1678,1022 1647,1029 1638,1031 1617,1029 1549,1023 1548,1023 1417,1029 1363,1031 1329,1029 1257,1023 1255,1023 1254,1023 1243,1029 1234,1033 1212,1028 1191,1025 1189,1025 1131,1028 1068,1033 937,1028 834,1025 833,1025 813,1028 774,1034 731,1028 719,1026 717,1026 716,1026 713,1028 700,1034 659,1028 648,1026 647,1026 637,1028 604,1034 428,1028 430,1072"/>
+        <Baseline points="430,1072 2047,1066"/>
+        <TextEquiv conf="0.9833990356256795">
+          <Unicode>ſam, welcher in etlichen Minuten das Blut ſtillet, und nicht nur allein friſche Wunden</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f0f0851a" custom="structure {type:default;}">
+        <Coords points="428,1134 2049,1139 2052,1119 2050,1083 2006,1074 2004,1074 2003,1074 1976,1082 1867,1074 1866,1074 1864,1074 1841,1082 1566,1074 1564,1074 1563,1074 1535,1082 1412,1074 1411,1074 1409,1074 1394,1082 1378,1074 1377,1074 1274,1074 1272,1074 1214,1082 1069,1074 1068,1074 1066,1074 1040,1082 991,1074 990,1074 890,1082 862,1074 860,1074 859,1074 822,1082 805,1074 803,1074 802,1074 800,1074 777,1083 619,1083 591,1074 590,1074 588,1074 587,1074 585,1074 571,1083 428,1083 428,1119"/>
+        <Baseline points="428,1119 2052,1119"/>
+        <TextEquiv conf="0.9958033979624167">
+          <Unicode>heilet, ſondern auch alle um ſich freſſende, krebshafte fiſtuloͤſe Schaͤden, Geſchwaͤre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fde7f32d" custom="structure {type:default;}">
+        <Coords points="1949,1123 1947,1123 1946,1123 1921,1131 1621,1123 1620,1123 1618,1123 1594,1132 1440,1132 1386,1123 1385,1123 1343,1131 1312,1123 1311,1123 1114,1123 1112,1123 1062,1131 1049,1123 1048,1123 1046,1123 966,1123 965,1123 851,1131 825,1123 823,1123 822,1123 820,1123 791,1131 774,1123 773,1123 771,1123 722,1131 634,1123 633,1123 573,1131 531,1123 530,1123 436,1131 427,1152 427,1168 427,1189 2049,1189 2050,1168 2049,1143 2044,1131"/>
+        <Baseline points="427,1168 2050,1168"/>
+        <TextEquiv conf="0.9925889064283931">
+          <Unicode>und Salzfluͤſſe curiret; vertreibet auch alle Flecken, Finnen und Pockenmaͤhler, Som⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4c1cc727" custom="structure {type:default;}">
+        <Coords points="1154,1179 1149,1179 1137,1171 1136,1171 1134,1171 1132,1171 1131,1171 1114,1179 1112,1179 1082,1171 1080,1171 1079,1171 1077,1171 1046,1179 1045,1179 1043,1179 1000,1171 999,1171 873,1179 868,1179 863,1179 790,1171 788,1171 787,1171 768,1179 767,1179 699,1171 697,1171 636,1179 634,1179 587,1171 585,1171 534,1179 513,1171 511,1171 510,1171 439,1179 430,1203 430,1217 430,1242 651,1239 653,1239 673,1229 724,1237 725,1237 727,1237 759,1229 785,1239 787,1239 788,1239 817,1239 1089,1229 1102,1235 1112,1240 1114,1240 1116,1240 1146,1235 1185,1228 1237,1234 1280,1239 1282,1239 1283,1239 1300,1232 1309,1231 1331,1232 1386,1239 1388,1239 1389,1239 1391,1239 1400,1232 1409,1228 1537,1231 1855,1239 1857,1239 1858,1239 1898,1226 1898,1214 1895,1179 1242,1169 1240,1169"/>
+        <Baseline points="430,1217 1898,1214"/>
+        <TextEquiv conf="0.9916559868044668">
+          <Unicode>merſproſſen, Leberflecken, allen unreinen Ausſchlag. Das Glaͤßl. koſt 6. ggr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_88803f84" custom="structure {type:default;}">
+        <Coords points="993,1275 991,1292 1443,1294 1446,1278 1445,1237 993,1237 993,1275"/>
+        <Baseline points="993,1275 1446,1278"/>
+        <TextEquiv conf="0.991266351679097">
+          <Unicode>Die Continuation folgt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6533a744"  custom="structure {type:text;}">
+      <Coords points="1054,1365 1841,1365 1884,1371 1830,1375 1843,1389 2081,1401 1990,1412 1990,1432 2184,1438 2184,1461 2130,1469 2184,1481 2184,1560 2063,1574 2101,1672 2184,1672 2184,2150 2175,2125 2161,2152 2184,2175 2101,2193 2038,2119 1743,2101 1222,2101 1140,2138 381,2132 375,1592 479,1529 455,1401 479,1377 1054,1365"/>
+      <TextLine id="eSc_line_e63a8d76" custom="structure {type:default;}">
+        <Coords points="1960,1395 1944,1394 1855,1394 1821,1380 1820,1380 1818,1380 1578,1389 1431,1380 1429,1380 1300,1392 1275,1380 1274,1380 1217,1380 1215,1380 1160,1381 1159,1381 1126,1395 840,1395 797,1381 796,1381 794,1381 740,1394 654,1381 653,1381 590,1394 554,1388 553,1388 468,1395 470,1438 470,1455 1963,1452 1964,1435 1961,1395 1960,1395"/>
+        <Baseline points="470,1438 1964,1435"/>
+        <TextEquiv conf="0.9908998291939497">
+          <Unicode>VII) Liſte der Angekommenen fremden Herrſchaften und Paſſagiers.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_2734520a" custom="structure {type:default;}">
+        <Coords points="911,1500 911,1514 1540,1512 1540,1500 1540,1468 1486,1458 1485,1458 1375,1466 1362,1466 1360,1466 1349,1457 1348,1457 1346,1457 1345,1457 1268,1464 1249,1468 1177,1468 1174,1464 1168,1458 1168,1457 1166,1457 1165,1457 1163,1457 911,1461 911,1500"/>
+        <Baseline points="911,1500 1540,1500"/>
+        <TextEquiv conf="0.9996649960676829">
+          <Unicode>vom 9ten bis 16ten Sept. 1766.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_35702e5f" custom="structure {type:default;}">
+        <Coords points="465,1537 465,1579 463,1591 2043,1607 2047,1586 2043,1526 993,1535 903,1521 901,1521 682,1533 657,1521 654,1521 652,1521 521,1531 468,1519 465,1537"/>
+        <Baseline points="468,1581 2049,1587"/>
+        <TextEquiv>
+          <Unicode>Hr. Robinet Commiſſ. francois, Hr. Jung Hofcamrath von Hiezſpach, im Prinz</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dc7892ec" custom="structure {type:default;}">
+        <Coords points="381,1629 379,1646 2046,1650 2049,1634 2047,1597 1641,1586 1640,1586 1580,1592 1548,1595 1523,1592 1478,1584 1477,1584 1440,1591 1423,1594 1380,1591 1322,1586 1320,1586 1266,1589 1203,1594 1188,1589 1174,1584 1172,1584 1171,1584 1169,1584 1160,1589 1148,1595 1069,1595 1054,1587 1046,1584 1045,1584 1043,1584 1023,1587 986,1594 948,1587 925,1583 842,1583 840,1583 839,1583 830,1586 810,1592 782,1586 771,1583 770,1583 641,1583 639,1583 637,1583 634,1584 614,1594 491,1594 387,1583 381,1587"/>
+        <Baseline points="381,1629 2049,1634"/>
+        <TextEquiv>
+          <Unicode>Friederich. Hr Blum Hofcamrath von Germersheim, Hr. von Kolff Obriſt Lieut. un⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_110e22ae" custom="structure {type:default;}">
+        <Coords points="380,1676 378,1697 2036,1704 2040,1683 2038,1641 380,1632 380,1676"/>
+        <Baseline points="382,1678 2043,1684"/>
+        <TextEquiv>
+          <Unicode>ter Prinz Birkenfeld Regm., im Pfaͤlziſchen Hof. Mr. Vaquier Inſpect. de Poud. &amp; Salp.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_13a09887" custom="structure {type:default;}">
+        <Coords points="382,1722 380,1745 2040,1750 2045,1729 2043,1692 382,1685 382,1722"/>
+        <Baseline points="384,1724 2047,1730"/>
+        <TextEquiv>
+          <Unicode>en Alſace, Mademoiſſ. Conſtante de Paris, Hr. Hofrath Heger von Maynz, Hr. Stadt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e197237" custom="structure {type:default;}">
+        <Coords points="382,1790 2047,1797 2050,1780 2049,1740 384,1735 384,1775"/>
+        <Baseline points="384,1775 2050,1780"/>
+        <TextEquiv>
+          <Unicode>Schulthß Cremer, im goldenen Pflug. Hr. Lic. Katzner von Stuttgard, Hr. Graf von</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1f7cd3c3" custom="structure {type:default;}">
+        <Coords points="378,1840 2047,1846 2050,1829 2049,1790 379,1780 379,1823"/>
+        <Baseline points="379,1823 2050,1829"/>
+        <TextEquiv>
+          <Unicode>Golobskin nebſt deſſen Frau Gemahlin, im goldenen Schwanen. Hr. Schram von Fuld,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f70160e8" custom="structure {type:default;}">
+        <Coords points="380,1874 378,1883 2043,1897 2047,1879 2045,1835 380,1830 380,1874"/>
+        <Baseline points="381,1875 2049,1881"/>
+        <TextEquiv conf="0.9874874246426117">
+          <Unicode>Hr. Huͤter von Bruſſel, Madame Hacterin von Duͤſſeldorf, im weiſen Baͤren. Hr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_25d5a7ce" custom="structure {type:default;}">
+        <Coords points="378,1936 2049,1941 2052,1926 2050,1886 937,1886 913,1878 908,1876 906,1876 905,1876 831,1876 495,1883 379,1875 379,1921"/>
+        <Baseline points="379,1921 2052,1926"/>
+        <TextEquiv>
+          <Unicode>Außfauth Martini von Lautern, Hr. Doctor Schneppel von Elberfeld, im goldenen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_97c3b22f" custom="structure {type:default;}">
+        <Coords points="382,1946 380,1969 378,1980 2047,1989 2052,1971 2049,1929 396,1929 382,1946"/>
+        <Baseline points="382,1970 2053,1972"/>
+        <TextEquiv conf="0.9894302409964723">
+          <Unicode>Bock. Mr. de Chelje von Paris, Hr. von Zyllenhard, Hr. Corn. Worſſemer Negot,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4f9d6118" custom="structure {type:default;}">
+        <Coords points="379,2016 379,2032 1338,2032 1357,2033 1434,2039 1435,2039 1664,2033 1690,2033 1698,2033 1766,2041 1767,2041 2049,2033 2050,2024 2050,1986 2032,1976 2030,1976 2029,1976 1727,1983 1715,1975 1714,1975 1712,1975 1710,1975 1457,1983 1451,1983 1449,1983 1375,1973 1374,1973 1066,1981 1057,1981 1034,1972 1033,1972 1031,1972 823,1979 713,1970 711,1970 671,1979 390,1979 381,1995"/>
+        <Baseline points="379,2016 2050,2024"/>
+        <TextEquiv>
+          <Unicode>aus Amſterd. Hr. Cramer Kaufmann von Franckfurth, im Prinz Carl. Hr. Schaͤ⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_22bcc6e2" custom="structure {type:default;}">
+        <Coords points="1603,2022 1601,2022 1597,2022 1581,2022 1571,2022 1239,2029 1143,2021 1136,2021 1126,2021 1120,2021 1105,2021 1089,2021 1074,2021 1059,2021 382,2021 382,2066 382,2090 475,2090 475,2089 476,2089 493,2081 685,2081 710,2089 714,2090 716,2090 717,2090 727,2089 762,2081 834,2089 840,2089 842,2089 847,2089 880,2082 900,2089 911,2092 913,2092 914,2092 916,2092 926,2089 948,2082 970,2089 982,2092 983,2092 985,2092 986,2092 999,2089 1020,2082 1163,2082 1215,2089 1266,2093 1268,2095 1555,2095 1555,2093 1557,2093 1571,2087 1575,2086 1588,2087 1637,2095 1638,2095 2050,2086 2052,2072 2049,2024 1637,2030 1606,2022 1604,2022"/>
+        <Baseline points="382,2066 2052,2072"/>
+        <TextEquiv>
+          <Unicode>fer Baumeiſter von Neuſtadt, Hr Loͤfler von Reipoltskirchen, Hr. Anſpach, Hr. Bolza</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_99a797d1" custom="structure {type:default;}">
+        <Coords points="382,2144 476,2135 487,2142 490,2145 490,2147 491,2147 493,2147 495,2149 614,2149 614,2147 648,2141 679,2135 690,2139 697,2144 699,2144 700,2144 745,2139 773,2136 787,2138 828,2147 830,2147 831,2147 833,2147 847,2138 853,2135 1011,2135 1013,2135 1023,2145 1023,2147 1025,2147 1026,2147 1028,2149 1116,2149 1116,2147 1117,2147 1119,2147 1139,2135 1139,2116 1139,2081 1074,2070 1073,2070 973,2079 950,2070 948,2070 946,2070 945,2070 911,2079 883,2070 882,2070 773,2070 771,2070 770,2070 768,2070 768,2072 759,2081 717,2081 637,2070 636,2070 634,2070 633,2070 633,2072 624,2081 571,2081 559,2070 558,2070 556,2070 554,2070 553,2070 531,2079 490,2070 488,2070 487,2070 485,2070 471,2081 382,2081 382,2116"/>
+        <Baseline points="382,2116 1139,2116"/>
+        <TextEquiv>
+          <Unicode>von Sobernheim, in der neuen Pfalz.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_552cab30"  custom="structure {type:text;}">
+      <Coords points="2124,1076 2184,1082 2184,1092 2119,1105 2124,1076"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_dfcdc60e"  custom="structure {type:text;}">
+      <Coords points="2184,1034 2184,1062 2181,1062 2181,1033 2184,1034"/>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_375dcad4"  custom="structure {type:text;}">
+      <Coords points="2073,1365 2155,1365 2155,1375 2113,1388 2073,1365"/>
+    </TextRegion>
+  </Page>
+</PcGts>

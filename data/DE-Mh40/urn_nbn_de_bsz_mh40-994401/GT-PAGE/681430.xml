@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-10-03T20:13:53.383220+02:00</Created>
+        <LastChange>2024-10-04T23:20:24.725291+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="681430.jpg" imageWidth="2245" imageHeight="2763">
+    <TextRegion id="eSc_textblock_a4749198"  custom="structure {type:text;}">
+      <Coords points="273,227 514,239 532,274 362,299 257,342 245,245 273,227"/>
+      <TextLine id="eSc_line_89edbf9a" custom="structure {type:default;}">
+        <Coords points="512,242 497,237 482,237 466,236 451,234 436,234 420,233 405,233 390,231 376,231 373,234 370,237 327,237 322,234 310,227 297,227 284,227 261,231 251,239 253,276 253,293 307,288 328,293 350,296 351,296 379,290 394,287 399,290 403,294 405,294 406,294 408,294 409,294 429,288 436,287 448,288 509,294 511,294 512,294 514,294 522,287 522,273 520,271 512,242"/>
+        <Baseline points="253,276 522,273"/>
+        <TextEquiv conf="0.998002165555954">
+          <Unicode>Nro. XVII.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_fbf8425d"  custom="structure {type:text;}">
+      <Coords points="213,411 581,435 600,495 575,563 526,600 257,618 221,606 196,563 213,411"/>
+      <TextLine id="eSc_line_b07dceef" custom="structure {type:default;}">
+        <Coords points="578,442 463,429 462,429 460,429 428,443 342,431 340,431 339,431 337,431 337,432 324,445 290,432 288,432 231,432 230,432 228,432 208,442 202,468 204,488 204,498 234,508 236,508 238,508 393,497 479,505 480,505 583,492 583,481 580,443 578,442"/>
+        <Baseline points="204,488 583,481"/>
+        <TextEquiv>
+          <Unicode>Mit Sr. Chur⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d884260d" custom="structure {type:default;}">
+        <Coords points="205,544 205,563 245,557 311,560 359,563 360,563 362,563 382,557 396,554 433,555 531,560 532,560 534,560 558,549 558,538 555,498 506,489 505,489 503,489 502,489 502,491 495,497 483,491 482,491 480,491 428,498 423,498 420,498 388,488 386,488 385,488 383,488 382,488 382,489 373,497 297,489 296,489 294,489 276,498 271,501 204,500 205,544"/>
+        <Baseline points="205,544 558,538"/>
+        <TextEquiv>
+          <Unicode>zu Pfaltz gnaͤ⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_942ef43d" custom="structure {type:default;}">
+        <Coords points="241,598 241,610 322,623 324,623 325,623 327,623 327,621 339,612 463,618 465,618 466,618 497,607 497,595 494,560 437,560 436,558 425,549 425,547 423,547 422,547 420,547 419,547 399,557 397,557 374,546 373,546 371,546 370,546 368,546 357,555 353,560 337,555 314,549 313,549 311,549 310,549 308,549 300,554 293,547 293,546 291,546 290,546 288,546 239,552 241,598"/>
+        <Baseline points="241,598 497,595"/>
+        <TextEquiv>
+          <Unicode>tem - Privi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_f11f39a5"  custom="structure {type:text;}">
+      <Coords points="1432,804 1870,810 1888,828 1870,1072 1802,1074 1876,1092 1876,1551 1845,1582 1669,1594 1643,1620 1656,1645 1845,1651 1870,1682 1858,2276 1632,2288 1593,2325 214,2313 178,2264 178,2044 214,1944 190,1485 227,1410 190,1148 221,1092 294,1080 221,1066 190,937 196,822 1432,804"/>
+      <TextLine id="eSc_line_06c4d70e" custom="structure {type:default;}">
+        <Coords points="1853,808 1257,805 1254,808 218,821 195,826 198,881 1871,877 1874,854 1867,812 1853,808"/>
+        <Baseline points="199,865 1876,856"/>
+        <TextEquiv>
+          <Unicode>Woͤchentliches Mannheimer Frag⸗ und Kundſchafft⸗Blat/ welches alle Freytag Nachmitag</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8bf6edf9" custom="structure {type:default;}">
+        <Coords points="198,924 1874,914 1874,899 1870,861 196,871 198,910"/>
+        <Baseline points="198,910 1874,899"/>
+        <TextEquiv>
+          <Unicode>bey dem Verleger Matthaͤus Bayer, Chur⸗Pfaͤltziſchen privilegirten Antiquario, und</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b12e7de7" custom="structure {type:default;}">
+        <Coords points="201,973 1873,965 1873,948 1868,905 199,914 201,959"/>
+        <Baseline points="201,959 1873,948"/>
+        <TextEquiv>
+          <Unicode>Buͤcher Livranten/ neben der Stadt⸗Mehl⸗Wag, in dem ſogenanndten Lameſa⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_037110d1" custom="structure {type:default;}">
+        <Coords points="242,1028 878,1016 893,1023 895,1023 896,1023 933,1016 1074,1023 1076,1023 1139,1016 1159,1023 1160,1023 1162,1023 1260,1014 1372,1022 1374,1022 1679,1014 1831,1020 1835,999 1833,963 1804,954 1802,954 1801,954 1799,954 1767,962 1735,954 1733,954 1732,954 1682,962 1484,956 1483,956 1481,956 1464,963 1441,956 1440,956 1438,956 1346,963 1274,956 1272,956 1194,965 893,957 892,957 890,957 889,957 875,967 832,959 830,959 343,968 319,960 317,960 316,960 241,970 242,1006"/>
+        <Baseline points="242,1006 1835,999"/>
+        <TextEquiv>
+          <Unicode>niſchen Hauß logirend, und in Heidelberg bey Hr. Jacob Pfaͤhler, Churfuͤrſtl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b29fe0d0" custom="structure {type:default;}">
+        <Coords points="324,1072 1759,1065 1759,1051 1758,1008 1667,1016 1632,1008 1623,1006 1621,1006 1593,1008 1498,1016 1480,1008 1474,1006 1472,1006 1471,1006 1421,1010 1337,1014 1274,1010 1225,1006 1223,1006 1222,1006 1220,1006 1216,1010 1210,1014 1191,1010 1173,1006 1171,1006 1170,1006 1168,1006 1162,1011 1153,1017 1084,1017 1073,1011 1064,1006 1062,1006 881,1006 879,1006 878,1006 876,1006 869,1013 862,1016 844,1013 816,1006 815,1006 766,1013 738,1016 324,1016 324,1051"/>
+        <Baseline points="324,1051 1759,1051"/>
+        <TextEquiv>
+          <Unicode>privilegierten Univerſitaͤts⸗Buchhaͤndler Samſtags Fruͤh zu haben iſt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a74fe262" custom="structure {type:default;}">
+        <Coords points="324,1132 324,1155 1763,1148 1766,1130 1759,1082 322,1086 324,1132"/>
+        <Baseline points="325,1135 1767,1132"/>
+        <TextEquiv>
+          <Unicode>Sachen ſo zu verkauffen ſowohl inn⸗ als auſſerhalb der Stadt.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9c0883b7" custom="structure {type:default;}">
+        <Coords points="196,1203 1867,1203 1867,1188 1867,1148 1601,1140 1600,1140 1557,1146 1529,1149 1521,1146 1509,1140 1507,1140 1412,1140 1411,1140 1380,1145 1355,1149 1246,1145 1167,1142 1165,1142 1133,1145 1079,1149 1019,1143 975,1140 973,1140 972,1140 959,1143 941,1149 930,1143 925,1140 924,1140 922,1140 861,1140 859,1140 858,1140 850,1143 839,1149 710,1149 681,1143 671,1140 669,1140 667,1140 666,1140 657,1143 631,1151 285,1151 264,1142 261,1140 259,1140 257,1140 196,1140 196,1188"/>
+        <Baseline points="196,1188 1867,1188"/>
+        <TextEquiv>
+          <Unicode>Dem Publico dienet zu wiſſen wie daß Philipp Jacob Lachmann Muͤller in dem Chur⸗Pfaͤl⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_565f6115" custom="structure {type:default;}">
+        <Coords points="241,1251 1865,1255 1868,1235 1865,1200 1733,1191 1732,1191 1686,1198 1682,1198 1673,1198 1507,1191 1506,1191 1504,1191 1489,1198 1487,1200 1323,1200 1311,1197 1289,1192 1288,1192 1286,1192 1254,1197 1237,1200 239,1195 241,1240"/>
+        <Baseline points="241,1240 1868,1235"/>
+        <TextEquiv>
+          <Unicode>tziſchen Marckt Flecken Edenkoben/ geſonnen ſeine in vollkommenem Wohlſtand ſtehende</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f7064be9" custom="structure {type:default;}">
+        <Coords points="241,1303 1865,1298 1867,1283 1862,1243 239,1247 241,1287"/>
+        <Baseline points="241,1287 1867,1283"/>
+        <TextEquiv>
+          <Unicode>Mahl⸗Muͤhl/ mit einem zweyſtoͤckichten Wohn⸗Hauß/ Keller/ Kelter/ ſammt Scheur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_67d63a6b" custom="structure {type:default;}">
+        <Coords points="242,1346 1864,1349 1867,1329 1862,1295 241,1298 242,1332"/>
+        <Baseline points="242,1332 1867,1329"/>
+        <TextEquiv>
+          <Unicode>und Stallungen/ nebſt einem Pflantz⸗Garthen/ worben ⸗ Mahlgaͤng ein Schoͤhlgang</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_941e9dd5" custom="structure {type:default;}">
+        <Coords points="244,1390 1864,1395 1867,1375 1864,1340 1064,1332 1062,1332 833,1341 832,1341 829,1341 677,1333 675,1333 674,1333 657,1343 525,1343 482,1333 480,1333 479,1333 460,1341 443,1333 442,1333 331,1333 330,1333 242,1343 244,1378"/>
+        <Baseline points="244,1378 1867,1375"/>
+        <TextEquiv>
+          <Unicode>eine Hanff⸗Reip und Hirſchen⸗Muͤhl iſt/ gibt Jaͤhrlich 16. Malter Korn Pacht/ auſſer</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_05abd41b" custom="structure {type:default;}">
+        <Coords points="242,1442 317,1449 319,1449 380,1442 416,1439 423,1442 437,1449 439,1449 440,1450 511,1450 511,1449 512,1449 531,1442 538,1439 654,1439 664,1441 700,1449 701,1449 812,1441 853,1438 869,1441 905,1447 907,1447 955,1439 972,1438 987,1439 1041,1447 1042,1447 1143,1439 1163,1438 1171,1439 1217,1447 1219,1447 1262,1438 1268,1438 1286,1438 1398,1444 1400,1444 1401,1444 1414,1438 1417,1436 1420,1438 1440,1445 1441,1445 1443,1445 1444,1445 1460,1438 1464,1438 1681,1445 1682,1445 1727,1436 1729,1436 1732,1436 1819,1445 1821,1445 1867,1435 1867,1421 1864,1387 830,1381 829,1381 769,1389 399,1383 397,1383 241,1390 242,1426"/>
+        <Baseline points="242,1426 1867,1421"/>
+        <TextEquiv>
+          <Unicode>dem ſonſt Frey Ledig und Eigen/ freywillig zu verkauffen/ oder mit annehmlichen Conditio-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77578a0e" custom="structure {type:default;}">
+        <Coords points="239,1487 869,1487 870,1468 867,1436 741,1429 740,1429 738,1429 723,1436 717,1430 717,1429 715,1429 714,1429 712,1429 661,1436 649,1438 623,1436 519,1430 517,1430 515,1430 486,1438 483,1438 482,1438 463,1430 462,1430 460,1430 459,1430 457,1430 446,1438 443,1439 439,1438 423,1432 422,1432 420,1432 238,1438 239,1473"/>
+        <Baseline points="239,1473 870,1468"/>
+        <TextEquiv>
+          <Unicode>nen auf einige Jahre zu verleyhen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_aff4eeb7" custom="structure {type:default;}">
+        <Coords points="511,1471 490,1471 481,1475 481,1478 257,1478 234,1471 232,1466 216,1464 188,1475 191,1549 361,1538 1858,1540 1862,1519 1858,1462 1604,1462 1572,1473 1545,1462 1370,1462 1356,1473 1310,1462 1218,1473 909,1464 888,1478 548,1478 531,1471 511,1471"/>
+        <Baseline points="193,1525 1864,1521"/>
+        <TextEquiv>
+          <Unicode>Ein benachbarter Freund hat deß Martin Zeylers Topographien mit Merianiſchen Kupfern</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e40c999e" custom="structure {type:default;}">
+        <Coords points="237,1570 237,1584 1593,1586 1597,1568 1591,1528 234,1528 237,1570"/>
+        <Baseline points="238,1571 1600,1570"/>
+        <TextEquiv>
+          <Unicode>in 12. Kaͤldern Pergament Baͤnden in fol. in civielem Prerß weg zu geben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e625f131" custom="structure {type:default;}">
+        <Coords points="195,1636 302,1628 1320,1628 1323,1616 1322,1581 1277,1571 1276,1571 1274,1571 1249,1579 1239,1571 1237,1571 1236,1571 1234,1571 1193,1579 1191,1579 1186,1579 1045,1573 1044,1573 1042,1573 1041,1573 1033,1579 1030,1581 990,1579 869,1573 867,1573 866,1573 847,1579 833,1582 193,1577 195,1620"/>
+        <Baseline points="195,1620 792,1611 1323,1616"/>
+        <TextEquiv>
+          <Unicode>Ferner Bartolini de Saxo Ferati Opera Omnia 5. Baͤnd in folio.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1a6d15b8" custom="structure {type:default;}">
+        <Coords points="195,1686 1242,1677 1243,1662 1240,1627 893,1619 892,1619 853,1627 568,1620 566,1620 525,1628 254,1622 253,1622 193,1630 195,1667"/>
+        <Baseline points="195,1667 1243,1662"/>
+        <TextEquiv>
+          <Unicode>Und dann eine Italiaͤniſche Biebel in Frantz. Band in fol.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_80e6cbda" custom="structure {type:default;}">
+        <Coords points="1848,1660 1303,1650 1300,1650 1247,1653 1245,1653 1243,1653 1229,1664 1222,1671 191,1671 193,1717 193,1742 257,1731 1855,1731 1858,1710 1853,1664 1848,1660"/>
+        <Baseline points="195,1719 1859,1713"/>
+        <TextEquiv>
+          <Unicode>Ein ſchoͤner Hauß⸗Altar/ in Circa 8. Schuh hoch/ wovon das untere Theil/ ein Commod</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_423f6bf1" custom="structure {type:default;}">
+        <Coords points="231,1771 262,1780 264,1780 265,1780 1854,1774 1856,1763 1853,1720 233,1722 233,1760"/>
+        <Baseline points="233,1760 1856,1763"/>
+        <TextEquiv>
+          <Unicode>mit zwey verſchloſſenen Thuͤren/ nebſt dem Bett⸗Stuhl. Der Altar aber kuͤnſtlich nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cc8b757c" custom="structure {type:default;}">
+        <Coords points="233,1826 1850,1828 1853,1811 1851,1775 234,1768 234,1808"/>
+        <Baseline points="234,1808 1853,1811"/>
+        <TextEquiv>
+          <Unicode>der Architectur verfertigt/ die Saͤulen⸗Geſimſer und ſonſten nach der Natur marmoriert/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f61bb9ba" custom="structure {type:default;}">
+        <Coords points="234,1877 1854,1874 1856,1858 1853,1817 234,1822 234,1858"/>
+        <Baseline points="234,1858 1856,1858"/>
+        <TextEquiv>
+          <Unicode>die Poſtementer⸗Capitaͤler/ und ſonſtige Zierathen fein verguldet/ der gantze Vordere Theil/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_671d9f3b" custom="structure {type:default;}">
+        <Coords points="1859,1872 1759,1872 1725,1861 1724,1861 1722,1861 1458,1871 1371,1861 1369,1861 1257,1871 1237,1861 1236,1861 1099,1861 1097,1861 1053,1871 1033,1863 1031,1863 855,1863 853,1863 775,1874 726,1874 709,1863 707,1863 706,1863 704,1863 571,1872 515,1863 347,1863 345,1863 343,1863 319,1872 279,1865 277,1865 231,1874 233,1908 233,1926 1862,1917 1862,1904 1861,1903 1859,1886"/>
+        <Baseline points="233,1908 1862,1904"/>
+        <TextEquiv>
+          <Unicode>mit Glas⸗Thuͤren verſehen/ und die Thuͤren mit Meſſing beſchlagen. Wer Luſt darzu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dab3652c" custom="structure {type:default;}">
+        <Coords points="234,1970 276,1978 277,1978 279,1978 281,1978 291,1972 294,1970 472,1970 482,1972 517,1981 519,1981 520,1981 522,1981 548,1972 555,1970 737,1970 743,1974 755,1978 757,1978 758,1978 879,1974 970,1970 990,1974 1021,1980 1022,1981 1211,1981 1211,1980 1213,1980 1225,1975 1236,1970 1285,1975 1319,1978 1320,1978 1322,1978 1331,1975 1346,1970 1365,1975 1382,1980 1383,1980 1385,1981 1569,1981 1569,1980 1570,1980 1580,1977 1598,1969 1659,1969 1675,1977 1681,1980 1682,1980 1684,1980 1716,1977 1779,1970 1853,1977 1856,1955 1853,1914 233,1914 234,1958"/>
+        <Baseline points="234,1958 1856,1955"/>
+        <TextEquiv>
+          <Unicode>hat/ der kan ſich bey dem Verleger dieſes Kundſchafft Blats melden/ von welchem daß</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89c9d214" custom="structure {type:default;}">
+        <Coords points="234,2016 618,2024 620,2024 621,2024 623,2024 623,2023 624,2023 629,2016 1008,2016 1010,2000 1005,1958 233,1960 234,2003"/>
+        <Baseline points="234,2003 1010,2000"/>
+        <TextEquiv>
+          <Unicode>mehrere deßwegen zu vernehmen ſein wird.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ed2716fc" custom="structure {type:default;}">
+        <Coords points="188,2066 1265,2063 1266,2050 1263,2013 1101,2006 1099,2006 1041,2013 1022,2015 1019,2013 1008,2006 1007,2006 1005,2006 1004,2006 1002,2006 985,2013 981,2015 955,2013 869,2006 867,2006 866,2006 836,2013 827,2015 815,2013 769,2006 767,2006 766,2006 737,2013 723,2018 660,2018 652,2013 638,2007 637,2007 635,2007 592,2013 571,2016 526,2013 454,2009 452,2009 406,2013 393,2015 390,2013 376,2007 374,2007 373,2007 187,2013 188,2053"/>
+        <Baseline points="188,2053 1266,2050"/>
+        <TextEquiv>
+          <Unicode>Ein Kleider⸗Schranck von weichem Holtz mit 2. Thuͤren.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b0d8d176" custom="structure {type:default;}">
+        <Coords points="191,2127 336,2118 403,2127 433,2130 434,2132 640,2132 640,2130 641,2130 655,2125 671,2119 734,2125 766,2127 767,2127 796,2124 858,2118 873,2124 889,2130 890,2130 892,2130 944,2124 990,2118 1021,2122 1045,2127 1047,2127 1048,2127 1059,2122 1071,2118 1093,2122 1107,2125 1108,2125 1127,2122 1154,2118 1170,2122 1194,2130 1196,2130 1197,2132 1288,2132 1288,2130 1328,2121 1346,2118 1362,2121 1403,2130 1405,2130 1466,2121 1487,2118 1518,2121 1589,2127 1590,2127 1624,2119 1633,2118 1639,2119 1666,2129 1667,2129 1796,2130 1798,2130 1854,2118 1854,2102 1854,2064 1776,2053 1775,2053 1669,2063 1663,2063 1659,2063 1626,2053 1624,2053 1497,2053 1495,2053 1494,2053 1471,2063 1468,2063 1457,2063 1385,2053 1271,2053 1269,2053 1268,2053 1266,2053 1254,2061 1251,2063 1233,2061 1171,2055 1170,2055 1168,2055 1143,2061 1134,2063 1093,2061 998,2055 996,2055 959,2059 939,2063 927,2059 907,2055 905,2055 904,2055 843,2059 800,2063 191,2058 191,2102"/>
+        <Baseline points="191,2102 1854,2102"/>
+        <TextEquiv>
+          <Unicode>In dem Kauffhauß ſeynd allerhand Sorthen guthe Boͤhmiſche Federn in civilem Preiß zu</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f4d2bdb2" custom="structure {type:default;}">
+        <Coords points="310,2104 294,2104 291,2104 233,2109 233,2152 233,2170 257,2176 259,2176 261,2176 290,2168 297,2167 302,2168 325,2176 327,2176 328,2176 371,2165 371,2152 371,2115 316,2104 310,2104"/>
+        <Baseline points="233,2152 371,2152"/>
+        <TextEquiv>
+          <Unicode>haben.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f741c5a2" custom="structure {type:default;}">
+        <Coords points="623,2205 623,2218 1412,2215 1414,2201 1411,2136 1337,2136 1335,2136 1334,2136 1332,2136 1332,2138 1331,2138 1315,2153 1297,2153 1282,2139 1279,2136 1277,2136 1276,2136 1274,2136 1256,2139 1234,2144 1228,2141 1222,2136 1220,2136 1219,2136 1217,2136 1143,2142 1125,2144 1117,2144 1081,2138 1079,2138 1077,2138 1076,2138 1068,2145 1058,2153 993,2147 899,2138 898,2138 896,2138 870,2150 861,2155 761,2153 724,2153 710,2144 709,2144 707,2144 706,2144 704,2144 703,2144 686,2155 672,2147 671,2147 669,2147 621,2156 623,2205"/>
+        <Baseline points="623,2205 1414,2201"/>
+        <TextEquiv>
+          <Unicode>Perſohnen welche allerhand ſuchen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cbf66b30" custom="structure {type:default;}">
+        <Coords points="1034,2204 939,2213 889,2204 875,2205 867,2205 856,2208 850,2205 844,2205 829,2205 813,2205 803,2205 773,2211 678,2205 677,2205 675,2205 649,2215 558,2199 554,2199 552,2199 532,2199 357,2207 334,2199 331,2199 330,2199 328,2199 184,2199 185,2256 185,2276 657,2276 657,2274 660,2274 712,2267 876,2267 915,2274 925,2276 927,2276 938,2274 982,2267 1406,2274 1464,2274 1466,2274 1468,2274 1471,2274 1500,2265 1564,2274 1573,2274 1575,2274 1581,2274 1629,2265 1655,2273 1656,2273 1658,2274 1845,2274 1845,2257 1841,2198 1804,2210 1698,2204 1696,2204 1567,2211 1481,2198 1477,2198 1475,2198 1449,2198 1435,2199 1434,2199 1411,2211 1365,2204 1363,2204 1119,2211 1036,2204 1034,2204"/>
+        <Baseline points="185,2256 1593,2250 1845,2257"/>
+        <TextEquiv>
+          <Unicode>Es wird von jemand ein Junger Menſch welcher Catholiſcher Religion/ die Muſic ein wenig</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d63c4b4f" custom="structure {type:default;}">
+        <Coords points="231,2304 233,2333 267,2323 324,2333 327,2333 328,2333 330,2333 371,2323 433,2333 437,2333 439,2333 440,2333 462,2323 519,2333 523,2333 525,2334 638,2334 638,2333 640,2333 641,2333 655,2323 706,2323 720,2333 721,2333 723,2333 724,2333 732,2333 787,2323 893,2331 913,2333 915,2333 916,2333 918,2333 918,2331 930,2323 953,2331 956,2333 958,2333 959,2333 961,2333 965,2331 990,2323 1122,2323 1139,2331 1142,2333 1143,2333 1145,2333 1147,2333 1151,2331 1167,2325 1194,2331 1205,2333 1206,2333 1246,2331 1355,2325 1391,2331 1405,2333 1406,2334 1517,2334 1517,2333 1518,2333 1526,2331 1550,2323 1589,2330 1590,2304 1590,2265 1549,2256 1547,2256 1480,2265 1472,2265 1354,2265 1354,2264 1337,2256 1335,2256 1334,2256 1282,2264 1280,2264 1216,2256 1214,2256 1213,2256 1194,2264 1193,2264 1125,2256 1124,2256 1122,2256 1101,2264 1068,2256 1067,2256 1065,2256 995,2264 990,2265 870,2265 869,2264 856,2256 855,2256 853,2256 852,2256 766,2264 757,2265 655,2265 654,2264 643,2256 641,2256 640,2256 638,2256 231,2262 231,2304"/>
+        <Baseline points="231,2304 1590,2304"/>
+        <TextEquiv>
+          <Unicode>verſteht/ und einen Herrn zu bedienen weiſt/ in Dienſt zu nehmen geſucht.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_700ab553"  custom="structure {type:text;}">
+      <Coords points="1618,417 1839,429 1864,448 1876,544 1722,606 1552,587 1495,520 1471,521 1477,557 1448,557 1405,454 1618,417"/>
+      <TextLine id="eSc_line_9bf22a1d" custom="structure {type:default;}">
+        <Coords points="1823,428 1800,428 1777,425 1754,425 1731,423 1708,423 1685,421 1662,421 1639,419 1616,419 1593,421 1570,425 1547,430 1524,432 1501,437 1503,485 1505,511 1545,497 1842,495 1844,478 1839,432 1823,428"/>
+        <Baseline points="1504,486 1845,480"/>
+        <TextEquiv>
+          <Unicode>Fuͤrſtl. Durchl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_82984cba" custom="structure {type:default;}">
+        <Coords points="1865,494 1841,481 1839,481 1838,481 1836,481 1799,494 1773,481 1772,481 1770,481 1768,481 1742,495 1733,488 1732,488 1730,488 1729,488 1666,495 1650,485 1649,485 1647,485 1646,485 1595,494 1555,485 1553,485 1552,485 1550,485 1549,485 1549,486 1538,495 1540,538 1540,549 1593,563 1595,563 1596,563 1639,551 1650,549 1704,549 1710,552 1718,558 1719,558 1721,558 1722,558 1724,558 1725,558 1733,552 1747,561 1749,561 1750,561 1752,561 1787,554 1805,549 1819,554 1836,560 1838,560 1839,560 1868,554 1868,534 1867,503 1865,494"/>
+        <Baseline points="1540,538 1868,534"/>
+        <TextEquiv>
+          <Unicode>dtgſt ⸗ ertheil⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_c854ad0c" custom="structure {type:default;}">
+        <Coords points="1629,581 1627,607 1759,600 1761,584 1761,549 1629,544 1629,581"/>
+        <Baseline points="1629,581 1761,584"/>
+        <TextEquiv conf="0.9999672174453735">
+          <Unicode>legio,</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_be583a7d"  custom="structure {type:text;}">
+      <Coords points="1544,221 1821,221 1833,287 1735,342 1638,354 1521,299 1521,233 1544,221"/>
+      <TextLine id="eSc_line_84766da1" custom="structure {type:default;}">
+        <Coords points="1822,250 1811,230 1722,221 1721,221 1719,221 1718,221 1707,231 1695,231 1632,231 1624,231 1552,221 1550,221 1549,221 1530,228 1532,273 1532,290 1649,287 1655,288 1670,296 1672,296 1673,296 1675,296 1706,287 1716,285 1732,287 1795,294 1796,294 1798,294 1827,283 1827,270 1825,268 1822,250"/>
+        <Baseline points="1532,273 1827,270"/>
+        <TextEquiv>
+          <Unicode>Den 23. April</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d1459d9f" custom="structure {type:default;}">
+        <Coords points="1620,319 1620,345 1669,348 1670,348 1672,348 1673,348 1687,339 1695,336 1732,336 1732,319 1730,280 1620,285 1620,319"/>
+        <Baseline points="1620,319 1732,319"/>
+        <TextEquiv>
+          <Unicode>1756.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6a2a1a9f"  custom="structure {type:text;}">
+      <Coords points="637,448 674,454 661,495 620,489 637,448"/>
+    </TextRegion>
+  </Page>
+</PcGts>

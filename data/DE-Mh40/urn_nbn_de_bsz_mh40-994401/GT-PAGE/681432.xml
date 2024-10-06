@@ -1,0 +1,300 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata>
+	<Creator>escriptorium</Creator>
+	<Created>2024-10-03T20:13:55.459858+02:00</Created>
+        <LastChange>2024-10-04T23:20:28.633392+02:00</LastChange>
+  </Metadata>
+  <Page imageFilename="681432.jpg" imageWidth="2261" imageHeight="2758">
+    <TextRegion id="eSc_textblock_b899d0b4"  custom="structure {type:text;}">
+      <Coords points="245,239 1911,251 1911,439 1880,502 1911,582 1911,733 1886,858 1905,1015 1874,2223 662,2235 551,2241 470,2278 214,2272 220,1054 257,917 226,740 245,239"/>
+      <TextLine id="eSc_line_1b7b5f54" custom="structure {type:default;}">
+        <Coords points="1894,249 1879,249 1863,249 1848,249 1833,249 1817,249 1802,249 1787,249 1772,249 1756,249 1741,249 1726,249 1710,249 1695,248 1680,248 1664,248 1649,248 1634,248 1618,248 1603,248 1588,248 1572,248 1557,248 1542,248 1526,248 1511,248 1496,248 1480,246 1465,246 1450,246 1434,246 1419,246 1404,246 1388,246 1373,246 1358,246 1342,246 1327,246 1312,246 1296,246 1281,245 1266,245 1250,245 1235,245 1220,245 1204,245 1189,245 1174,245 1158,245 1143,245 1128,245 1112,245 1097,245 1082,245 1066,243 1051,243 1036,243 1020,243 1005,243 990,243 974,243 959,243 944,243 928,243 913,243 898,243 882,243 867,242 863,242 823,245 813,242 806,242 790,242 775,242 760,242 744,242 729,242 714,242 698,242 683,242 668,242 660,240 651,245 584,240 576,240 561,240 545,240 530,240 522,240 499,245 459,240 453,240 438,239 423,239 418,239 409,245 387,239 377,239 361,239 351,239 277,245 239,237 239,283 239,301 1899,300 1900,283 1899,249 1894,249"/>
+        <Baseline points="239,283 1900,283"/>
+        <TextEquiv>
+          <Unicode>hende Fruͤchten Nachmittags um 1. Uhr in daſigem Gaſt⸗Hauß zum guldenen Schwah⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e65aa01f" custom="structure {type:default;}">
+        <Coords points="239,315 239,330 239,346 1059,346 1073,346 1212,353 1214,353 1900,346 1902,334 1900,298 1122,298 1117,297 1069,289 1068,289 246,295 239,315"/>
+        <Baseline points="239,330 1902,334"/>
+        <TextEquiv conf="0.9908348576406415">
+          <Unicode>nen offentlich verſteigeret und denen Meiſtbiethenden zugeſchlagen werden ſollen. Wer nun</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_584ef076" custom="structure {type:default;}">
+        <Coords points="239,383 239,402 312,395 676,399 781,401 783,401 807,399 869,393 1074,396 1215,399 1217,399 1897,390 1899,378 1896,344 803,338 801,338 800,338 798,338 786,346 341,340 340,340 237,347 239,383"/>
+        <Baseline points="239,383 1899,378"/>
+        <TextEquiv conf="0.9966986347647274">
+          <Unicode>zu einer oder andern Gattung Luſt hat/ der beliebe ſich an obbeſtimmtem Tag und Stund</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_bd697b25" custom="structure {type:default;}">
+        <Coords points="239,404 239,427 239,445 452,445 493,453 495,455 708,455 708,453 709,453 726,445 890,445 907,453 908,453 910,453 988,445 1672,453 1673,453 1675,453 1704,445 1732,453 1733,453 1735,453 1736,453 1753,445 1899,445 1899,427 1899,395 245,393 239,404"/>
+        <Baseline points="239,427 1899,427"/>
+        <TextEquiv>
+          <Unicode>daſelbſten einzufinden/ und dieſe Verſteigerung zum Beſten der Armen helffen zu promovi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_92761d36" custom="structure {type:default;}">
+        <Coords points="236,450 237,478 237,493 948,494 951,474 950,445 924,435 922,435 921,435 919,435 918,435 907,445 824,445 810,435 809,435 807,435 806,435 659,444 619,435 617,435 616,435 525,444 352,436 351,436 349,436 321,445 318,445 314,445 260,436 259,436 257,436 240,441 236,450"/>
+        <Baseline points="237,478 951,474"/>
+        <TextEquiv conf="0.9936591055658128">
+          <Unicode>ren. Ladenburg/ den 17. April, 1756.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4a8b5b71" custom="structure {type:default;}">
+        <Coords points="553,537 551,547 574,557 576,557 577,557 649,550 698,557 700,559 824,559 824,557 826,557 849,550 990,557 991,557 1040,550 1060,559 1062,559 1063,559 1100,551 1256,559 1258,559 1362,551 1499,559 1500,559 1537,550 1539,540 1537,496 553,493 553,537"/>
+        <Baseline points="553,537 1539,540"/>
+        <TextEquiv>
+          <Unicode>Auswaͤrtiger Frucht⸗ und Victualien Preiß.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be5bd12a" custom="structure {type:default;}">
+        <Coords points="1154,537 1131,537 1108,537 1087,537 1030,544 234,535 236,590 236,613 1892,604 1895,586 1886,530 1844,542 1833,530 1830,530 1828,530 1826,530 1819,530 1619,542 1577,530 1575,530 1573,530 1570,530 1568,530 1566,530 1552,544 1175,544 1163,537 1154,537"/>
+        <Baseline points="237,592 1896,588"/>
+        <TextEquiv conf="0.9864923746398325">
+          <Unicode>In Heilbronn das Malter Kern 4. fl. 32. kr. Korn 2. fl. 56. kr. biß 3. fl. Dinckel 2. fl.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4598be22" custom="structure {type:default;}">
+        <Coords points="286,591 286,635 286,655 1893,654 1894,640 1891,594 1853,602 1834,592 1831,592 1830,592 1744,592 1742,592 1724,592 1583,602 1563,592 1562,592 1560,592 1557,592 1508,602 1489,592 1488,592 1486,592 1485,592 1459,600 1439,592 1437,592 1436,592 1431,592 1325,600 1264,591 1255,591 1253,591 1243,591 1168,600 1106,591 1100,591 1099,591 1092,591 1030,600 947,591 942,591 941,591 938,591 864,600 844,591 843,591 841,591 840,591 757,599 726,589 723,589 721,589 720,589 657,589 640,591 639,591 614,599 574,589 570,589 568,589 562,589 495,599 475,589 473,589 472,589 470,589 443,600 334,600 292,591 286,591"/>
+        <Baseline points="286,635 1894,640"/>
+        <TextEquiv>
+          <Unicode>Haber 1. fl. 44. kr. 8. Pfund Kern⸗Brod 10. kr. 2. Pfund 8. Loth 3. kr. 17. Loth Weck</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7b243aeb" custom="structure {type:default;}">
+        <Coords points="283,684 283,700 449,697 449,681 446,646 398,638 397,638 282,648 283,684"/>
+        <Baseline points="283,684 449,681"/>
+        <TextEquiv conf="0.9935673892498016">
+          <Unicode>vor 1. kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_89f27e28" custom="structure {type:default;}">
+        <Coords points="377,683 361,684 346,684 335,684 297,694 239,683 240,735 240,755 295,747 1894,749 1896,730 1893,692 1657,692 1653,691 1632,683 1630,683 1629,683 1627,683 1626,683 1615,691 1612,691 1560,689 1388,684 1387,684 1362,689 1341,692 1316,687 1286,683 1284,683 1241,687 1201,692 1135,687 1040,680 1039,680 1004,686 973,692 930,686 905,683 904,683 870,686 789,694 744,684 723,681 516,681 515,681 513,681 505,684 482,692 378,683 377,683"/>
+        <Baseline points="240,735 1896,730"/>
+        <TextEquiv>
+          <Unicode>In Mayntz das Malter Rocken⸗Mehl 3. fl. Waitzen 3. fl. 44. kr. Korn 2. fl. 14. kr. Ger⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_567f1840" custom="structure {type:default;}">
+        <Coords points="646,735 634,735 617,740 603,744 548,744 541,740 531,735 524,735 519,735 510,740 502,743 473,740 426,735 424,735 423,735 401,740 389,744 334,744 328,740 317,735 309,735 303,735 278,740 278,778 278,799 1888,796 1890,782 1888,736 1768,736 1767,736 1765,736 1747,746 1690,736 1687,736 1686,736 1684,736 1660,746 1583,736 1577,736 1575,736 1574,736 1572,736 1546,746 1450,736 1437,736 1436,736 1411,736 1273,744 1258,738 1252,735 1250,735 1249,735 1247,735 1238,738 1218,744 1166,738 1140,735 1138,735 1119,738 1083,744 1059,738 1045,735 1043,735 1042,735 988,738 905,744 855,738 818,735 817,735 714,740 660,741 656,740 648,735 646,735"/>
+        <Baseline points="278,778 1890,782"/>
+        <TextEquiv>
+          <Unicode>ſten 1. fl. 46. kr. Haber 1. fl. 8. kr. Speltz 1. fl. 14. kr. Huͤrſchen 5. fl. 10. kr. Weiß⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3831e7f3" custom="structure {type:default;}">
+        <Coords points="278,828 278,842 600,838 602,825 599,790 561,781 559,781 557,781 534,789 455,781 453,781 452,781 450,781 438,789 435,790 418,789 366,782 364,782 363,782 349,789 346,790 341,789 328,782 326,782 324,782 277,787 278,828"/>
+        <Baseline points="278,828 602,825"/>
+        <TextEquiv>
+          <Unicode>Mehl 4. fl. 40. kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1ce65d01" custom="structure {type:default;}">
+        <Coords points="283,891 282,905 443,916 444,916 645,910 672,917 674,917 676,917 1030,910 1344,919 1345,919 1407,911 1451,920 1453,920 1454,920 1479,913 1672,913 1699,920 1701,920 1703,920 1839,911 1840,897 1837,839 1626,847 1542,839 1540,839 1539,839 1500,850 1433,839 1424,838 1422,838 1414,839 1361,848 1250,839 1235,838 1128,838 1126,838 1120,839 1073,848 994,839 973,836 971,836 956,839 912,847 817,839 786,836 784,836 771,839 729,847 668,839 637,835 580,835 579,835 577,835 570,839 556,845 283,839 283,891"/>
+        <Baseline points="283,891 1840,897"/>
+        <TextEquiv>
+          <Unicode>Unter andern Buͤchern ſind auch bey dem Verleger dieſes Blats folgende</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d5a8ab98" custom="structure {type:default;}">
+        <Coords points="947,945 947,959 1138,956 1140,942 1137,900 945,900 947,945"/>
+        <Baseline points="947,945 1140,942"/>
+        <TextEquiv conf="0.999869359864129">
+          <Unicode>zu haben:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be489994" custom="structure {type:default;}">
+        <Coords points="321,999 341,1008 343,1008 344,1008 1888,1006 1890,992 1886,943 1690,951 1673,943 1672,943 1543,943 1542,943 1471,954 1367,945 1365,945 1364,945 1339,953 1318,945 1316,945 1315,945 1209,951 1191,943 1187,942 1186,942 1184,942 1175,943 1106,954 941,954 910,943 908,943 907,943 847,953 565,953 544,943 538,940 536,940 534,940 498,943 392,951 323,943 323,988"/>
+        <Baseline points="323,988 1890,992"/>
+        <TextEquiv conf="0.9896288696457358">
+          <Unicode>Leben der Marianne in octav, 1 fl. Heidemanns/ Architectura Militaris, mit Kupffer in</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4cc7bb9" custom="structure {type:default;}">
+        <Coords points="232,1034 231,1048 252,1057 254,1057 255,1057 1057,1051 1077,1058 1079,1058 1080,1058 1886,1051 1888,1037 1886,1003 1068,1003 1039,997 1020,994 1019,994 829,995 397,1000 236,992 232,1006"/>
+        <Baseline points="232,1034 1888,1037"/>
+        <TextEquiv>
+          <Unicode>fol. 3 fl. Lerſners/ Franckfurther Chronica, in fol. 3 fl. Gottfrieds/ Archontologia Coſmi-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_50d0d6e5" custom="structure {type:default;}">
+        <Coords points="229,1094 1882,1103 1885,1086 1883,1054 231,1049 231,1081"/>
+        <Baseline points="231,1081 1885,1086"/>
+        <TextEquiv>
+          <Unicode>ca, in fol. 2 fl. 30 kr. Maſenii, Hiſtoria Caroli V. &amp; Ferdinandi I. in 4to, 48 kr. Terminei,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_759d6218" custom="structure {type:default;}">
+        <Coords points="229,1150 1882,1158 1885,1138 1883,1103 1840,1092 1839,1092 1837,1092 1816,1101 1816,1103 1703,1103 1699,1101 1666,1092 1664,1092 1663,1092 1568,1100 1548,1101 1542,1100 1514,1092 1512,1092 1511,1092 1474,1100 1463,1101 1434,1100 1333,1090 1332,1090 1191,1098 1168,1098 1152,1097 1082,1090 1080,1090 1043,1097 1023,1100 1008,1097 984,1090 982,1090 981,1090 951,1097 938,1098 915,1095 870,1090 869,1090 867,1090 858,1095 849,1100 823,1095 795,1090 794,1090 792,1090 780,1095 769,1098 231,1092 231,1133"/>
+        <Baseline points="231,1133 1885,1138"/>
+        <TextEquiv>
+          <Unicode>Gerichtliche Proceſs, in 4to, 40 kr. Pirniſch⸗ und Praagiſche Friedens⸗Pacten/ in 4to, 2. kr.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5ae9847c" custom="structure {type:default;}">
+        <Coords points="229,1198 1882,1202 1885,1187 1883,1149 231,1139 231,1179"/>
+        <Baseline points="231,1179 1885,1187"/>
+        <TextEquiv>
+          <Unicode>Pacii, Analyſis ad inſtituta, in 8vo, 20 kr. Jaͤgers/ Europaͤiſcher Hiſtoricus, 2. Baͤnd in 8.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_21697413" custom="structure {type:default;}">
+        <Coords points="232,1244 984,1244 990,1244 1059,1251 1060,1251 1883,1244 1885,1233 1883,1199 1761,1199 1759,1198 1722,1189 1721,1189 1719,1189 1718,1189 1684,1196 1571,1189 1569,1189 1496,1198 1489,1198 1485,1198 1396,1189 1394,1189 1393,1189 1391,1189 1376,1198 1373,1198 1329,1190 1327,1190 1325,1190 1298,1198 1293,1198 1278,1198 1157,1190 1155,1190 1036,1196 1013,1187 1011,1187 1010,1187 962,1196 855,1187 853,1187 797,1195 764,1187 763,1187 761,1187 521,1196 499,1196 496,1196 462,1187 461,1187 292,1187 291,1187 232,1195 232,1230"/>
+        <Baseline points="232,1230 1885,1233"/>
+        <TextEquiv>
+          <Unicode>1. fl. Volckens/ Genealogiſches Titular Buch/ in 8vo, 20 kr. Liſt und Luſtige Begeben⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d6969ae8" custom="structure {type:default;}">
+        <Coords points="226,1290 420,1299 421,1299 844,1294 1043,1293 1050,1296 1056,1300 1057,1300 1059,1300 1060,1302 1882,1302 1883,1282 1882,1242 228,1236 228,1279"/>
+        <Baseline points="228,1279 1883,1282"/>
+        <TextEquiv conf="0.9951822252834545">
+          <Unicode>heiten der Herren Oſficier auf Werbungen/ darbey gebunden angenehmer Zeitvertreib des</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06316753" custom="structure {type:default;}">
+        <Coords points="1454,1282 1453,1282 1431,1291 1430,1291 1425,1291 1353,1282 1352,1282 1302,1291 1289,1293 1263,1291 1180,1284 991,1284 990,1284 988,1284 962,1290 951,1293 941,1290 913,1284 912,1284 910,1284 908,1284 890,1290 882,1294 766,1294 752,1290 737,1285 735,1285 734,1285 732,1285 717,1290 700,1294 682,1290 662,1285 660,1285 659,1285 657,1285 648,1290 637,1294 622,1290 607,1285 605,1285 603,1285 576,1290 547,1294 521,1290 498,1285 496,1285 453,1290 404,1294 392,1290 383,1285 381,1285 380,1285 225,1288 226,1329 226,1346 1882,1346 1883,1325 1880,1293 1710,1293 1710,1291 1687,1284 1686,1284 1684,1284 1595,1291 1591,1291 1589,1291 1565,1284 1563,1284 1562,1284 1499,1291 1494,1291 1491,1291 1457,1282 1456,1282"/>
+        <Baseline points="226,1329 1883,1325"/>
+        <TextEquiv>
+          <Unicode>Brandwercks bey Leipzig/ in 8vo, 1. fl. Gluͤckſeeligkeit des ohnverheyratheten Frauenzim⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_71dac6d0" custom="structure {type:default;}">
+        <Coords points="228,1394 1883,1391 1883,1372 1880,1337 1404,1329 1402,1329 1401,1329 1381,1337 1287,1329 1286,1329 1149,1337 1123,1329 1122,1329 1120,1329 1119,1329 1102,1337 706,1331 705,1331 703,1331 686,1340 568,1340 539,1331 538,1331 536,1331 441,1339 418,1331 416,1331 415,1331 413,1331 387,1339 311,1331 309,1331 226,1340 228,1375"/>
+        <Baseline points="228,1375 1883,1372"/>
+        <TextEquiv conf="0.9913484791675246">
+          <Unicode>mers/ in 8vo, 1. fl. NB. So kan man auch bey ihme den Augenſchein einnehmen von dem</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ee01e706" custom="structure {type:default;}">
+        <Coords points="225,1434 1882,1432 1882,1421 1882,1388 225,1388 225,1421"/>
+        <Baseline points="225,1421 1882,1421"/>
+        <TextEquiv conf="0.9958596906878732">
+          <Unicode>nunmehro gantz heraus gekommenen Atlas, Methodique de Monſieur Palairet, davon die Goͤt⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0966597d" custom="structure {type:default;}">
+        <Coords points="225,1483 1039,1483 1042,1483 1076,1490 1077,1490 1880,1483 1882,1470 1880,1435 1756,1426 1448,1426 1447,1426 1445,1426 1428,1434 1427,1434 1420,1434 1352,1426 1350,1426 918,1432 905,1432 886,1424 884,1424 882,1424 836,1432 835,1432 829,1432 680,1424 679,1424 643,1432 640,1434 363,1434 358,1432 334,1424 332,1424 331,1424 225,1431 225,1467"/>
+        <Baseline points="225,1467 1882,1470"/>
+        <TextEquiv>
+          <Unicode>tingiſche gelehrte Zeitung vom 28ten April 1755. alſo urtheilet: „Das Werck iſt Ruhm⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_41d1c97c" custom="structure {type:default;}">
+        <Coords points="225,1538 1880,1533 1880,1516 1877,1481 1062,1473 1060,1473 1059,1473 1030,1481 297,1475 295,1475 223,1483 225,1519"/>
+        <Baseline points="225,1519 1880,1516"/>
+        <TextEquiv>
+          <Unicode>„wuͤrdig/ dann ob gleich in Anſehung des weſentlichen Stucks der Charten eines und das</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f9b549cd" custom="structure {type:default;}">
+        <Coords points="227,1567 227,1583 1872,1585 1876,1562 1869,1523 225,1526 227,1567"/>
+        <Baseline points="228,1568 1879,1565"/>
+        <TextEquiv conf="0.9898195539383178">
+          <Unicode>„andere zu erinnern waͤre/ ſo iſt es doch zu Erlernung der Geographie uͤberaus bequem/ ja nach</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3c8637be" custom="structure {type:default;}">
+        <Coords points="1496,1573 1476,1565 1474,1565 1473,1565 1387,1575 1122,1567 1120,1567 1076,1575 1057,1567 1056,1567 1054,1567 1053,1567 1030,1576 698,1568 697,1568 636,1578 426,1570 424,1570 367,1578 291,1570 289,1570 226,1579 228,1618 228,1634 1876,1622 1877,1611 1874,1575 1545,1565 1543,1565"/>
+        <Baseline points="228,1618 1877,1611"/>
+        <TextEquiv conf="0.9898402121331956">
+          <Unicode>„dieſer und keiner andern Lehr⸗Art koͤnnen und muͤſſen junge Leuthe den Erdboden am leich⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a19ee1a" custom="structure {type:default;}">
+        <Coords points="228,1682 1877,1677 1879,1659 1874,1621 1670,1624 1655,1621 1629,1616 1627,1616 1598,1622 1583,1624 1562,1622 1511,1616 1509,1616 1442,1622 1422,1624 1411,1622 1370,1616 1368,1616 1172,1624 1123,1625 1085,1624 908,1618 907,1618 905,1618 886,1625 884,1627 729,1627 726,1627 700,1619 698,1619 697,1619 607,1627 600,1627 597,1627 498,1619 496,1619 495,1619 472,1627 415,1619 413,1619 361,1627 272,1619 271,1619 226,1628 228,1663"/>
+        <Baseline points="228,1663 1879,1659"/>
+        <TextEquiv>
+          <Unicode>„teſten und beſten kennen lernen.„ Gedachter Atlas beſtehet aus 53. auf groß Real Papier</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5e2e0199" custom="structure {type:default;}">
+        <Coords points="225,1729 1877,1722 1877,1703 1873,1671 1407,1671 1352,1663 1350,1663 1348,1663 1332,1671 1269,1663 1267,1663 1215,1673 1214,1673 1210,1673 1172,1665 1171,1665 1051,1673 968,1665 967,1665 965,1665 948,1673 895,1665 893,1665 823,1674 818,1674 804,1674 574,1667 573,1667 534,1676 530,1676 504,1676 266,1668 265,1668 223,1676 225,1711"/>
+        <Baseline points="225,1711 1877,1703"/>
+        <TextEquiv>
+          <Unicode>geſtochenen illuminirten Charten/ darzu gehoͤret/ die in 3. Tomis in octavo ſub titulo: Nou-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06524a13" custom="structure {type:default;}">
+        <Coords points="226,1769 1874,1768 1876,1751 1873,1722 1637,1711 1635,1711 1431,1720 1327,1711 1325,1711 1197,1722 1096,1713 1094,1713 1092,1713 1066,1723 985,1723 933,1713 931,1713 850,1722 794,1713 792,1713 790,1713 761,1723 597,1714 596,1714 518,1723 447,1714 446,1714 357,1723 292,1714 291,1714 225,1725 226,1755"/>
+        <Baseline points="226,1755 1876,1751"/>
+        <TextEquiv>
+          <Unicode>velle Introduction à la Geographie moderne, von dem nehmlichen Autore verfaſſete Inſtru-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_551357ce" custom="structure {type:default;}">
+        <Coords points="222,1824 1027,1818 1034,1821 1045,1826 1046,1826 1048,1827 1177,1827 1177,1826 1221,1820 1241,1818 1252,1820 1273,1826 1275,1826 1276,1826 1356,1820 1384,1818 1404,1820 1465,1826 1466,1826 1563,1818 1581,1818 1607,1818 1784,1826 1785,1826 1874,1817 1874,1804 1873,1762 1831,1769 1220,1765 789,1762 787,1762 786,1762 775,1768 769,1771 593,1771 579,1768 527,1762 525,1762 453,1769 444,1769 441,1769 415,1762 413,1762 412,1762 278,1769 255,1762 254,1762 252,1762 251,1762 222,1769 222,1804"/>
+        <Baseline points="222,1804 1874,1804"/>
+        <TextEquiv>
+          <Unicode>ction. Alles zuſammen/ nehmlich der Atlas und die Introduction koſten in Londen 4. Gui-</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a6f1d435" custom="structure {type:default;}">
+        <Coords points="223,1870 484,1878 485,1878 487,1878 515,1869 522,1867 528,1869 551,1876 553,1876 554,1876 665,1875 666,1875 680,1867 685,1866 709,1867 767,1873 769,1873 884,1866 886,1847 882,1820 810,1820 794,1809 792,1809 790,1809 789,1809 787,1809 786,1809 771,1818 630,1811 628,1811 626,1811 600,1820 596,1821 590,1820 568,1812 567,1812 565,1812 516,1820 507,1821 504,1820 488,1812 487,1812 485,1812 484,1812 482,1812 472,1820 467,1823 439,1820 381,1815 380,1815 378,1815 377,1815 369,1821 367,1823 364,1821 357,1814 355,1814 354,1814 352,1814 351,1814 329,1821 317,1824 301,1821 275,1815 274,1815 272,1815 259,1821 251,1824 246,1821 237,1815 236,1815 234,1815 232,1815 231,1815 222,1818 223,1855"/>
+        <Baseline points="223,1855 886,1847"/>
+        <TextEquiv conf="0.9770252579136899">
+          <Unicode>nees, oder 40. fl. ohne den Tranſport.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_77bb089e" custom="structure {type:default;}">
+        <Coords points="357,1935 1726,1924 1727,1912 1724,1869 1428,1860 1427,1860 1425,1860 1399,1867 1140,1861 1138,1861 1091,1869 1043,1861 1042,1861 1040,1861 1039,1861 1025,1870 950,1863 948,1863 947,1863 945,1863 931,1872 763,1872 698,1863 697,1863 599,1872 570,1864 568,1864 567,1864 426,1872 372,1864 370,1864 369,1864 367,1864 355,1870 357,1918"/>
+        <Baseline points="357,1918 1727,1912"/>
+        <TextEquiv>
+          <Unicode>In der Knechtſchen Hof⸗Buchhandlung allhier iſt zu haben:</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_cf233fc3" custom="structure {type:default;}">
+        <Coords points="263,1979 1871,1973 1873,1961 1870,1924 1558,1915 1557,1915 1555,1915 1554,1915 1542,1922 1539,1922 1428,1916 1427,1916 1425,1916 1401,1922 1394,1924 1384,1922 1342,1916 1341,1916 1256,1922 1232,1924 1206,1922 1122,1916 1120,1916 1083,1922 1065,1926 1048,1922 1025,1918 1023,1918 990,1922 965,1927 803,1927 795,1922 786,1918 784,1918 783,1918 726,1922 662,1927 262,1922 263,1967"/>
+        <Baseline points="263,1967 1873,1961"/>
+        <TextEquiv conf="0.9887568869374015">
+          <Unicode>Allhier ſind die von dem Reſormierten Pfarrer Poͤrtner in Franckfurt gehaltene drey Pre⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_9aee78c0" custom="structure {type:default;}">
+        <Coords points="218,2015 218,2031 1867,2022 1869,2008 1863,1967 216,1971 218,2015"/>
+        <Baseline points="219,2016 1871,2011"/>
+        <TextEquiv>
+          <Unicode>digten/ welche bey Gelegenheit der ſeit einiger Zeit vorgefallenen Erdbeben/ und Waſſerflu⸗</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_db32a2bb" custom="structure {type:default;}">
+        <Coords points="216,2080 1865,2074 1867,2056 1863,2019 766,2016 764,2016 763,2016 729,2024 530,2017 528,2017 487,2025 243,2019 242,2019 240,2019 214,2027 216,2065"/>
+        <Baseline points="216,2065 1867,2056"/>
+        <TextEquiv conf="0.9890382073737762">
+          <Unicode>then gehalten/ und nebſt einem Verſuch die Herrlichkeit GOttes/ in dem Erdbeben zu zeichen/</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fc72c0e5" custom="structure {type:default;}">
+        <Coords points="375,2065 364,2070 349,2074 216,2070 217,2112 217,2131 283,2123 518,2129 531,2129 533,2129 536,2129 591,2122 1870,2122 1871,2105 1868,2070 1756,2062 1755,2062 1643,2068 1588,2059 1586,2059 1523,2070 1514,2070 1486,2070 1318,2060 1316,2060 1131,2070 1100,2070 1092,2070 1056,2062 1054,2062 809,2063 807,2063 795,2070 786,2073 774,2070 757,2063 755,2063 754,2063 649,2070 545,2074 527,2070 519,2066 518,2066 516,2066 515,2066 510,2070 499,2074 482,2070 475,2066 473,2066 472,2066 456,2070 427,2074 400,2070 378,2065 377,2065"/>
+        <Baseline points="217,2112 1871,2105"/>
+        <TextEquiv conf="0.9832613489714014">
+          <Unicode>vor 24. kr. zu haben. Man verſichert zum Voraus daß dieſe/ von dem beruͤhmten Manne</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5de94018" custom="structure {type:default;}">
+        <Coords points="216,2155 216,2181 1865,2181 1865,2155 1863,2109 216,2112 216,2155"/>
+        <Baseline points="217,2158 1867,2157"/>
+        <TextEquiv conf="0.9896325589565749">
+          <Unicode>mit derer Ihm vorzuͤglich eigenen Beredſamkeit gehaltene Predigten/ nicht ohne Empfindung</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_126c6dfc" custom="structure {type:default;}">
+        <Coords points="217,2229 1865,2224 1867,2204 1862,2165 216,2166 217,2207"/>
+        <Baseline points="217,2207 1867,2204"/>
+        <TextEquiv conf="0.9933490494647658">
+          <Unicode>eines innerlich ruͤhrenden Vergnuͤgens und Bewunderung der Allmacht GOttes/ geleſen</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_36334b2a" custom="structure {type:default;}">
+        <Coords points="495,2220 289,2210 288,2210 216,2220 216,2258 216,2284 254,2287 255,2287 257,2287 262,2284 277,2276 318,2284 335,2287 337,2287 338,2287 347,2284 370,2276 508,2283 510,2258 508,2255 507,2256"/>
+        <Baseline points="216,2258 510,2258"/>
+        <TextEquiv conf="0.9683582385381063">
+          <Unicode>werden koͤnnen.</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
