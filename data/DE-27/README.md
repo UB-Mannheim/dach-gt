@@ -4,6 +4,7 @@
 
 ### URL examples
 
+* OAI/PMH - https://collections.thulb.uni-jena.de/oai2?verb=Identify
 * IIIF manifest – https://collections.thulb.uni-jena.de/api/iiif/presentation/v2/HisBest_derivate_00000163/manifest
 * METS file – https://collections.thulb.uni-jena.de/servlets/MCRMETSServlet/HisBest_derivate_00000163?XSL.Style=dfg
 

@@ -14,7 +14,7 @@ Die gesammten Materialien zum Bürgerlichen Gesetzbuch für das Deutsche Reich /
 
 ### URL examples
 
-* METS file – http://www.ub.uni-koeln.de/cdm4/mets_gateway.php?CISOROOT=/mono19&CISOPTR=21180
+* OAI/PMH - https://digital.ub.uni-duesseldorf.de/oai/?verb=Identify&mode=view
 
 ### Useful commands for data handling
 

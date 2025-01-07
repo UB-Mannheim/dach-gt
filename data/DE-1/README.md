@@ -11,6 +11,7 @@ Die gesammten Materialien zu den preußischen Ausführungsgesetzen zum Bürgerli
 
 ### URL examples
 
+* OAI/PMH - https://oai.sbb.berlin/?verb=Identify ([Beschreibung](https://lab.sbb.berlin/dc/))
 * IIIF manifest – https://content.staatsbibliothek-berlin.de/dc/671169300/manifest
 * METS file – https://content.staatsbibliothek-berlin.de/dc/PPN671169300.mets.xml
 

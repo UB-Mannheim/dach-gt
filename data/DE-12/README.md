@@ -5,6 +5,8 @@
 
 ### URL examples
 
+* OAI/PMH - https://bsb.alma.exlibrisgroup.com/view/oai/49BVB_BSB/request?verb=Identify ([Beschreibung](https://www.bsb-muenchen.de/bsblab/datenschnittstellen/bsb-oai/))
+* OAI/PMH - http://bdr.oai.bsb-muenchen.de/OAIHandler?verb=Identify ([Beschreibung](https://oai.bsb-muenchen.de/doc/bayerisches-digitales-repositorium))
 * IIIF manifest – https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00034304/manifest
 * METS file – http://daten.digitale-sammlungen.de/~db/mets/bsb00034304_mets.xml
 

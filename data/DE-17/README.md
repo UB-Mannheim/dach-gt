@@ -4,6 +4,7 @@
 
 ### URL examples
 
+* OAI/PMH - https://tudigit.ulb.tu-darmstadt.de/oai?verb=Identify
 * METS file – https://tudigit.ulb.tu-darmstadt.de/mets/GK-9099-S322-1.xml
 * Page image –
 
