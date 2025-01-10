@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>image667.jpg</fileName>
+      <fileIdentifier>https://archiv.ub.uni-marburg.de/eb/2010/0168</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT42" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT33" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="1598"
+          HEIGHT="2270"
+          PHYSICAL_IMG_NR="646"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="1598"
+                  HEIGHT="2270">
+        <TextBlock HPOS="544"
+                   VPOS="1795"
+                   WIDTH="80"
+                   HEIGHT="55"
+                   ID="eSc_textblock_b0341c77"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="551 1795 594 1795 599 1834 624 1850 544 1850 551 1795"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="625"
+                   VPOS="65"
+                   WIDTH="241"
+                   HEIGHT="301"
+                   ID="eSc_textblock_1d7eaca4"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="723 65 836 110 866 211 851 306 750 366 676 351 681 322 650 301 625 205 640 171 731 139 696 134 686 114 691 80 723 65"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="887"
+                   VPOS="509"
+                   WIDTH="9"
+                   HEIGHT="4"
+                   ID="eSc_textblock_863bd8cf"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="890 509 896 509 896 513 887 513 890 509"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

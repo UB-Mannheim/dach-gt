@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>image003.jpg</fileName>
+      <fileIdentifier>https://archiv.ub.uni-marburg.de/eb/2010/0168</fileIdentifier>
+    </sourceImageInformation>
+  </Description>
+  <Tags>
+    <OtherTag ID="BT1" LABEL="Title" DESCRIPTION="block type Title"/><OtherTag ID="BT2" LABEL="Main" DESCRIPTION="block type Main"/><OtherTag ID="BT3" LABEL="Commentary" DESCRIPTION="block type Commentary"/><OtherTag ID="BT4" LABEL="Illustration" DESCRIPTION="block type Illustration"/><OtherTag ID="BT42" LABEL="text" DESCRIPTION="block type text"/>
+    <OtherTag ID="LT33" LABEL="default" DESCRIPTION="line type default"/>
+  </Tags>
+  <Layout>
+    <Page WIDTH="2058"
+          HEIGHT="2583"
+          PHYSICAL_IMG_NR="3"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="2058"
+                  HEIGHT="2583">
+        <TextBlock HPOS="189"
+                   VPOS="1394"
+                   WIDTH="56"
+                   HEIGHT="22"
+                   ID="eSc_textblock_078b4741"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="199 1394 239 1394 245 1416 189 1416 199 1394"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="229"
+                   VPOS="1630"
+                   WIDTH="10"
+                   HEIGHT="15"
+                   ID="eSc_textblock_ccf51019"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="233 1630 239 1640 229 1645 229 1630 233 1630"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="252"
+                   VPOS="1446"
+                   WIDTH="16"
+                   HEIGHT="16"
+                   ID="eSc_textblock_db589001"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="268 1446 268 1462 258 1462 252 1452 268 1446"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="252"
+                   VPOS="1406"
+                   WIDTH="22"
+                   HEIGHT="10"
+                   ID="eSc_textblock_3abc31c0"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="264 1406 274 1410 252 1416 258 1406 264 1406"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="160"
+                   VPOS="1567"
+                   WIDTH="211"
+                   HEIGHT="21"
+                   ID="eSc_textblock_39b37648"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="160 1567 297 1567 371 1582 229 1588 160 1567"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="275"
+                   VPOS="80"
+                   WIDTH="142"
+                   HEIGHT="62"
+                   ID="eSc_textblock_113395e5"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="297 80 343 86 417 119 304 142 275 119 297 80"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="292"
+                   VPOS="1601"
+                   WIDTH="349"
+                   HEIGHT="108"
+                   ID="eSc_textblock_0b443c7f"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="475 1601 635 1607 641 1622 624 1645 482 1651 463 1709 292 1691 292 1664 394 1658 475 1601"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="447"
+                   VPOS="1567"
+                   WIDTH="251"
+                   HEIGHT="27"
+                   ID="eSc_textblock_c83ae7f6"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="572 1567 693 1567 698 1577 584 1594 447 1582 572 1567"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1519"
+                   VPOS="2548"
+                   WIDTH="131"
+                   HEIGHT="10"
+                   ID="eSc_textblock_1c0ac1c3"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="1617 2548 1650 2558 1519 2558 1610 2554 1617 2548"/></Shape>
+        </TextBlock>
+        <TextBlock HPOS="1623"
+                   VPOS="2537"
+                   WIDTH="10"
+                   HEIGHT="4"
+                   ID="eSc_textblock_0f4c3bcb"
+                   TAGREFS="BT42">
+          <Shape><Polygon POINTS="1628 2537 1633 2541 1623 2541 1623 2537 1628 2537"/></Shape>
+        </TextBlock>
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>

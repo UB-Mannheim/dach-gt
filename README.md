@@ -1,6 +1,7 @@
 ## Ground truth and full text for selected prints of German archives and libraries
 
 * [Staatsbibliothek zu Berlin](data/DE-1)
+* [Universitätsbibliothek Marburg](data/DE-4)
 * [Bayerische Staatsbibliothek](data/DE-12) / Münchener Digitalisierungszentrum
 * [Universitäts- und Landesbibliothek Darmstadt](data/DE-17)
 * [Herzog August Bibliothek Wolfenbüttel](data/DE-23)
