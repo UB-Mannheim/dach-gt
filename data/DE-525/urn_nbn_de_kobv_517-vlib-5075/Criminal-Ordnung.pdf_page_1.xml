@@ -15,35 +15,35 @@
     <TextRegion id="eSc_dummyblock_">
       <Coords points="0,0 0,0"/>
       <TextLine id="eSc_line_f6b24235" >
-        <Coords points="745,640 742,660 757,672 760,672 763,672 766,672 1731,666 1734,651 1734,593 745,581 745,640"/>
+        <Coords points="742,660 757,672 760,672 763,672 766,672 1731,666 1734,651 1734,593 745,581 745,640"/>
         <Baseline points="747,641 1735,654"/>
         <TextEquiv>
           <Unicode>Digitales Brandenburg</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ff90f366" >
-        <Coords points="523,815 523,830 1959,827 1962,812 1953,762 520,762 523,815"/>
+        <Coords points="523,830 1959,827 1962,812 1953,762 520,762"/>
         <Baseline points="524,817 1963,815"/>
         <TextEquiv>
           <Unicode>hosted by Universitätsbibliothek Potsdam</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e74d2dbd" >
-        <Coords points="195,1064 193,1084 2301,1084 2304,1069 2304,1014 195,1008 195,1064"/>
+        <Coords points="193,1084 2301,1084 2304,1069 2304,1014 195,1008 195,1064"/>
         <Baseline points="198,1066 2305,1071"/>
         <TextEquiv>
           <Unicode>Allgemeines Criminalrecht für die Preußischen Staaten</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f7a57a9c" >
-        <Coords points="985,1181 982,1198 1497,1201 1503,1186 1500,1131 985,1122 985,1181"/>
-        <Baseline points="986,1183 991,1183 1504,1188"/>
+        <Coords points="982,1198 1497,1201 1503,1186 1500,1131 985,1122 985,1181"/>
+        <Baseline points="986,1183 1504,1188"/>
         <TextEquiv>
           <Unicode>Criminal-Ordnung</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0e200515" >
-        <Coords points="1020,1356 1017,1365 1459,1371 1465,1362 1465,1306 1435,1292 1433,1292 1430,1292 1020,1300 1020,1356"/>
+        <Coords points="1017,1365 1459,1371 1465,1362 1465,1306 1435,1292 1433,1292 1430,1292 1020,1300 1020,1356"/>
         <Baseline points="1022,1359 1468,1364"/>
         <TextEquiv>
           <Unicode>Berlin, 1806</Unicode>
