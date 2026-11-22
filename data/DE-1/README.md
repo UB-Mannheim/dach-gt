@@ -4,6 +4,12 @@ Das Hexen Buch.
 
 * Theil 2 (1569), [Original](http://resolver.staatsbibliothek-berlin.de/SBB00018A0E00010000)
 
+  Ground truth for 80 pages (images between 813172837-0001 and
+  813172837-0080, and 813172837-0333). The pages were transcribed with eScriptorium by
+  Carolin Sabokat in February and March 2023 and first published in
+  <https://github.com/UB-Mannheim/stabi-berlin-gt>. That repository is no
+  longer maintained; the transcriptions are continued here.
+
 Die gesammten Materialien zu den preußischen Ausführungsgesetzen zum Bürgerlichen Gesetzbuch für das Deutsche Reich und seinen Nebengesetzen
 
 * (1900), [Original](http://resolver.staatsbibliothek-berlin.de/SBB000066FA00000000), [mit Volltext]()
