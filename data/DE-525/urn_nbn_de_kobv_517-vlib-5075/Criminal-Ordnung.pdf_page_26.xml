@@ -47,7 +47,7 @@
         <Coords points="333,646 1356,640 1359,610 1351,555 330,564"/>
         <Baseline points="335,625 1361,613"/>
         <TextEquiv>
-          <Unicode>Fuͤr kranke Gefangene, die nicht in den ge-</Unicode>
+          <Unicode>Fuͤr kranke Gefangene, die nicht in den ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_387758ce" >
@@ -117,7 +117,7 @@
         <Coords points="395,1218 397,1218 399,1218 401,1218 426,1206 465,1218 467,1218 469,1218 553,1206 565,1206 588,1218 590,1218 592,1218 725,1206 830,1216 848,1202 972,1212 1027,1214 1068,1200 1202,1214 1222,1214 1271,1200 1288,1214 1292,1214 1294,1216 1353,1216 1355,1179 1351,1138 1261,1128 1261,1130 1253,1136 1251,1140 1179,1140 1165,1126 1163,1126 1162,1126 1160,1126 1103,1138 1031,1138 1021,1128 1021,1126 1019,1126 1017,1126 1015,1126 894,1128 889,1134 881,1140 696,1128 670,1142 571,1142 214,1132 216,1208 224,1216 230,1216 290,1204 300,1212 300,1214 354,1206"/>
         <Baseline points="216,1184 1355,1179"/>
         <TextEquiv>
-          <Unicode>seiner Religionspartei im Beiſein einer Ge⸗</Unicode>
+          <Unicode>ſeiner Religionsparthei im Beiſeyn einer Ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0b0312c3" >

@@ -158,7 +158,7 @@
         <Coords points="929,1489 1778,1486 1780,1472 1775,1439 1745,1443 1735,1439 1719,1429 1717,1429 1716,1429 1714,1429 1674,1443 1616,1431 1612,1431 1596,1440 1555,1429 1554,1429 1552,1429 1479,1442 1471,1442 1450,1431 1444,1431 1430,1443 1372,1443 1357,1431 1357,1429 1355,1429 1354,1429 1352,1429 1351,1429 1306,1445 1285,1429 1284,1429 1282,1429 1201,1429 1200,1429 1198,1429 1196,1429 1175,1445 1123,1434 1119,1434 1119,1436 1109,1445 1058,1445 1035,1434 1032,1434 928,1446"/>
         <Baseline points="929,1475 1780,1472"/>
         <TextEquiv>
-          <Unicode>9. Monathlicher Stadt Mannheimer Vietnalien⸗Tax.</Unicode>
+          <Unicode>9. Monathlicher Stadt Mannheimer Victualien⸗Tax.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_507f5f6e" custom="structure {type:default;}">
@@ -235,7 +235,7 @@
         <Coords points="116,2064 119,2144 229,2142 251,2128 302,2138 316,2126 421,2142 501,2128 652,2138 732,2126 941,2142 1064,2126 1103,2126 1122,2142 1131,2142 1154,2131 1172,2142 1293,2131 1348,2142 1424,2126 1484,2140 1552,2126 1713,2131 1717,2108 1713,2064 1644,2051 1534,2051 1520,2064 977,2064 934,2055 895,2055 877,2062 858,2055 833,2055 817,2064 634,2064 545,2057 414,2057 389,2062 375,2057 247,2057"/>
         <Baseline points="120,2112 1719,2110"/>
         <TextEquiv>
-          <Unicode>3. Ohnweit dem Schoß ſeynd 4. meubl. Zimmer vor einen ledigen Herrn zu verleyhen.</Unicode>
+          <Unicode>3. Ohnweit dem Schloß ſeynd 4. meubl. Zimmer vor einen ledigen Herrn zu verleyhen.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_5702b8cd" custom="structure {type:default;}">

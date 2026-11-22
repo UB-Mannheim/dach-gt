@@ -144,7 +144,7 @@
         <Coords points="1593,1586 1597,1568 1591,1528 234,1528 237,1584"/>
         <Baseline points="238,1571 1600,1570"/>
         <TextEquiv>
-          <Unicode>in 12. Kaͤldern Pergament Baͤnden in fol. in civielem Prerß weg zu geben.</Unicode>
+          <Unicode>in 12. Kaͤldern Pergament Baͤnden in fol. in civielem Preiß weg zu geben.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e625f131" custom="structure {type:default;}">
@@ -266,7 +266,7 @@
         <Coords points="1841,481 1839,481 1838,481 1836,481 1799,494 1773,481 1772,481 1770,481 1768,481 1742,495 1733,488 1666,495 1650,485 1595,494 1555,485 1549,485 1538,495 1540,549 1593,563 1595,563 1596,563 1650,549 1704,549 1718,558 1725,558 1733,552 1747,561 1787,554 1805,549 1836,560 1868,554 1868,534 1867,503 1865,494"/>
         <Baseline points="1540,538 1868,534"/>
         <TextEquiv>
-          <Unicode>dtgſt ⸗ ertheil⸗</Unicode>
+          <Unicode>digſt ⸗ ertheil⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_c854ad0c" custom="structure {type:default;}">

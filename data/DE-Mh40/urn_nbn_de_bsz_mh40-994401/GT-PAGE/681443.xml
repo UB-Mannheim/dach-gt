@@ -89,7 +89,7 @@
         <Coords points="480,861 480,882 982,876 1052,885 1081,885 1189,878 1407,885 1520,878 1579,887 1588,887 1589,887 1598,887 1654,879 2041,887 2044,866 2042,834 1998,825 1253,831 1215,823 1041,831 1007,831 975,822 973,822 972,822 970,822 943,829 943,831 856,831 842,822 840,822 839,822 837,822 786,829 480,829 480,861"/>
         <Baseline points="480,861 2044,866"/>
         <TextEquiv>
-          <Unicode>point, ces qui voudroit acheter ce Cabrioler la en peuvent tirer plus d&#x27;avis chez L&#x27;Edit</Unicode>
+          <Unicode>point, ces qui voudroit acheter ce Cabriolet la en peuvent tirer plus d&#x27;avis chéz L&#x27;Edit</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_c38cd6c1" custom="structure {type:default;}">
@@ -180,14 +180,14 @@
         <Coords points="428,1543 428,1560 2024,1561 2026,1543 2026,1504 1946,1492 1944,1492 1781,1504 1716,1504 1713,1501 1689,1492 1687,1492 1686,1492 1573,1502 1558,1501 1503,1492 1502,1492 1269,1501 1204,1492 1203,1492 1201,1492 1182,1501 1067,1492 1065,1492 1064,1492 1034,1504 931,1504 913,1495 904,1496 893,1504 484,1504 428,1495 428,1543"/>
         <Baseline points="428,1543 2026,1543"/>
         <TextEquiv>
-          <Unicode>Brod⸗Tax Ein halber Kreutzer Weck 6½. Loth. Ein Kreußzer Weck 13. Loth. Ein K</Unicode>
+          <Unicode>Brod⸗Tax Ein halber Kreutzer Weck 6½. Loth. Ein Kreutzer Weck 13. Loth. Ein K</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_fb2af04f" custom="structure {type:default;}">
         <Coords points="474,1613 770,1605 2017,1608 2020,1594 2018,1555 1965,1546 1964,1546 1911,1554 1867,1546 1866,1546 1826,1554 1719,1546 1718,1546 1716,1546 1684,1554 1310,1546 1309,1546 1230,1554 1215,1546 1213,1546 1108,1546 1106,1546 1044,1554 1025,1546 1023,1546 1022,1546 1020,1546 993,1554 970,1546 969,1546 967,1546 966,1546 942,1555 809,1555 724,1546 723,1546 612,1554 554,1546 552,1546 472,1555"/>
         <Baseline points="474,1597 1037,1591 2020,1594"/>
         <TextEquiv>
-          <Unicode>zer Waſſer⸗Broͤdſein 12. Loth. Ein Kreuzer Milch⸗Broͤdlein 9. Loth. Zwey Kre</Unicode>
+          <Unicode>zer Waſſer⸗Broͤdlein 12. Loth. Ein Kreuzer Milch⸗Broͤdlein 9. Loth. Zwey Kre</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_8b7ecf62" custom="structure {type:default;}">
@@ -257,7 +257,7 @@
         <Coords points="1746,2030 1745,2030 1743,2030 1728,2040 1690,2030 1689,2030 1687,2030 1647,2040 1610,2030 1609,2030 1607,2030 1606,2030 1565,2041 1482,2032 1479,2032 1461,2041 1422,2033 1336,2043 1315,2033 1310,2033 1274,2043 1250,2033 1129,2033 1103,2044 961,2035 946,2043 786,2037 748,2046 724,2037 720,2037 703,2044 647,2038 629,2047 539,2038 469,2049 471,2101 985,2091 1108,2091 1127,2100 1132,2100 1159,2089 1201,2098 1203,2100 1337,2100 1337,2098 1343,2098 1382,2089 1481,2094 1574,2086 1683,2095 1737,2088 1758,2095 1974,2088 2012,2094 2015,2073 2012,2040 1748,2030 1746,2030"/>
         <Baseline points="471,2083 2015,2073"/>
         <TextEquiv>
-          <Unicode>groſe 3 ad 4 ℔. 12. kr. klenie 8 kr. Hecht groſſe und kleine 16. kr. Perſching groſſe 12</Unicode>
+          <Unicode>groſe 3 ad 4 ℔. 12. kr. kleine 8 kr. Hecht groſſe und kleine 16. kr. Perſching groſſe 12</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_8cfe80e8" custom="structure {type:default;}">
@@ -285,7 +285,7 @@
         <Coords points="691,2311 693,2311 694,2311 696,2311 714,2299 779,2295 930,2298 954,2310 1011,2307 1038,2295 1109,2308 1201,2293 1293,2308 1393,2292 1425,2307 1715,2304 1763,2290 1848,2290 1891,2305 2008,2304 2008,2270 2005,2234 1724,2224 1722,2224 1721,2224 1698,2234 1690,2234 1629,2225 1601,2234 1597,2234 1571,2225 1517,2234 1511,2234 1491,2225 1431,2234 1423,2234 1393,2225 1325,2234 1315,2234 1256,2227 1232,2236 1207,2227 1082,2237 1043,2228 940,2237 815,2228 700,2230 685,2239 634,2230 620,2234 611,2239 468,2236 469,2296 570,2296 587,2304 591,2304 614,2296 620,2296"/>
         <Baseline points="469,2278 2008,2270"/>
         <TextEquiv>
-          <Unicode>Bier 3. fl. Die Maas des Erſleren 4.kr. Auſſerdem Hauß 4. kt. DesZweytern,</Unicode>
+          <Unicode>Bier 3. fl. Die Maas des Erſteren 4. kr. Auſſer dem Hauß 4. kr. Des Zweytern,</Unicode>
         </TextEquiv>
       </TextLine>
     </TextRegion>

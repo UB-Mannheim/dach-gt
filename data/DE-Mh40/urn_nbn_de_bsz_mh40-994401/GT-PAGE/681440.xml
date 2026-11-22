@@ -130,7 +130,7 @@
         <Coords points="1138,1574 1988,1574 1990,1563 1990,1530 1949,1516 1896,1529 1887,1529 1829,1516 1661,1527 1600,1516 1565,1529 1550,1514 1548,1514 1547,1514 1545,1514 1500,1522 1425,1514 1423,1514 1421,1514 1396,1529 1160,1529 1146,1518 1141,1518 1140,1560"/>
         <Baseline points="1140,1560 1990,1563"/>
         <TextEquiv>
-          <Unicode>9. Monathlicher Stadt Mannheimer Vietnalien⸗Tax.</Unicode>
+          <Unicode>9. Monathlicher Stadt Mannheimer Victualien⸗Tax.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f02174d2" custom="structure {type:default;}">
@@ -144,7 +144,7 @@
         <Coords points="681,1669 682,1669 847,1660 878,1668 953,1658 1060,1666 1179,1657 1246,1662 1285,1663 1290,1662 1304,1655 1327,1662 1340,1663 1348,1662 1357,1655 1450,1662 1605,1652 1625,1660 1786,1658 1788,1641 1785,1599 1639,1590 1638,1590 1573,1599 1525,1590 1523,1590 1522,1590 1493,1599 1442,1590 1440,1590 1392,1600 1321,1591 1306,1600 1197,1594 1147,1602 1091,1593 1080,1600 1003,1594 930,1604 919,1596 914,1596 839,1605 809,1596 803,1596 786,1607 728,1607 701,1596 698,1596 580,1607 546,1599 541,1599 516,1608 518,1663"/>
         <Baseline points="518,1652 1788,1641"/>
         <TextEquiv>
-          <Unicode>I) Sachen ſo zu verkaufen in und auſer der Stadt.</Unicode>
+          <Unicode>1) Sachen ſo zu verkaufen in und auſer der Stadt.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_e3205321" custom="structure {type:default;}">
@@ -200,7 +200,7 @@
         <Coords points="441,2070 443,2070 526,2067 526,2065 534,2057 549,2065 554,2065 584,2056 596,2056 654,2064 674,2054 728,2064 731,2064 751,2053 869,2061 884,2050 905,2059 909,2059 945,2048 945,2036 942,1998 878,1989 876,1989 875,1989 873,1989 862,1998 814,1990 798,2000 731,1992 642,1995 634,2003 512,1996 499,2007 371,2007 372,2061"/>
         <Baseline points="372,2048 945,2036"/>
         <TextEquiv>
-          <Unicode>Keltengaß wohnhaft erfahren.</Unicode>
+          <Unicode>Kettengaß wohnhaft erfahren.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_36b23766" custom="structure {type:default;}">

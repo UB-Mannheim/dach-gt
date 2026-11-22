@@ -26,7 +26,7 @@
         <Coords points="1288,362 1466,378 1472,378 1485,368 1493,378 1495,378 1495,380 1877,368 2021,383 2025,383 2049,372 2109,385 2111,385 2314,370 2316,352 2316,309 1290,302 1290,343"/>
         <Baseline points="1290,343 2316,352"/>
         <TextEquiv>
-          <Unicode>und einfach sey, auch alle Verkuͤrzung von Sei⸗</Unicode>
+          <Unicode>und einfach ſey, auch alle Verkuͤrzung von Sei⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_fa5ea0ff" custom="structure {type:default;}">
@@ -124,7 +124,7 @@
         <Coords points="1062,1255 1132,1255 1160,1272 1162,1272 1163,1272 1165,1272 1232,1270 1247,1255 1249,1233 1249,1200 1206,1181 1204,1181 1202,1181 1103,1198 1085,1190 1084,1192 1064,1194 1064,1231"/>
         <Baseline points="1064,1231 1249,1233"/>
         <TextEquiv>
-          <Unicode>Beſchaͤfti-</Unicode>
+          <Unicode>Beſchaͤfti⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_7b0a119b" custom="structure {type:default;}">

@@ -222,7 +222,7 @@
         <Coords points="204,2003 1347,2007 1351,1985 1345,1931 1304,1943 1269,1931 1261,1931 1187,1944 1064,1944 1023,1931 1017,1931 992,1943 965,1931 957,1931 943,1944 896,1944 834,1933 813,1931 809,1931 777,1943 727,1929 725,1929 723,1929 721,1929 680,1941 610,1929 608,1929 547,1941 499,1931 438,1941 432,1937 426,1931 426,1929 425,1929 423,1929 421,1929 206,1937 206,1982"/>
         <Baseline points="206,1982 1351,1985"/>
         <TextEquiv conf="0.990585023827023">
-          <Unicode>rerſuchung gereicht, und worauf die erwartete</Unicode>
+          <Unicode>terſuchung gereicht, und worauf die erwartete</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f816ba82" custom="structure {type:default;}">
