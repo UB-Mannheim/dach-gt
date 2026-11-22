@@ -6,6 +6,9 @@
   and March 2023 and first published in
   <https://github.com/UB-Mannheim/tudigi-gt>. That repository is no longer
   maintained; the transcriptions are continued here.
+  The notes from its wiki (how the work was done, and how transcriptions
+  from eScriptorium can be presented with the DFG viewer) are in the
+  [wiki of this repository](https://github.com/UB-Mannheim/dach-gt/wiki/DE-17-ULB-Darmstadt).
 
 ### URL examples
 

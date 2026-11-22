@@ -9,6 +9,9 @@ Das Hexen Buch.
   Carolin Sabokat in February and March 2023 and first published in
   <https://github.com/UB-Mannheim/stabi-berlin-gt>. That repository is no
   longer maintained; the transcriptions are continued here.
+  The notes from its wiki (how the work was done, and how transcriptions
+  from eScriptorium can be presented with the DFG viewer) are in the
+  [wiki of this repository](https://github.com/UB-Mannheim/dach-gt/wiki/DE-1-Staatsbibliothek-zu-Berlin).
 
 Die gesammten Materialien zu den preußischen Ausführungsgesetzen zum Bürgerlichen Gesetzbuch für das Deutsche Reich und seinen Nebengesetzen
 
