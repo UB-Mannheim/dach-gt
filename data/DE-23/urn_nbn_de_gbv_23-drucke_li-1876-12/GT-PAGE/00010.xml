@@ -82,7 +82,7 @@
         <Coords points="168,510 168,520 172,523 175,523 186,518 205,524 263,524 274,517 302,519 310,515 355,519 359,519 365,515 377,520 418,516 433,522 455,514 488,514 565,521 566,507 564,486 526,478 525,478 422,486 407,478 406,478 405,478 404,478 394,485 381,480 365,486 352,478 351,478 350,478 324,478 323,478 322,478 321,478 313,487 298,488 281,488 270,479 237,487 202,479 168,479 168,510"/>
         <Baseline points="168,510 566,507"/>
         <TextEquiv>
-          <Unicode>Vrӕ pedes eaſdem deponerem.</Unicode>
+          <Unicode>Vræ pedes eaſdem deponerem.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_1863b386" custom="structure {type:default;}">
@@ -110,7 +110,7 @@
         <Coords points="163,660 163,671 215,667 956,667 958,657 957,626 946,623 945,623 944,623 943,623 931,630 854,630 849,628 844,623 843,623 777,623 776,623 775,623 764,630 700,630 664,623 663,623 618,629 610,629 601,623 600,623 467,623 466,623 453,628 438,623 308,623 307,623 306,623 287,631 226,631 217,625 163,631 163,660"/>
         <Baseline points="163,660 456,655 958,657"/>
         <TextEquiv conf="0.9792281060802693">
-          <Unicode>tisſimam VIRI ILLUSTRES Dn. lohannes Fridericus à</Unicode>
+          <Unicode>tisſimam VIRI ILLUSTRES Dn. Iohannes Fridericus à</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_dfeb9f5a" custom="structure {type:default;}">
@@ -124,7 +124,7 @@
         <Coords points="165,746 165,755 256,752 296,756 316,750 432,750 463,758 527,758 538,750 569,750 635,758 636,758 689,751 739,758 740,758 780,751 795,757 825,751 836,755 866,751 957,754 959,743 958,718 935,718 922,710 894,715 878,709 839,709 827,718 750,718 735,710 732,710 714,718 675,718 663,712 652,716 606,708 605,708 546,714 520,708 519,708 518,708 499,716 433,708 432,708 365,713 312,708 311,708 310,708 297,715 223,709 165,715 165,746"/>
         <Baseline points="165,746 337,740 959,743"/>
         <TextEquiv>
-          <Unicode>ut &amp; Magnificus Dn. Auguſtus Carpzovius, S. C. Veſtrӕ</Unicode>
+          <Unicode>ut &amp; Magnificus Dn. Auguſtus Carpzovius, S. C. Veſtræ</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_22be511e" custom="structure {type:default;}">
