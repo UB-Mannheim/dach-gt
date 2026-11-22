@@ -26,7 +26,7 @@
         <Coords points="98,367 572,371 627,381 741,374 757,382 759,382 761,382 890,374 892,367 890,322 844,311 774,321 762,311 762,309 659,317 629,307 624,307 606,316 599,309 599,307 529,307 516,317 507,317 417,306 402,316 379,306 331,314 311,304 309,304 308,304 306,304 304,304 293,314 99,312"/>
         <Baseline points="99,357 892,367"/>
         <TextEquiv>
-          <Unicode>ten / vom jnnhalt der Buͤcher Johannis</Unicode>
+          <Unicode>ten/ vom jnnhalt der Buͤcher Johannis</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_35a1955f" >
@@ -120,14 +120,14 @@
         <Coords points="54,1060 353,1060 398,1068 399,1068 659,1060 661,1055 661,1015 56,1010 56,1051"/>
         <Baseline points="56,1051 661,1055"/>
         <TextEquiv>
-          <Unicode>Auß ihnen einer woluerſchuldt /</Unicode>
+          <Unicode>Auß ihnen einer woluerſchuldt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f4ce519b" >
         <Coords points="101,1103 707,1111 711,1101 709,1058 652,1051 652,1055 632,1055 627,1060 622,1056 617,1055 597,1055 589,1061 511,1061 492,1056 482,1055 442,1055 439,1058 431,1055 398,1055 384,1058 368,1053 329,1053 306,1058 288,1053 254,1053 244,1056 103,1056 103,1096"/>
         <Baseline points="103,1096 711,1101"/>
         <TextEquiv>
-          <Unicode>Entpfallen iſt der Gottes Huld /</Unicode>
+          <Unicode>Entpfallen iſt der Gottes Huld/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d9612753" >
@@ -141,14 +141,14 @@
         <Coords points="752,1144 677,1144 677,1148 642,1148 627,1154 576,1148 509,1148 491,1153 481,1148 456,1148 449,1153 379,1148 283,1149 279,1151 111,1149 111,1193 109,1204 759,1204 761,1198 759,1149 752,1144"/>
         <Baseline points="111,1193 761,1198"/>
         <TextEquiv>
-          <Unicode>In ſchweffeliſchen hellſchen theich /</Unicode>
+          <Unicode>In ſchweffeliſchen hellſchen theich/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_37221cb1" >
         <Coords points="56,1193 56,1241 56,1246 634,1249 636,1241 632,1198 622,1198 616,1201 606,1198 556,1198 539,1196 514,1196 422,1201 399,1196 374,1196 366,1203 123,1203"/>
         <Baseline points="56,1241 636,1241"/>
         <TextEquiv>
-          <Unicode>Da er denn jetz vnd ewig ſitzt /</Unicode>
+          <Unicode>Da er denn jetz vnd ewig ſitzt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_22e885f2" >
@@ -162,21 +162,21 @@
         <Coords points="106,1286 58,1286 58,1332 56,1339 687,1339 689,1336 687,1293 124,1293 108,1291"/>
         <Baseline points="58,1332 689,1336"/>
         <TextEquiv>
-          <Unicode>Vnd ob er gleich hart gbunden iſt /</Unicode>
+          <Unicode>Vnd ob er gleich hart gbunden iſt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_be9c7c76" >
         <Coords points="373,1334 371,1334 329,1336 326,1334 323,1334 306,1334 294,1334 289,1336 274,1334 273,1334 256,1334 239,1334 223,1334 206,1334 189,1334 173,1334 156,1334 139,1334 123,1334 106,1334 106,1376 104,1381 636,1384 639,1379 637,1336 389,1336"/>
         <Baseline points="106,1376 639,1379"/>
         <TextEquiv>
-          <Unicode>So lugt er doch zů aller friſt /</Unicode>
+          <Unicode>So lugt er doch zů aller friſt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_601fe552" >
         <Coords points="639,1377 639,1379 601,1379 504,1387 447,1379 429,1379 391,1387 374,1382 364,1377 358,1377 274,1387 246,1377 244,1377 243,1377 241,1377 239,1377 239,1379 229,1389 158,1389 56,1377 56,1427 56,1432 762,1434 764,1427 764,1396 746,1387"/>
         <Baseline points="56,1427 764,1427"/>
         <TextEquiv>
-          <Unicode>Wenn es jhm anderſt mag gelingen /</Unicode>
+          <Unicode>Wenn es jhm anderſt mag gelingen/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4acd702d" >
@@ -190,21 +190,21 @@
         <Coords points="58,1532 606,1522 606,1516 601,1477 56,1477"/>
         <Baseline points="58,1522 606,1516"/>
         <TextEquiv>
-          <Unicode>Wiltu nu vor ihm ſicher ſein /</Unicode>
+          <Unicode>Wiltu nu vor ihm ſicher ſein/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2f87c15f" >
         <Coords points="103,1524 104,1572 662,1574 666,1560 659,1516 641,1526 476,1526 462,1517 447,1519 439,1527 398,1527 389,1519 273,1521 268,1527 256,1521 234,1521 219,1526 196,1521 166,1522 163,1526 143,1522 106,1522"/>
         <Baseline points="104,1565 666,1560"/>
         <TextEquiv>
-          <Unicode>So were das der rhate mein /</Unicode>
+          <Unicode>So were das der rhate mein/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_26c33cab" >
         <Coords points="766,1562 757,1562 754,1562 722,1572 617,1572 609,1564 609,1562 607,1562 606,1562 604,1562 602,1562 599,1562 574,1570 549,1562 546,1562 544,1562 542,1562 541,1562 537,1562 511,1570 457,1564 388,1564 358,1569 323,1564 263,1565 253,1569 106,1564 58,1564 58,1612 56,1617 801,1622 804,1615 797,1567 791,1567 787,1570"/>
         <Baseline points="58,1612 804,1615"/>
         <TextEquiv>
-          <Unicode>Du keuffteſt dis bůch vmb ringes gelt /</Unicode>
+          <Unicode>Du keuffteſt dis bůch vmb ringes gelt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_21e05a6b" >

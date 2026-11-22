@@ -40,7 +40,7 @@
         <Coords points="249,1830 1975,1855 1979,1834 1979,1792 1899,1781 1839,1790 1693,1779 1434,1784 1408,1773 1404,1773 1277,1783 1269,1779 1264,1773 1233,1777 1216,1781 1116,1769 974,1779 824,1765 778,1775 717,1765 602,1773 540,1761 498,1771 416,1761 391,1761 272,1769 253,1760 249,1830"/>
         <Baseline points="251,1811 1979,1834"/>
         <TextEquiv>
-          <Unicode>der welt lauff / hendel / art / woꝛt / werck / thuͦn / laſſen / kriegen / weſen / vnd leben</Unicode>
+          <Unicode>der welt lauff/ hendel/ art/ woꝛt/ werck/ thuͦn/ laſſen/ kriegen/ weſen/ vnd leben</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_67d38075" >
@@ -54,14 +54,14 @@
         <Coords points="247,1938 1974,1961 1977,1945 1975,1905 1841,1894 1799,1903 1780,1892 1563,1901 1517,1888 1513,1888 1452,1899 1292,1899 1252,1884 1147,1894 1114,1882 1110,1882 1041,1894 1032,1894 999,1882 822,1878 753,1890 744,1890 719,1878 569,1888 544,1888 517,1875 516,1875 514,1875 249,1882 249,1922"/>
         <Baseline points="249,1922 1977,1945"/>
         <TextEquiv>
-          <Unicode>ten vnd thattẽ / guͦten vnd boͤſen Regimentẽ / Decretẽ. ꝛc. Von allẽ Roͤmiſchen</Unicode>
+          <Unicode>ten vnd thattẽ/ guͦten vnd boͤſen Regimentẽ/ Decretẽ. ꝛc. Von allẽ Roͤmiſchen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_338f8a79" >
         <Coords points="247,1993 1974,2020 1977,1997 1975,1955 249,1932 249,1978"/>
         <Baseline points="249,1978 1977,1997"/>
         <TextEquiv>
-          <Unicode>Reiſern / Baͤpſten / Concilien / Ketzern / Orden vñ Secten / beide &amp; Juden / vñ</Unicode>
+          <Unicode>Reiſern/ Baͤpſten/ Concilien/ Ketzern/ Orden vñ Secten/ beide &amp; Juden/ vñ</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_cc0b4144" >
@@ -75,56 +75,56 @@
         <Coords points="249,2112 1972,2130 1975,2108 1974,2068 1745,2055 1699,2064 1459,2064 1425,2057 1383,2051 1285,2061 1112,2047 995,2049 813,2055 780,2045 765,2043 617,2053 598,2041 562,2041 416,2049 400,2039 251,2038 251,2089"/>
         <Baseline points="251,2089 1975,2108"/>
         <TextEquiv>
-          <Unicode>ſchẽ kirchẽ / als der Bilder / H.eer / Meſß / Ceremonien. ꝛc. ſo yetz im Bapſtumb</Unicode>
+          <Unicode>ſchẽ kirchẽ/ als der Bilder/ H.eer/ Meſß/ Ceremonien. ꝛc. ſo yetz im Bapſtumb</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2308bb7e" >
         <Coords points="253,2158 423,2172 819,2168 1962,2191 1966,2162 1964,2120 255,2103 255,2139"/>
         <Baseline points="255,2139 1966,2162"/>
         <TextEquiv>
-          <Unicode>im ſchwanck geen / wie eins nach dem anderen ſey einbꝛochen / was / wa / wañ/</Unicode>
+          <Unicode>im ſchwanck geen/ wie eins nach dem anderen ſey einbꝛochen/ was/ wa/ wañ/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_695ab0ed" >
         <Coords points="306,2210 416,2223 450,2216 514,2225 583,2218 711,2229 1914,2243 1918,2222 1916,2183 308,2149 308,2191"/>
         <Baseline points="308,2191 1918,2222"/>
         <TextEquiv>
-          <Unicode>durch wen / vnd warumb. Ankunfft viler Reich / breüch / neüwer fünd. ꝛc.</Unicode>
+          <Unicode>durch wen/ vnd warumb. Ankunfft viler Reich/ breüch/ neüwer fünd. ꝛc.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f6610d9c" >
         <Coords points="358,2285 1851,2312 1855,2285 1853,2246 1793,2235 1789,2235 1766,2246 1561,2246 1479,2229 1377,2243 1346,2227 1177,2237 1106,2223 1037,2223 1018,2237 991,2237 811,2225 757,2233 746,2223 665,2231 615,2220 610,2220 579,2229 481,2214 397,2214 395,2214 393,2214 370,2223 360,2260"/>
         <Baseline points="360,2262 1855,2285"/>
         <TextEquiv>
-          <Unicode>Summa hieriñ findeſtu gleich ein begriff / ſummari / innhalt vñ ſchatzkammer / nit aller/</Unicode>
+          <Unicode>Summa hieriñ findeſtu gleich ein begriff/ ſummari/ innhalt vñ ſchatzkammer/ nit aller/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_01207457" >
         <Coords points="395,2333 402,2339 408,2339 531,2331 613,2340 677,2333 815,2333 815,2335 826,2344 1103,2339 1131,2340 1248,2350 1348,2342 1406,2352 1408,2354 1812,2354 1814,2329 1812,2294 397,2273 397,2310"/>
         <Baseline points="397,2310 1814,2329"/>
         <TextEquiv>
-          <Unicode>ſunder der Chꝛonickwirdigſten / außerleßnen Hiſtoꝛien / eingeleibt / vnnd auß vilen</Unicode>
+          <Unicode>ſunder der Chꝛonickwirdigſten/ außerleßnen Hiſtoꝛien/ eingeleibt/ vnnd auß vilen</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a6b4c749" >
         <Coords points="460,2371 483,2383 778,2379 832,2388 884,2381 913,2390 1106,2385 1114,2388 1122,2394 1206,2386 1239,2396 1647,2394 1755,2404 1759,2377 1757,2339 462,2323 462,2354"/>
         <Baseline points="462,2354 1759,2377"/>
         <TextEquiv>
-          <Unicode>von weittem doch angenummenen glaubwirdigen buͤchern / gleich als in ein</Unicode>
+          <Unicode>von weittem doch angenummenen glaubwirdigen buͤchern/ gleich als in ein</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ce0b352e" >
         <Coords points="554,2429 1672,2440 1676,2423 1674,2390 1177,2373 556,2373 556,2406"/>
         <Baseline points="556,2406 1676,2423"/>
         <TextEquiv>
-          <Unicode>ymmen korb muͤſelig zuͦſamen tragen / in ſeer guͦtter oꝛdnung für</Unicode>
+          <Unicode>ymmen korb muͤſelig zuͦſamen tragen/ in ſeer guͦtter oꝛdnung für</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a33f712d" >
         <Coords points="644,2471 654,2478 659,2478 709,2469 757,2480 857,2471 874,2482 991,2473 1156,2486 1202,2478 1214,2488 1283,2478 1294,2478 1329,2490 1331,2490 1333,2490 1559,2484 1561,2467 1559,2429 646,2413 646,2452"/>
         <Baseline points="646,2452 1561,2467"/>
         <TextEquiv>
-          <Unicode>die augen geſtelt / vnd in iij Chronick od hauptbuͤcher/</Unicode>
+          <Unicode>die augen geſtelt/ vnd in iij Chronick od hauptbuͤcher/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_07719a46" >
@@ -138,14 +138,14 @@
         <Coords points="822,2574 1396,2574 1398,2551 1396,2523 824,2507 824,2544"/>
         <Baseline points="824,2544 1398,2551"/>
         <TextEquiv>
-          <Unicode>Woͤnd / voꝛmals in teütſcher zun⸗</Unicode>
+          <Unicode>Woͤnd/ voꝛmals in teütſcher zun⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_9fe07f0c" >
         <Coords points="884,2617 951,2615 957,2618 966,2626 966,2628 1043,2630 1043,2628 1058,2615 1131,2615 1166,2632 1172,2632 1193,2624 1229,2634 1231,2634 1233,2634 1235,2634 1292,2617 1294,2597 1292,2563 886,2557 886,2590"/>
         <Baseline points="886,2590 1294,2597"/>
         <TextEquiv>
-          <Unicode>gen / nie gehoͤꝛt noch ge⸗</Unicode>
+          <Unicode>gen/ nie gehoͤꝛt noch ge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_7596ca2b" >
@@ -166,7 +166,7 @@
         <Coords points="585,2824 1615,2835 1619,2814 1617,2774 1492,2774 1475,2760 1367,2760 1367,2762 1360,2770 1358,2770 1356,2768 1319,2758 1245,2768 1229,2768 1200,2756 1126,2766 1116,2766 1101,2755 1001,2764 974,2753 890,2762 874,2762 813,2751 778,2760 769,2760 656,2749 654,2749 587,2756 587,2799"/>
         <Baseline points="587,2799 1619,2814"/>
         <TextEquiv>
-          <Unicode>gantzen Chꝛonicken / findeſtu zuͦ ruck diß plats.</Unicode>
+          <Unicode>gantzen Chꝛonicken/ findeſtu zuͦ ruck diß plats.</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_04473eb2" >

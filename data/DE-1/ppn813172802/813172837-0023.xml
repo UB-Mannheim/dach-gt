@@ -19,14 +19,14 @@
         <Coords points="81,278 226,276 301,286 356,278 429,288 569,281 609,289 676,283 824,294 826,294 929,284 931,279 929,236 89,221 83,231 83,266"/>
         <Baseline points="83,266 931,279"/>
         <TextEquiv>
-          <Unicode>andern theil / in welchem von denen gehand⸗</Unicode>
+          <Unicode>andern theil/ in welchem von denen gehand⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_ba059b52" >
         <Coords points="164,336 844,339 847,334 846,289 363,274 288,281 281,273 264,273 194,279 168,271 166,324 164,336"/>
         <Baseline points="166,324 847,334"/>
         <TextEquiv>
-          <Unicode>let wirt / welche als man meint von</Unicode>
+          <Unicode>let wirt/ welche als man meint von</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_db0dcb32" >
@@ -40,7 +40,7 @@
         <Coords points="231,451 229,451 228,451 226,451 124,451 123,504 929,512 932,507 924,477 891,472 874,471 857,467 807,462 796,459 784,464 771,467 709,456 704,456 694,466 616,466 604,456 604,454 564,459 539,464 509,454 298,462 284,454 283,452 276,452 244,461"/>
         <Baseline points="124,499 932,507"/>
         <TextEquiv>
-          <Unicode>Welche veruntrewt heiſſen / auch welchern</Unicode>
+          <Unicode>Welche veruntrewt heiſſen/ auch welchern</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_dbbdc89e" >
@@ -61,7 +61,7 @@
         <Coords points="74,606 929,606 931,599 929,561 76,551 76,592"/>
         <Baseline points="76,592 931,599"/>
         <TextEquiv>
-          <Unicode>thůer / vnnd daß alle die ſo man vermeint von</Unicode>
+          <Unicode>thůer/ vnnd daß alle die ſo man vermeint von</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_52358420" >
@@ -75,7 +75,7 @@
         <Coords points="216,639 208,639 191,639 189,639 176,646 74,644 73,697 924,702 927,692 926,652 896,646 856,646 819,651 802,651 731,644 687,644 616,649 598,649 589,642 568,642 518,649 504,642 414,641 408,647 381,641 363,641 334,647 303,646"/>
         <Baseline points="74,685 927,692"/>
         <TextEquiv>
-          <Unicode>ſein / von dem Teuffel beſeſſen vnnd getrieben</Unicode>
+          <Unicode>ſein/ von dem Teuffel beſeſſen vnnd getrieben</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_d503c506" >
@@ -110,91 +110,91 @@
         <Coords points="409,989 499,989 509,980 551,994 556,994 579,982 624,994 719,985 726,987 741,995 744,995 792,985 891,999 892,999 894,999 926,985 927,935 411,929 411,970"/>
         <Baseline points="413,972 929,980"/>
         <TextEquiv>
-          <Unicode>oder veruntrewet / welche</Unicode>
+          <Unicode>oder veruntrewet/ welche</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_48ed80fa" >
         <Coords points="544,979 543,979 541,979 521,989 514,989 479,979 478,979 476,979 474,979 473,979 464,989 409,989 408,1048 921,1048 922,1037 922,989 904,980 897,980 884,992 827,992 794,980 789,980 771,989 766,990 757,989 727,980 721,980 721,982 714,989 711,990 701,989 672,982 616,989 598,989"/>
         <Baseline points="409,1033 922,1037"/>
         <TextEquiv>
-          <Unicode>auff viel / mancherley vnd</Unicode>
+          <Unicode>auff viel/ mancherley vnd</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_2830a937" >
         <Coords points="411,1100 926,1098 927,1092 926,1043 413,1042 413,1090"/>
         <Baseline points="413,1090 927,1092"/>
         <TextEquiv>
-          <Unicode>mehrtheils ſeltzame / vnge⸗</Unicode>
+          <Unicode>mehrtheils ſeltzame/ vnge⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_bdae1955" >
         <Coords points="238,1142 176,1142 169,1145 108,1148 98,1152 89,1148 86,1150 69,1150 68,1207 917,1217 921,1203 919,1158 751,1158 679,1147 627,1157 614,1147 607,1147 578,1157 526,1145 431,1155 409,1143 404,1143 383,1155 303,1155 291,1143"/>
         <Baseline points="69,1195 921,1203"/>
         <TextEquiv>
-          <Unicode>auſſerhalb dem algemeiuen lauff der natur /</Unicode>
+          <Unicode>auſſerhalb dem algemeiuen lauff der natur/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b698bd22" >
         <Coords points="408,1152 634,1163 721,1157 754,1165 756,1165 757,1165 919,1157 921,1148 921,1097 409,1097"/>
         <Baseline points="409,1143 921,1148"/>
         <TextEquiv>
-          <Unicode>woͤnliche weiß vnd geſtalt /</Unicode>
+          <Unicode>woͤnliche weiß vnd geſtalt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_a6c07253" >
         <Coords points="146,1197 144,1197 71,1203 71,1252 69,1260 847,1277 849,1277 921,1268 922,1263 921,1207 822,1215 806,1205 784,1205 684,1213 671,1205 453,1210 438,1200 336,1208 253,1208 244,1200 244,1198 238,1198 214,1207"/>
         <Baseline points="71,1252 922,1263"/>
         <TextEquiv>
-          <Unicode>auß verhengniß Gottes / von dem Teuffel</Unicode>
+          <Unicode>auß verhengniß Gottes/ von dem Teuffel</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_c066c1a5" >
         <Coords points="73,1323 654,1323 794,1333 796,1333 914,1325 916,1318 914,1265 74,1258"/>
         <Baseline points="74,1307 916,1318"/>
         <TextEquiv>
-          <Unicode>getrieben worden / es ſeind gleich menſchen /</Unicode>
+          <Unicode>getrieben worden/ es ſeind gleich menſchen/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_c74ec6ab" >
         <Coords points="69,1370 241,1381 393,1375 398,1376 408,1383 414,1383 438,1376 443,1376 919,1385 922,1373 922,1325 71,1320 71,1365"/>
         <Baseline points="71,1365 922,1373"/>
         <TextEquiv>
-          <Unicode>oder andere vnuernuͤnfftige thiere / ſo er nem</Unicode>
+          <Unicode>oder andere vnuernuͤnfftige thiere/ ſo er nem</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_deb4a16e" >
         <Coords points="218,1366 216,1366 214,1366 213,1366 71,1373 71,1421 69,1430 917,1438 921,1428 919,1381 706,1371 639,1371 521,1378 494,1378 478,1370 464,1370 444,1376 373,1368 229,1375"/>
         <Baseline points="71,1421 921,1428"/>
         <TextEquiv>
-          <Unicode>lich ſich entwed's in ſie hinein ſchleicht / oder</Unicode>
+          <Unicode>lich ſich entwed's in ſie hinein ſchleicht/ oder</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f967c644" >
         <Coords points="69,1485 119,1495 251,1488 496,1498 498,1498 919,1491 921,1483 919,1440 827,1430 822,1430 814,1438 814,1440 741,1440 709,1428 704,1428 677,1436 647,1428 641,1428 632,1436 612,1428 607,1428 589,1438 498,1438 469,1426 411,1435 401,1426 346,1433 283,1425 281,1425 71,1431 71,1476"/>
         <Baseline points="71,1476 921,1483"/>
         <TextEquiv>
-          <Unicode>nit hinein ſchleicht / ſondern die gůten nuͤtzli⸗</Unicode>
+          <Unicode>nit hinein ſchleicht/ ſondern die gůten nuͤtzli⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_4aafb041" >
         <Coords points="73,1543 914,1555 917,1545 914,1488 846,1496 802,1486 782,1486 711,1495 676,1486 664,1485 662,1485 74,1485"/>
         <Baseline points="74,1533 917,1545"/>
         <TextEquiv>
-          <Unicode>chen humores oder feuchtigkeitē / vnruͤmig</Unicode>
+          <Unicode>chen humores oder feuchtigkeitē/ vnruͤmig</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_add5dda3" >
         <Coords points="178,1535 176,1535 174,1535 79,1543 71,1555 71,1588 69,1596 91,1605 214,1598 251,1606 349,1600 353,1601 361,1608 634,1603 667,1611 707,1610 776,1605 917,1613 921,1598 921,1546 834,1545 821,1551 667,1541 642,1550 583,1541 563,1540 503,1548 468,1540 448,1540 404,1546 393,1545 361,1538 348,1538 339,1546 214,1546"/>
         <Baseline points="71,1588 921,1598"/>
         <TextEquiv>
-          <Unicode>macht vnd verletzt / ſchedliche aber in die fuͤr⸗</Unicode>
+          <Unicode>macht vnd verletzt/ ſchedliche aber in die fuͤr⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f31bf2c2" >
         <Coords points="71,1665 917,1671 921,1653 919,1606 73,1598 73,1646"/>
         <Baseline points="73,1646 921,1653"/>
         <TextEquiv>
-          <Unicode>nembſten glider fuͤrt / oder die adern vnnd in⸗</Unicode>
+          <Unicode>nembſten glider fuͤrt/ oder die adern vnnd in⸗</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_bdf1b0dc" >

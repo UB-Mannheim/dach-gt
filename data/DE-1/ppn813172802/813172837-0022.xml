@@ -19,7 +19,7 @@
         <Coords points="934,186 817,186 801,186 784,186 767,186 751,186 734,186 731,186 729,186 684,194 647,188 631,188 607,196 551,189 551,191 534,193 441,194 383,199 349,196 334,198 301,198 289,194 284,198 286,246 994,241 994,231 990,189 967,189"/>
         <Baseline points="286,241 994,231"/>
         <TextEquiv>
-          <Unicode>Denn warlich darff ich das verjehen /</Unicode>
+          <Unicode>Denn warlich darff ich das verjehen/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f581280c" >
@@ -40,14 +40,14 @@
         <Coords points="885,326 869,326 852,326 847,326 835,331 787,326 734,327 724,334 711,327 692,327 672,337 642,337 632,327 619,329 572,329 562,337 336,332 338,384 456,392 457,392 459,392 481,384 581,391 591,382 932,386 945,377 945,371 942,332 887,326 885,326"/>
         <Baseline points="338,379 945,371"/>
         <TextEquiv>
-          <Unicode>So anders gifft nicht iſt darbey /</Unicode>
+          <Unicode>So anders gifft nicht iſt darbey/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_f5300736" >
         <Coords points="286,377 288,436 924,429 924,416 919,372 817,377 804,374 761,374 752,377 739,374 712,374 702,382 646,382 632,376 607,376 601,381 571,376 492,377 386,386 366,379 336,379 334,376"/>
         <Baseline points="288,426 924,416"/>
         <TextEquiv>
-          <Unicode>Wie man den bſeßnen helffen ſol /</Unicode>
+          <Unicode>Wie man den bſeßnen helffen ſol/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_47853ef8" >
@@ -61,7 +61,7 @@
         <Coords points="289,469 291,522 887,515 889,509 885,474 804,474 804,472 794,464 779,465 771,472 721,465 704,465 692,475 614,475 611,470 604,465 591,465 546,475 501,467 497,467 477,475"/>
         <Baseline points="291,515 889,509"/>
         <TextEquiv>
-          <Unicode>d Gifftbreiter / Hexen / Zeuberer</Unicode>
+          <Unicode>d Gifftbreiter/ Hexen/ Zeuberer</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_cc32136d" >
@@ -89,7 +89,7 @@
         <Coords points="892,650 875,650 859,650 842,650 825,650 809,650 792,650 776,650 759,650 742,650 726,650 709,650 692,652 359,652 358,650 296,650 293,670 294,705 905,700 905,693 900,650 892,650"/>
         <Baseline points="294,700 905,693"/>
         <TextEquiv>
-          <Unicode>Die dich zů dieſer arbeit bwegt /</Unicode>
+          <Unicode>Die dich zů dieſer arbeit bwegt/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_b0777d7b" >
@@ -103,7 +103,7 @@
         <Coords points="1034,735 1032,735 1030,735 1029,735 995,740 995,742 985,742 954,747 915,742 852,742 837,745 829,742 804,742 791,748 756,742 726,742 706,748 662,742 629,743 629,745 624,750 576,743 541,743 524,750 484,743 296,743 298,808 358,800 399,808 402,808 404,808 411,808 481,798 559,807 572,798 704,805 776,797 786,805 794,805 801,798 807,795 962,803 967,803 977,795 1129,802 1139,792 1139,785 1137,782 1129,747 1047,747 1047,745"/>
         <Baseline points="298,793 1139,785"/>
         <TextEquiv>
-          <Unicode>Moͤchſt ſpꝛechen einr gantzē Gemein zů gut /</Unicode>
+          <Unicode>Moͤchſt ſpꝛechen einr gantzē Gemein zů gut/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_0a74dcaf" >
@@ -131,7 +131,7 @@
         <Coords points="869,923 852,923 835,923 819,923 802,923 786,923 769,923 752,925 609,926 592,930 564,926 502,926 474,931 467,928 441,928 434,931 427,928 398,928 383,933 309,925 303,931 304,988 561,980 594,981 651,986 666,978 702,978 824,983 877,973 877,966 874,923 869,923"/>
         <Baseline points="304,975 877,966"/>
         <TextEquiv>
-          <Unicode>Jedoch ſo troͤſt dich deſſen wol /</Unicode>
+          <Unicode>Jedoch ſo troͤſt dich deſſen wol/</Unicode>
         </TextEquiv>
       </TextLine>
       <TextLine id="eSc_line_512e01c8" >
