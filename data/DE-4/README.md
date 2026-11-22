@@ -16,3 +16,18 @@ ocrd --log-level INFO workspace bulk-add -r '(?P<n>[0-9]*) alto/image(?P<pageid>
 -G FULLTEXT --file-id 'fulltext_{{ n }}' --page-id='phys_tif_{{ n }}' --mimetype text/xml \
 --url 'https://raw.githubusercontent.com/UB-Mannheim/dach-gt/refs/heads/main/data/DE-4/urn_nbn_de_hebis_04-eb2010-01689/alto/image{{ pageid }}.xml' -
 ```
+
+### Page images
+
+The PAGE files refer to the images of the file group `DEFAULT` of the METS
+file. To get them:
+
+```
+cd urn_nbn_de_hebis_04-eb2010-01689/GT-PAGE
+for x in *.xml; do
+  curl -O https://archiv.ub.uni-marburg.de/eb/2010/0168/jpg/def/${x%.xml}.jpg
+done
+```
+
+In November 2026 the server did not send its intermediate certificate, so
+that curl needed the option `-k` (Firefox showed no problem).
